@@ -129,10 +129,10 @@ Our approach is backed by:
 cd your-project
 
 # Clone the Trinity
-git clone https://github.com/YOUR_USERNAME/trinity-collective-intelligence.git trinity
+git clone https://github.com/kagrawal29/trinity-collective-intelligence.git trinity
 
 # Or add as a submodule (recommended for git projects)
-git submodule add https://github.com/YOUR_USERNAME/trinity-collective-intelligence.git trinity
+git submodule add https://github.com/kagrawal29/trinity-collective-intelligence.git trinity
 ```
 
 2. **Activate Guide**:
