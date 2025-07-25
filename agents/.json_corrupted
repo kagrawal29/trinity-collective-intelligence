@@ -1,0 +1,6 @@
+{
+  "timestamp": "2025-07-24T23:52:50.057435",
+  "error": "Expecting property name enclosed in double quotes: line 356 column 5 (char 17475)",
+  "handler": "guide",
+  "action_needed": "Reset comm.json and recover from archive if possible"
+}
