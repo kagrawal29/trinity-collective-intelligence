@@ -1,0 +1,591 @@
+{
+  "analysis_timestamp": "full_engagement_20250727_182551.json",
+  "report": {
+    "total_unique_leads": 192,
+    "qualified_leads": 63,
+    "qualification_rate": 32.8125,
+    "engagement_breakdown": {
+      "comment": 49,
+      "reaction": 143
+    },
+    "qualified_breakdown": {
+      "reaction": 45,
+      "comment": 18
+    }
+  },
+  "score_distribution": {
+    "90-100": 0,
+    "70-89": 63,
+    "50-69": 129,
+    "0-49": 0
+  },
+  "qualified_leads": [
+    {
+      "name": "Rajeev Patil",
+      "title": "Sr. Manager Sales, Dubai & Northern Emirates Sales at Emirates Airline",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAACKNEQBttD0qXOXvTigASOAfHQh94flsRE",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Sara Simmonds",
+      "title": "CEO Impact Innovator",
+      "company": "Helping Purpose Driven Entrepreneurs Scale to $1 Million, $50 Million and Beyond | Follow Me For Systems On Sustainable Growth \ud83c\udf0e",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAAKgh5YBVCEtOJl9bSwm2687-JWJxhxgi7U",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Brice Maurln",
+      "title": "CEO chez LGM",
+      "company": "Get more Replies with Multichannel Outbound.",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAFjM54UBESElI_aqSAKRCXuXYvww6MDZros",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Afaq Ahmed",
+      "title": "Director of Growth & Strategy @ 7X",
+      "company": "Growth Strategist | Driving Strategic Partnerships & Disruptive Models | Startup Builder | Investment Portfolio Expert | Scaling Ventures to Exit| The architect of possibility",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAAI2FiIBUd7G9X0ExMDh3leqpkB8oa-R_rg",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "kuldip parmar",
+      "title": "Turning Founders into Thought Leaders & Workflows into AI Agents",
+      "company": "LinkedIn Ghostwriting + Automation Expert | Building TrueVibess",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAEAXOZABOCFeoorzUHdisVRFHlz3f9zo6u8",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Erez ZohaR",
+      "title": "Creative Director & Founder",
+      "company": "Sourcex 3D Technology studio",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAABwuALIBvX37IqdoNHPU30it_OiQJPfJq6s",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Vaibbhav Sutar",
+      "title": "Founder @ Threevaay",
+      "company": "B2B: Client Acquisition, Email, AI Agents | B2C: Content, Social Media, Performance Ads",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAFdU19oBgZjLA2YT2FsNlTL1BBj5xFSySWs",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Jani Vrancsik",
+      "title": "Enterprise Clay Partner agency founder",
+      "company": "Sales leaders: I'll help you build a scalable outbound engine that gets meetings booked on autopilot in the next 180 days | DM me \"outbound\" to learn more",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAAyVlXMBT484Y_KLDJqBYrRXUvNb9emEq9I",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Krishan Singh",
+      "title": "Founder Digital Gravitas",
+      "company": "Master's Union| National Level Medalist | Lifelong learner",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAADgqqrwBb_L9DUVuW6_RLIfDu3iFWDphdHk",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Rahul Dewangan",
+      "title": "AI Expert & Founder \u2013 WorkRunAI",
+      "company": "Helping Businesses Scale & Automate with AI | Lead Generation \u2022 CRM Automation \u2022 AI Voice & Chat Assistants",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAEXVY04BLiqYXR96nGje-vkHpO4fz4IRmPE",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Dashrath Singh",
+      "title": "I help SMB's grow their revenue through email marketing without breaking their bank",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAAnl0uQBC6nKBp-vT4FzGdixC-5giNwK3vE",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Anum A",
+      "title": "Chief Growth Officer @ 2BTech",
+      "company": "AI Agent Builder (Sales, Marketing, Real Estate, Bookkeeping) | Voice Agent Dev | Content & Growth Strategist | Generative AI + LLMs",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAC7qp9UBO7fO5LJ84KupOfGxkgnYtZY2j2w",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Danyaal Abdullah",
+      "title": "Teenage brain wired for marketing, sales & human behavior",
+      "company": "I obsess over copy that converts, ideas that spread, and psychology that sells",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAD3LD2kB5bf4IAUjhVDdI76gC1GKhk_sGNs",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Ruben Bisso",
+      "title": "Founder @mygaz.io",
+      "company": "I build products | AI-Powered Products",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAACQsm0QBPFCsI76XjUw1zdCYIoyjRnIsxg8",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Samuel Darwin",
+      "title": "Co-Founder & CEO. Helping Businesses Scale.",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAAOZu7EBjGhQy9TQQqhtLhvn9-3MC1jqTpY",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Vaibhav Tripathi",
+      "title": "Growth Marketer @Tangence",
+      "company": "Digital Marketing | B2B | SEO & SMM | Upwork Expert | Google & Meta Ads",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAACU4hSoBXkp-gT-p07rKrBfnB1RmpP04Ook",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Muhammad Hassan Bilal",
+      "title": "Digital Growth Partner",
+      "company": "Turning Outdated Brands into Digital Powerhouses with AI Workflows, Killer Creatives & Growth Systems That Actually Work",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAETHGd4BSqoF7rzqla5pZGMY5_N9GMrs42c",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Rahul Patil",
+      "title": "Helping Shopify Merchants Scale In-App Revenue",
+      "company": "Mobile App GTM & Success Strategy",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAACxXVGMB1_xOPE6A6QQZAMjjfJd7_Xl6bQ8",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Ritij Srivastava",
+      "title": "Founder @ VertaFlow",
+      "company": "Scaling Agencies & SaaS with AI Agents, Funnel Systems & Automation-led Growth",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAD41T3YBBlwSWmEYzVQsvcEdJtzz2h0pZeo",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "HUGO van DIEPEN",
+      "title": "Co-founder @ Stairoids",
+      "company": "We spot B2B buyers before they show up | Activate hidden pipeline for sales & marketing teams | Also building @ Leadgate Europe & @ Side&Kick",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAAFeRqcBSSP_VQV0csXkyGb9Wq5AwKGo3IQ",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Mohammed Tahur Sayed",
+      "title": "Helping EdTech Companies Accelerate Growth Through Digital Strategy, Procurement Expertise & Trusted School Partnerships",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAC6fkFsBhDrgMzUC4n82G95BpFgV7JnNs8E",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Shivam Das",
+      "title": "Helping High-Ticket Coaches & Agencies Book 30\u201350 Sales Calls with Ready-to-Buy Leads in 60 Days or they don't pay \u2014 Powered by AI. No Setters. No Extra Ad Spend.",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAFAdBA4BfyBA-SzOvnq4PH0MS_hp-sJA51Q",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Shivam Singh",
+      "title": "Helping Software Training Institutes build Proven Lead Acquisition Systems that 6X their Revenue",
+      "company": "Founder @LeksaGlobal",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAADSjt9EBIzEiWavpN-yLsBRkzrusyRGEynw",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Abu Huraira Bin Aman",
+      "title": "Co-Founder and CTO @ ThriveDesk",
+      "company": "15+ Years Industry Experience",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAAwxM_kBhHsjsfGLIUTAlPjNI_FHefAh3sg",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Arushi Malviya",
+      "title": "Founder @Inizio Media",
+      "company": "Helping B2B Founders & CEOs fill their sales pipeline through content & DM outreach | Personal Brand-led business growth",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAADX8CvUBd_6uiN4ltuKgjbrf8yTgRsqZXJI",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Charley Cash - AI Automation Specialist",
+      "title": "I Help Entrepreneurs Build An AI Sales Loop System\u2122 To Close Clients Predictably With Top Proven Sales Closers On A Commission Basis. We Have Scaled 300+ Businesses",
+      "company": "Book A FREE Game Plan Call Now! \ud83d\udc47\ud83d\udc47",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAA8UHEEBb-4gLXNyS7yPhiCVr8D1x0vymTg",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Max Mitcham",
+      "title": "Founder & CEO @Trigify.io - Contact based signals through social media",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAABHm_G8B9sZV1wm8cLPGhiqQ_QPGpanNLSA",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Ajay Pradeep S R",
+      "title": "Founder at AJ Ventures",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAAYuN1MBaU-AZIGEred3I7rW-_VBrsvnAT4",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Nayan Tehlani",
+      "title": "\ud83d\ude80 I Build AI-Powered Content & Growth Systems for Founders",
+      "company": "Manager @ Build The Brand",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAADxSKM0BwzAoFUfFmVQ5YEXc-D9iIM1-EXI",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Juliano Rodrigues",
+      "title": "Increase sales and reduce churn with AI agents & GTM strategies @Brandpage",
+      "company": "I share my learning journey in AI and Data Science. Follow me and let's grow together!",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAACr86BcBfZlc9sV46MQJvN44lTl_Pam5uL8",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Divyanshi Sharma",
+      "title": "Co-Founder @AcquisitionX",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAADIWFJcBj5zbsAjb1mDBIFOlmqfumfLSZqs",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Muhammad Raza",
+      "title": "Founder@LunalinkAi",
+      "company": "AI-Pow Software Engineer | AI Voice Solutions | AI Call Centre |",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAEe6ecABMTgThlgMSXdejH5bYG7oiyClTW4",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Kiran Chavan",
+      "title": "B2B Sales Catalyst: Working with startups & SMBs 3x pipeline with proven outreach framework",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAB8IZRgBZGQj-0TFY3fDjtXaVd8qhlA5qPo",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Ankith H",
+      "title": "I help B2B companies to generate more revenue without a massive sales team by building automated growth infrastructures",
+      "company": "GTM Strategist |",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAEQik5oBFJcMtwGBQRQQavsOpH-RiDocBtc",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Ranjana Jha",
+      "title": "I build Personal Brands for CEOs, VCs, & CXOs",
+      "company": "AI Automation | Lead Generation | Linkdin Branding Strategist | SWE @Praxzen | Ex-Atlassian",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAFAnRUQBUSZ3UGmMCunUPOSXMOUHjB0KQYA",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Manish S",
+      "title": "Co-founder at Stravix AI",
+      "company": "Automate Sales and Customer Support with Enterprise-Grade AI Voice Agents",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAEm7WXcBr4YlS4KdCorM-C3GDioCLybJ210",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Raouf Lemouchi",
+      "title": "GTM Expert - Founder of STS - the media that gives you unfair B2B advantage",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAClnHwQBHcROBjsTiRVAvGkfq_R69YDiVOs",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Priyanka S",
+      "title": "Growth @AcquisitionX",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAD6jXaoBq6OCJjijTpOsqbYka1siXRqnmIw",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Ronit Bajaji",
+      "title": "LinkedIn Growth Expert",
+      "company": "Helping Coaches & Consultants Get 25 to 30 Consistent High-Ticket Leads Using LinkedIn + AI | B2B Lead Generation | AI-Powered Outreach Strategist | Pure implementation mindest |",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAFuutUgBFMmJbary20Thlw6St_poT5bhyiU",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Dr. Vishal Weldode PhD \u23cf\ufe0f\ud83d\ude80",
+      "title": "Founder @b2bharvest II I do B2B Lead Generation in a \"SMART\" way and make it more easy with AI+ GTM Outbound System II Want more Leads click on the link below",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAADmxGdkBOJWmByapYMJcrWyf8i4JSc7y_oM",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Daniel Shnaider",
+      "title": "Co-founder @Warmy.io\ud83d\udd25 & AnyBiz.io\ud83d\ude80",
+      "company": "\ud83e\ude82 Skydiver | \ud83c\udfd4 7 summits",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAACDPbXABcUusWeo2LWyqUImpSTj9NMNXGGI",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Vikas Saini",
+      "title": "I Help B2B Teams to 2x their Sales Pipeline in 12 Weeks with CLEP Framework",
+      "company": "Multi-Channel B2B Lead Gen Expert | AI & Automation Strategist",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAADrUw5gBcTUv9ODILUqaFxcOWRn9ICWFwAA",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Surbhi Jain",
+      "title": "Generate 4-5 leads/week & build visibility that stands you out. For Founders, CFOs, Executives, and VCs",
+      "company": "CA. \u2192 Personal Branding & Lead Generation Expert",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAABuXbyEBZOvO5ABOLPPBzddzEJ1Rq4TZLEs",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Akanksha Ghosalkar",
+      "title": "Founder @ Level Up Studio I Building a Community @BrandBookFit I MBA - Business Design and Consumer Behaviour",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAACeXGJoB11lNYJalyODZOaoi2Gv_WUSUtKk",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Affan Mirza",
+      "title": "Helping Founders & CEO's achieve more Sales & ROI through LinkedIn",
+      "company": "Personal Branding | Content Marketing | Your Brand's Marketing Companion |",
+      "linkedin_url": "https://www.linkedin.com/in/ACoAAEM205MBVpZD3JGj84O-vhTcIE_lDE7olPw",
+      "engagement_type": "reaction",
+      "score": 75,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Brice Maurln",
+      "title": "CEO chez LGM",
+      "company": "Get more Replies with Multichannel Outbound.",
+      "linkedin_url": "https://www.linkedin.com/in/bricemaur",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Jani Vrancsik",
+      "title": "Enterprise Clay Partner agency founder",
+      "company": "Sales leaders: I'll help you build a scalable outbound engine that gets meetings booked on autopilot in the next 180 days | DM me \"outbound\" to learn more",
+      "linkedin_url": "https://www.linkedin.com/in/janivrancsik",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Krishan Singh",
+      "title": "Founder Digital Gravitas",
+      "company": "Master's Union| National Level Medalist | Lifelong learner",
+      "linkedin_url": "https://www.linkedin.com/in/krishan12-singh",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Nataliia Spiesivtseva",
+      "title": "\ud83d\udc99\ud83d\udc9b CEO & Owner at Winsell Group Translation Agency",
+      "company": "Sales & CRM Expert | Digital Marketing | CRM Marketing | 20K+ LinkedIn Family | 11K+ Meta Family",
+      "linkedin_url": "https://www.linkedin.com/in/nataliia-spiesivtseva-7b598338",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Dashrath Singh",
+      "title": "I help SMB's grow their revenue through email marketing without breaking their bank",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/dashrath-singh9",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Vipul Singh",
+      "title": "Co-Founder & CEO @ AEREO",
+      "company": "Aerospace Engineering, Quality Management",
+      "linkedin_url": "https://www.linkedin.com/in/vipul-singh-aa38992a",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Samuel Darwin",
+      "title": "Co-Founder & CEO. Helping Businesses Scale.",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/samdarwin",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Madhu Joshi",
+      "title": "CEO at RestonLogic",
+      "company": "Cloud & Cybersecurity Transformation Expert | 25+ Years Delivering Enterprise, AI, Cloud Technology Solutions",
+      "linkedin_url": "https://www.linkedin.com/in/madhujoshi1",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Muhammad Hassan Bilal",
+      "title": "Digital Growth Partner",
+      "company": "Turning Outdated Brands into Digital Powerhouses with AI Workflows, Killer Creatives & Growth Systems That Actually Work",
+      "linkedin_url": "https://www.linkedin.com/in/muhammad-hassan-bilal-73a531282",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Charley Cash - AI Automation Specialist",
+      "title": "I Help Entrepreneurs Build An AI Sales Loop System\u2122 To Close Clients Predictably With Top Proven Sales Closers On A Commission Basis. We Have Scaled 300+ Businesses",
+      "company": "Book A FREE Game Plan Call Now! \ud83d\udc47\ud83d\udc47",
+      "linkedin_url": "https://www.linkedin.com/in/charley-cash",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Divyanshi Sharma",
+      "title": "Co-Founder @AcquisitionX",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/divyanshis-saasleadgen",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Charles Newson",
+      "title": "Founder/CEO @ ProfilePartner",
+      "company": "#1 LinkedIn Profile Marketplace",
+      "linkedin_url": "https://www.linkedin.com/in/charles-newson",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Ranjana Jha",
+      "title": "I build Personal Brands for CEOs, VCs, & CXOs",
+      "company": "AI Automation | Lead Generation | Linkdin Branding Strategist | SWE @Praxzen | Ex-Atlassian",
+      "linkedin_url": "https://www.linkedin.com/in/ranjana-jha-404430316",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Suprava Sabat",
+      "title": "Co-Founder @AcquisitionX",
+      "company": "",
+      "linkedin_url": "https://www.linkedin.com/in/suprava-sabat-saasleadgen",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Daniel Shnaider",
+      "title": "Co-founder @Warmy.io\ud83d\udd25 & AnyBiz.io\ud83d\ude80",
+      "company": "\ud83e\ude82 Skydiver | \ud83c\udfd4 7 summits",
+      "linkedin_url": "https://www.linkedin.com/in/daniel-shnaider",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Surbhi Jain",
+      "title": "Generate 4-5 leads/week & build visibility that stands you out. For Founders, CFOs, Executives, and VCs",
+      "company": "CA. \u2192 Personal Branding & Lead Generation Expert",
+      "linkedin_url": "https://www.linkedin.com/in/casurbhijain1",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Affan Mirza",
+      "title": "Helping Founders & CEO's achieve more Sales & ROI through LinkedIn",
+      "company": "Personal Branding | Content Marketing | Your Brand's Marketing Companion |",
+      "linkedin_url": "https://www.linkedin.com/in/affanmirzacopy",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    },
+    {
+      "name": "Janvi K.",
+      "title": "3M+ views generated in 60 days Helping Founders & Businesses to build loyal communities through attraction marketing + organic content strategies",
+      "company": "COPYWRITER | SOCIAL MEDIA MARKETER",
+      "linkedin_url": "https://www.linkedin.com/in/janvikar",
+      "engagement_type": "comment",
+      "score": 85,
+      "reason": "Fallback scoring (LLM unavailable)"
+    }
+  ]
+}

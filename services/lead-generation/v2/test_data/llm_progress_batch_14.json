@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Kamrul Islam",
+    "title": "\ud83c\udf1f \u2060GTM Expert",
+    "company": "AI-Powered Sales Automation | Accelerate Revenue & Transform Your Client Base in 90 Days \ud83d\ude80",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACfdVY0B1_wzIdH-ay-xF83JkfR-2vGt40M",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "GTM Expert likely involved in purchasing decisions related to sales automation tools, fitting into TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Surbhi Jain",
+    "title": "Generate 4-5 leads/week & build visibility that stands you out. For Founders, CFOs, Executives, and VCs",
+    "company": "CA. \u2192 Personal Branding & Lead Generation Expert",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABuXbyEBZOvO5ABOLPPBzddzEJ1Rq4TZLEs",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Personal Branding & Lead Generation Expert targeting executives, fits into TIER 2 as they likely purchase lead generation services.",
+    "is_qualified": true
+  },
+  {
+    "name": "Manish Vanzara",
+    "title": "Python Enthusiast \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb l Exploring AI \ud83e\udd16 l Open for Opportunities I B.Tech in Information Technology \ud83d\udcbb",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAEpr7JcBM1HsD_1GMHHymXJhy7h1gEds-0c",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 40,
+    "llm_reasoning": "Python Enthusiast with no clear purchasing authority or role related to lead generation, fits into TIER 4.",
+    "is_qualified": false
+  },
+  {
+    "name": "Hamza M.",
+    "title": "Marketing Head",
+    "company": "Personal Brand Builder | Ghostwriter | I help Founders & Coaches scale businesses with high-converting content funnels",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACIK1XMB3fNkXCGCUZr39RvQVQ5axiAGWL0",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 40,
+    "llm_reasoning": "Ghostwriter and personal brand builder, primarily a service provider without purchasing authority, fits into TIER 4.",
+    "is_qualified": false
+  },
+  {
+    "name": "Anthony Eri",
+    "title": "ML/DL Engineer",
+    "company": "Full - Stack Engineer | Python Developer | Data Scientist | AI Agents",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABzIp4gB6GXQyjitFq2jlA2ADZNvEquEAoY",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "ML/DL Engineer with technical skills but no clear purchasing role, fits into TIER 3 as a technical builder.",
+    "is_qualified": false
+  },
+  {
+    "name": "Ashish Kumar",
+    "title": "I help B2B companies book Qualified Meetings through intent-based Cold Email",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABdFdn4BN196RxviVo5sV9EcfHETpCYaUUg",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Helps B2B companies book qualified meetings, indicating a role that likely involves purchasing lead generation tools, fits into TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Alinnette Casiano",
+    "title": "15+ Years Learning & Development. Designed Global Training for 35K+. Learning Systems Strategist. UX Research. Bilingual Educator & Speaker. Bestselling Author. Multi-passionate",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADkTwrEBlnD1q2ZdxOXepEOAcKtXJwCfbcU",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 40,
+    "llm_reasoning": "Learning & Development strategist with no direct purchasing authority related to lead generation, fits into TIER 4.",
+    "is_qualified": false
+  },
+  {
+    "name": "Arpit Singh",
+    "title": "GTM Engineer",
+    "company": "I talk about GTM, LinkedIn growth, outbound and cold email outreach | LinkedIn Content & Social Selling for B2B Business | Open for collaborations",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACPXLdUBtxlgjFZTUdXUU4H0EhmE5BHUTrk",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "GTM Engineer discussing growth strategies and outreach, likely involved in purchasing decisions for lead generation tools, fits into TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "ChandraKumar R Pillai",
+    "title": "Board Member",
+    "company": "AI & Tech Speaker | Author | Entrepreneur | Enterprise Architect | Top AI Voice",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAAf-hzABLNV2NQd5g9hNI5JVbLKKExusG40",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 80,
+    "llm_reasoning": "Board Member and entrepreneur with significant experience in AI and tech, likely has budget authority, fits into TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Adesh Holey",
+    "title": "Cold Email Specialist",
+    "company": "Deliverability & Engagement Expert | Data-Driven Strategies | Exploring SEO, SEM, Google Ads & Social Media Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACUfw8oB2vfZrppVDA6KqYF03WdWsgL7yuQ",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Cold Email Specialist with expertise in engagement strategies, likely involved in purchasing lead generation tools, fits into TIER 2.",
+    "is_qualified": true
+  }
+]

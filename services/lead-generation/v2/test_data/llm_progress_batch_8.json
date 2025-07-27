@@ -1,0 +1,112 @@
+[
+  {
+    "name": "RAHUL SALE",
+    "title": "Product Manager",
+    "company": "Digital Transformation | SaaS & Marketplace | GTM Strategy & Positioning | Growth-Focused Leadership | Data-Driven Insights | Salesforce Marketing Cloud | Revenue Optimization Specialist",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACklMNQB2Xk4Nhs7cfk2510pis5YGBC1Tn4",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Product Manager at a SaaS company, involved in GTM strategy and revenue optimization, likely to purchase lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Osama Usmani",
+    "title": "Helping Businesses Eliminate Chaos with Smart Automation, Scalable Systems & Cross-Department Integration",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADKTNMIB3fu8EB0uR51wRTYcGejoWe4RZfE",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Focus on smart automation and scalable systems, indicating potential interest in lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Abinayashree Balaji",
+    "title": "Design Student at VIT University",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAEMqHHwBTIsBef-Ro9I5rCvQieUeGONum84",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 20,
+    "llm_reasoning": "Design student with no purchasing authority or relevance to lead generation services.",
+    "is_qualified": false
+  },
+  {
+    "name": "Muhammad Hassan Bilal",
+    "title": "Digital Growth Partner",
+    "company": "Turning Outdated Brands into Digital Powerhouses with AI Workflows, Killer Creatives & Growth Systems That Actually Work",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAETHGd4BSqoF7rzqla5pZGMY5_N9GMrs42c",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Digital Growth Partner with a focus on AI workflows and growth systems, likely to purchase tools for lead generation.",
+    "is_qualified": true
+  },
+  {
+    "name": "Pankaj Jangid",
+    "title": "Add values on Business with the help of AI + SEO + Strategy + Paid Ads (google, Meta, Bing, LinkedIn, etc) USE Ai as your Thinking Partner Target: 500 Businesses Freelancers connect with me:)",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACd_2WAB3_qIg8YlKVs8GfmyZv7vS4HCaiA",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "Freelancer offering AI and SEO services, more of a service provider than a buyer of lead generation tools.",
+    "is_qualified": false
+  },
+  {
+    "name": "Sabeshan (Sabs)",
+    "title": "Unlocking Automation and Business Value with Context Aware AI Agents.",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADLdBe4BUOsyzLC9kjhhZ63DyEkIZ3radtI",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Focus on automation and AI agents, indicating potential interest in purchasing tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Prasad Jantre",
+    "title": "TSE :- Red Hat",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAAQRcgMBJaE6JidxO0pR-PqeNBeOnvvSX1A",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 20,
+    "llm_reasoning": "TSE at Red Hat with no clear indication of purchasing authority for lead generation tools.",
+    "is_qualified": false
+  },
+  {
+    "name": "Rahul Patil",
+    "title": "Helping Shopify Merchants Scale In-App Revenue",
+    "company": "Mobile App GTM & Success Strategy",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACxXVGMB1_xOPE6A6QQZAMjjfJd7_Xl6bQ8",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Helping Shopify merchants scale revenue, likely to engage with lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Saniya Ladanavar",
+    "title": "Google DGOC Lead'24",
+    "company": "Building multi AI agents | AI/ML | Data Analyst | confident public speaker | ghostwriter | personal branding",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAEO5jgEBP7-6MirVP_fm0fyZD5AMFGYJiOA",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Lead in AI/ML with a focus on building multi AI agents, likely to purchase tools for data analysis and lead generation.",
+    "is_qualified": true
+  },
+  {
+    "name": "Samantak Saha",
+    "title": "BD: Partnerships & Investor Relations",
+    "company": "Community Manager | Crypto & AI",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAC7hq7oBvzBRy76TqmJO3R68PrYdGCbp4vg",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "Community Manager in crypto and AI, more of a service provider role without clear purchasing authority.",
+    "is_qualified": false
+  }
+]

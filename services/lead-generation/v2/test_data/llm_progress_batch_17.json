@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Rob Patterson",
+    "title": "AI-Driven Product Executive",
+    "company": "VP of Emerging Products @ SiriusXM | Architecting the Future of In-Car Audio, Connected Mobility & Human-AI Collaboration",
+    "linkedin_url": "https://www.linkedin.com/in/robpatterson",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 75,
+    "llm_reasoning": "Rob Patterson is a VP at SiriusXM, indicating a leadership role with purchasing authority, fitting into TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Abdullah Khan \ud83d\udcc8",
+    "title": "CMO Real Estate Platform - Get FREE 24-hour Startup Report. 15+ Yrs in RevOps & Global Marketing. OSINT for Business. Vibe Coder. 45K Students. 10x Certified. Learn. Build. Teach. Hobby: comedy & song writing: ready?",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/mabdullahkhan",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 75,
+    "llm_reasoning": "Abdullah Khan is a CMO with extensive experience in RevOps and marketing, placing him in TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Sarfaraj A.",
+    "title": "Digital Strategy Consultant - Driving AI & Product Engineering Innovation",
+    "company": "Digital Transformation | Gen AI | Data Analytics | Mobile App | Cloud Services | Custom Software Development",
+    "linkedin_url": "https://www.linkedin.com/in/sarfarajansari",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "Sarfaraj A. is a Digital Strategy Consultant focused on AI and product engineering, fitting into TIER 3.",
+    "is_qualified": true
+  },
+  {
+    "name": "Samuel Darwin",
+    "title": "Co-Founder & CEO. Helping Businesses Scale.",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/samdarwin",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 85,
+    "llm_reasoning": "Samuel Darwin is a Co-Founder & CEO, indicating a high-level executive role with budget authority, placing him in TIER 1.",
+    "is_qualified": true
+  },
+  {
+    "name": "Yash Hotkar",
+    "title": "Scaling D2C Brands with Paid Ads",
+    "company": "Data-Driven Growth Strategist | Spend $200K+",
+    "linkedin_url": "https://www.linkedin.com/in/yashhotkar",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "Yash Hotkar is a growth strategist focused on scaling brands, fitting into TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Madhu Joshi",
+    "title": "CEO at RestonLogic",
+    "company": "Cloud & Cybersecurity Transformation Expert | 25+ Years Delivering Enterprise, AI, Cloud Technology Solutions",
+    "linkedin_url": "https://www.linkedin.com/in/madhujoshi1",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 90,
+    "llm_reasoning": "Madhu Joshi is a CEO with extensive experience in enterprise solutions, placing him in TIER 1.",
+    "is_qualified": true
+  },
+  {
+    "name": "Osama Usmani",
+    "title": "Helping Businesses Eliminate Chaos with Smart Automation, Scalable Systems & Cross-Department Integration",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/osama-usmani-9421b61b8",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "Osama Usmani is focused on automation and scalable systems, fitting into TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Muhammad Hassan Bilal",
+    "title": "Digital Growth Partner",
+    "company": "Turning Outdated Brands into Digital Powerhouses with AI Workflows, Killer Creatives & Growth Systems That Actually Work",
+    "linkedin_url": "https://www.linkedin.com/in/muhammad-hassan-bilal-73a531282",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "Muhammad Hassan Bilal is a Digital Growth Partner, indicating a growth role that fits into TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Pankaj Jangid",
+    "title": "Add values on Business with the help of AI + SEO + Strategy + Paid Ads (google, Meta, Bing, LinkedIn, etc) USE Ai as your Thinking Partner Target: 500 Businesses Freelancers connect with me:)",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/pankj-jangid",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 40,
+    "llm_reasoning": "Pankaj Jangid appears to be a service provider focused on AI and SEO, placing him in TIER 4.",
+    "is_qualified": false
+  },
+  {
+    "name": "Chetan Chouhan",
+    "title": "Alaska Granite",
+    "company": "Quartz supplier | Quartzite | Granite | Exporting natural & engineered stone to global brands #granitesuppliers #CarraraQuartz #CalacattaGoldQuartz #Terrazzoquartz #BeigeQuartz #WhiteQuartz",
+    "linkedin_url": "https://www.linkedin.com/in/chetan-chouhan-granite-marble-consultant",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 30,
+    "llm_reasoning": "Chetan Chouhan is a supplier in the stone industry, indicating a service provider role, fitting into TIER 4.",
+    "is_qualified": false
+  }
+]

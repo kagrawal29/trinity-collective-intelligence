@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Kriti Sachita",
+    "title": "MDI Murshidabad PGDM'26",
+    "company": "| Senior E-cell Coordinator | Marketing and HR | Grest | Nestle Nesternship | CCL",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADVIth0Bb440BikmTwFxKWCOSCAFXcfEkxo",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 40,
+    "llm_reasoning": "Kriti Sachita is a student and coordinator, not in a decision-making position.",
+    "is_qualified": false
+  },
+  {
+    "name": "Hrithik Verma",
+    "title": "Customer Success",
+    "company": "People & Communities | Story-Seller | Global Outreach | Partnerships | Startups",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACSXmksB7B7SIGRO3cAaJ9IpjRtN2UCsduY",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "Hrithik Verma is in a customer success role but lacks seniority and decision-making authority.",
+    "is_qualified": false
+  },
+  {
+    "name": "Talha F.",
+    "title": "Fractional C-Level Leadership",
+    "company": "AI Generalist | Sales Consulting | Helping Founders Build Tech Teams, Sales Systems & AI Agents",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAA_nUQoB3L-P_1-aisjoT7hY6xkE-rupSR0",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Talha F. is a fractional C-level leader and provides consulting services, fitting TIER 3.",
+    "is_qualified": true
+  },
+  {
+    "name": "Aakash D.",
+    "title": "Vice President",
+    "company": "Digital | Unlisted Equity | Alternate Investments | Fixed Income Products | Infrastructure Funds | Gift City |Growth, Key Account Management, CRM, International Alliances & Solutions",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAATy_OsBUTlkqoZzRWmX4MPM6Wh10INypkk",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 85,
+    "llm_reasoning": "Aakash D. is a Vice President with decision-making authority in investments, fitting TIER 1.",
+    "is_qualified": true
+  },
+  {
+    "name": "Dashrath Singh",
+    "title": "I help SMB's grow their revenue through email marketing without breaking their bank",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAAnl0uQBC6nKBp-vT4FzGdixC-5giNwK3vE",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 30,
+    "llm_reasoning": "Dashrath Singh is focused on SMBs and is more of a service provider.",
+    "is_qualified": false
+  },
+  {
+    "name": "Anum A",
+    "title": "Chief Growth Officer @ 2BTech",
+    "company": "AI Agent Builder (Sales, Marketing, Real Estate, Bookkeeping) | Voice Agent Dev | Content & Growth Strategist | Generative AI + LLMs",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAC7qp9UBO7fO5LJ84KupOfGxkgnYtZY2j2w",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Anum A. is a Chief Growth Officer with a focus on AI and growth strategies, fitting TIER 3.",
+    "is_qualified": true
+  },
+  {
+    "name": "Noora Khalid",
+    "title": "--",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAFqvaEMBAMA1rDnvFUicxomgirpepWl5N5k",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 20,
+    "llm_reasoning": "Noora Khalid has no title or company information, making it impossible to classify.",
+    "is_qualified": false
+  },
+  {
+    "name": "MADHULIKA K",
+    "title": "LinkedIn Personal Branding",
+    "company": "helping entrepreneurs build their brand on Linkedin",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAFv9us0BhuNqX10kw6-Sy3lRPTZ71ewp3sI",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 30,
+    "llm_reasoning": "MADHULIKA K is focused on personal branding and is a service provider.",
+    "is_qualified": false
+  },
+  {
+    "name": "Sunil Kumar Perumal",
+    "title": "Business Workflow Automation Consultant",
+    "company": "AI Product Builder | AI, Digital & Retail-Tech Advocate | Empowering Founders & CXOs with Digital roadmaps & AI Tech Blueprints |",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAAIx2IQBdHHpvC_y57x4tyjhP9Yllak-u7Y",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Sunil Kumar Perumal is a consultant in business workflow automation, fitting TIER 3.",
+    "is_qualified": true
+  },
+  {
+    "name": "Pankaj Kumar",
+    "title": "RevOps & GTM Strategist",
+    "company": "AI-Led Outbound Architect | Scaling B2B Growth with Systems, Not Headcount | Clay, Smartlead, HubSpot Power User | $2.5M Pipeline Builder",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACNE-cgBihCp5TlQEO0n336XPqXWKmCsz1k",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 80,
+    "llm_reasoning": "Pankaj Kumar is a RevOps & GTM strategist with significant experience in lead generation tools, fitting TIER 2.",
+    "is_qualified": true
+  }
+]

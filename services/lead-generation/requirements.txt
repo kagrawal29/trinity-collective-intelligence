@@ -1,0 +1,11 @@
+# Lead Qualification System Requirements
+
+# Core dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Optional for enhanced features
+pandas>=2.0.0  # For advanced data analysis
+tqdm>=4.65.0   # For progress bars
+colorama>=0.4.6  # For colored terminal output

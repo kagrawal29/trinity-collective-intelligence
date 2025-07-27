@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Ranjana Jha",
+    "title": "I build Personal Brands for CEOs, VCs, & CXOs",
+    "company": "AI Automation | Lead Generation | Linkdin Branding Strategist | SWE @Praxzen | Ex-Atlassian",
+    "linkedin_url": "https://www.linkedin.com/in/ranjana-jha-404430316",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "Ranjana Jha builds personal brands for C-level executives, indicating a role that supports lead generation efforts, placing her in TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Suprava Sabat",
+    "title": "Co-Founder @AcquisitionX",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/suprava-sabat-saasleadgen",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "Suprava Sabat is a co-founder, likely involved in growth and lead generation strategies, fitting into TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Hugo Millington-Drake",
+    "title": "Using Social Signals To Predict Buyer Intent",
+    "company": "Co-Founder @ Trigify.io",
+    "linkedin_url": "https://www.linkedin.com/in/hugomdrake",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 75,
+    "llm_reasoning": "Hugo Millington-Drake's role as co-founder and focus on buyer intent suggests a growth role that actively engages with lead generation tools, placing him in TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Warmy.io - Email channel. Reliable.",
+    "title": "13,145 followers",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/company/warmy/posts",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 20,
+    "llm_reasoning": "Warmy.io appears to be a service provider with no clear indication of a decision-making role, placing it in TIER 4.",
+    "is_qualified": false
+  },
+  {
+    "name": "Daniel Shnaider",
+    "title": "Co-founder @Warmy.io\ud83d\udd25 & AnyBiz.io\ud83d\ude80",
+    "company": "\ud83e\ude82 Skydiver | \ud83c\udfd4 7 summits",
+    "linkedin_url": "https://www.linkedin.com/in/daniel-shnaider",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "Daniel Shnaider is a co-founder of Warmy.io, which indicates involvement in lead generation, fitting into TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Kamrul Islam",
+    "title": "\ud83c\udf1f \u2060GTM Expert",
+    "company": "AI-Powered Sales Automation | Accelerate Revenue & Transform Your Client Base in 90 Days \ud83d\ude80",
+    "linkedin_url": "https://www.linkedin.com/in/kamrul-islam4028",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 75,
+    "llm_reasoning": "Kamrul Islam's expertise in GTM and sales automation suggests a growth role that actively engages with lead generation tools, placing him in TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Surbhi Jain",
+    "title": "Generate 4-5 leads/week & build visibility that stands you out. For Founders, CFOs, Executives, and VCs",
+    "company": "CA. \u2192 Personal Branding & Lead Generation Expert",
+    "linkedin_url": "https://www.linkedin.com/in/casurbhijain1",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "Surbhi Jain focuses on lead generation for executives, indicating a growth role that actively purchases lead generation tools, placing her in TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Anthony Eri",
+    "title": "ML/DL Engineer",
+    "company": "Full - Stack Engineer | Python Developer | Data Scientist | AI Agents",
+    "linkedin_url": "https://www.linkedin.com/in/anthony-eri-060887115",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 65,
+    "llm_reasoning": "Anthony Eri's role as an ML/DL Engineer suggests a technical background but not directly involved in purchasing decisions, placing him in TIER 3.",
+    "is_qualified": false
+  },
+  {
+    "name": "Ashish Kumar",
+    "title": "I help B2B companies book Qualified Meetings through intent-based Cold Email",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/leadgenerationashish",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "Ashish Kumar helps B2B companies book qualified meetings, indicating a growth role that actively engages with lead generation tools, placing him in TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Affan Mirza",
+    "title": "Helping Founders & CEO's achieve more Sales & ROI through LinkedIn",
+    "company": "Personal Branding | Content Marketing | Your Brand's Marketing Companion |",
+    "linkedin_url": "https://www.linkedin.com/in/affanmirzacopy",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "Affan Mirza's focus on helping founders and CEOs with sales and marketing indicates a growth role that actively engages with lead generation tools, placing him in TIER 2.",
+    "is_qualified": true
+  }
+]

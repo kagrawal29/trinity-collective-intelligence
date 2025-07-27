@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Ritij Srivastava",
+    "title": "Founder @ VertaFlow",
+    "company": "Scaling Agencies & SaaS with AI Agents, Funnel Systems & Automation-led Growth",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAD41T3YBBlwSWmEYzVQsvcEdJtzz2h0pZeo",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Founder of a company focused on scaling agencies and SaaS with AI and automation, indicating a growth role that likely purchases lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Ahmed Mohamed",
+    "title": "Customer Experience",
+    "company": "Project Management | People & Performance Management | Process Improvement | Process Compliance | Data analysis | Leadership | Supporting Functions & Operations Consulting Executive...",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABaXKY8Bnnw-zeglrHdJ0X3PmIXRoqhdtKg",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "Customer experience role in project management and consulting, likely involved in process improvement but not directly in lead generation purchases.",
+    "is_qualified": false
+  },
+  {
+    "name": "Sadyk Akhzarati",
+    "title": "Conversion Marketing Lead @ StoryBox GmbH",
+    "company": "Conversion Marketing, SEO",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABhY_UgBTWrQ_SWeaEv4KC2uht9Yo8J6d18",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Conversion marketing lead, involved in SEO and marketing strategies, likely purchases lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "HUGO van DIEPEN",
+    "title": "Co-founder @ Stairoids",
+    "company": "We spot B2B buyers before they show up | Activate hidden pipeline for sales & marketing teams | Also building @ Leadgate Europe & @ Side&Kick",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAAFeRqcBSSP_VQV0csXkyGb9Wq5AwKGo3IQ",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Co-founder of a company focused on identifying B2B buyers and activating sales pipelines, indicating a growth role that likely purchases lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Mohammed Tahur Sayed",
+    "title": "Helping EdTech Companies Accelerate Growth Through Digital Strategy, Procurement Expertise & Trusted School Partnerships",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAC6fkFsBhDrgMzUC4n82G95BpFgV7JnNs8E",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "Focus on helping EdTech companies with digital strategy and partnerships, not directly involved in lead generation purchases.",
+    "is_qualified": false
+  },
+  {
+    "name": "Jackson Viertel",
+    "title": "ICHRA",
+    "company": "Individual & Group Health Insurance | Benefits Microsites",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADGn49QBsARhxS7L5ercyPL2jn54nmdNUTs",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 60,
+    "llm_reasoning": "Role in health insurance benefits, not directly related to lead generation or purchasing tools.",
+    "is_qualified": false
+  },
+  {
+    "name": "Shivam Das",
+    "title": "Helping High-Ticket Coaches & Agencies Book 30\u201350 Sales Calls with Ready-to-Buy Leads in 60 Days or they don't pay \u2014 Powered by AI. No Setters. No Extra Ad Spend.",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAFAdBA4BfyBA-SzOvnq4PH0MS_hp-sJA51Q",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Focus on helping coaches and agencies book sales calls with AI, indicating a growth role that likely purchases lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Putri Haradyka Pakpahan",
+    "title": "Gabe IO",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAC89dggB91emSBm7VFI6pEiI190c1uKOtbY",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 40,
+    "llm_reasoning": "No specific details about the company or role, likely a service provider without direct purchasing authority.",
+    "is_qualified": false
+  },
+  {
+    "name": "Ayesha Farooq",
+    "title": "AI Marketing Automation & GHL Systems Builder",
+    "company": "LinkedIn Specialist | 7-Figure Sales Funnels on Autopilot | Lead Magnets That Convert, Digital Products & Low-Ticket Offers | Turning Cold Prospects Into Hot Leads 24/7",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAEIzhpUBs__ETPMl0imIQ5DPKIBBhRk9E2M",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "AI marketing automation specialist, involved in building systems for lead generation, indicating a growth role that likely purchases tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Shivam Singh",
+    "title": "Helping Software Training Institutes build Proven Lead Acquisition Systems that 6X their Revenue",
+    "company": "Founder @LeksaGlobal",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADSjt9EBIzEiWavpN-yLsBRkzrusyRGEynw",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Founder focused on lead acquisition systems for software training institutes, indicating a growth role that likely purchases lead generation tools.",
+    "is_qualified": true
+  }
+]

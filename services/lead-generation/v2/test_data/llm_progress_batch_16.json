@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Nataliia Spiesivtseva",
+    "title": "\ud83d\udc99\ud83d\udc9b CEO & Owner at Winsell Group Translation Agency",
+    "company": "Sales & CRM Expert | Digital Marketing | CRM Marketing | 20K+ LinkedIn Family | 11K+ Meta Family",
+    "linkedin_url": "https://www.linkedin.com/in/nataliia-spiesivtseva-7b598338",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "CEO of a translation agency, likely has purchasing authority but primarily focused on service provision.",
+    "is_qualified": true
+  },
+  {
+    "name": "Aakash D.",
+    "title": "Vice President",
+    "company": "Digital | Unlisted Equity | Alternate Investments | Fixed Income Products | Infrastructure Funds | Gift City |Growth, Key Account Management, CRM, International Alliances & Solutions",
+    "linkedin_url": "https://www.linkedin.com/in/aakashdhanuka",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 80,
+    "llm_reasoning": "Vice President involved in key account management and CRM, likely has budget authority for purchasing tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Dashrath Singh",
+    "title": "I help SMB's grow their revenue through email marketing without breaking their bank",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/dashrath-singh9",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 60,
+    "llm_reasoning": "Focuses on helping SMBs with email marketing, more of a service provider than a buyer of lead generation tools.",
+    "is_qualified": false
+  },
+  {
+    "name": "MADHULIKA K",
+    "title": "LinkedIn Personal Branding",
+    "company": "helping entrepreneurs build their brand on Linkedin",
+    "linkedin_url": "https://www.linkedin.com/in/madhulika-k-379a49370",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 50,
+    "llm_reasoning": "Service provider focused on personal branding for entrepreneurs, does not fit into a buyer category.",
+    "is_qualified": false
+  },
+  {
+    "name": "Sunil Kumar Perumal",
+    "title": "Business Workflow Automation Consultant",
+    "company": "AI Product Builder | AI, Digital & Retail-Tech Advocate | Empowering Founders & CXOs with Digital roadmaps & AI Tech Blueprints |",
+    "linkedin_url": "https://www.linkedin.com/in/sunil-ai-digital",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 75,
+    "llm_reasoning": "Consultant in business workflow automation, likely purchases tools for automation and consulting purposes.",
+    "is_qualified": true
+  },
+  {
+    "name": "Pankaj Kumar",
+    "title": "RevOps & GTM Strategist",
+    "company": "AI-Led Outbound Architect | Scaling B2B Growth with Systems, Not Headcount | Clay, Smartlead, HubSpot Power User | $2.5M Pipeline Builder",
+    "linkedin_url": "https://www.linkedin.com/in/pankaj-kumar-gtm-revops",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 80,
+    "llm_reasoning": "RevOps & GTM strategist with expertise in multiple lead generation tools, likely has purchasing authority.",
+    "is_qualified": true
+  },
+  {
+    "name": "Vipul Singh",
+    "title": "Co-Founder & CEO @ AEREO",
+    "company": "Aerospace Engineering, Quality Management",
+    "linkedin_url": "https://www.linkedin.com/in/vipul-singh-aa38992a",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "Co-Founder & CEO in aerospace engineering, may have budget authority but primarily focused on engineering services.",
+    "is_qualified": true
+  },
+  {
+    "name": "Sami Ullah",
+    "title": "Go High Level (GHL) Expert",
+    "company": "CRM Automation Specialist | Helping Businesses Scale with GHL",
+    "linkedin_url": "https://www.linkedin.com/in/sami-ullah-556991364",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "CRM automation specialist, likely involved in purchasing tools but primarily a service provider.",
+    "is_qualified": true
+  },
+  {
+    "name": "Paul V.",
+    "title": "AI Infrastructure Expert \u2655 Transforming Enterprise Security at Scale \u2655 240,000+ Users Protected \u2655 Author",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/paulvanderhagen",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 85,
+    "llm_reasoning": "AI infrastructure expert with a focus on enterprise security, likely has significant budget authority.",
+    "is_qualified": true
+  },
+  {
+    "name": "Abdelhakim Essaiydy",
+    "title": "AI Automation Specialist",
+    "company": "Drive More Sales with AI Receptionists & Automation",
+    "linkedin_url": "https://www.linkedin.com/in/abdelhakim-essaiydy",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "AI automation specialist focused on sales, likely purchases tools for automation.",
+    "is_qualified": true
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Manickavasagam S \u200e",
+    "title": "Freelancer",
+    "company": "B2B Digital Marketer & Website Developer | Specializing in Lead Generation, SEO, Content Strategy",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAD_FmXgB9ZmDCEN5cVLAhpD0BmPr7sWAq4A",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 30,
+    "llm_reasoning": "Freelancer providing lead generation services, fits TIER 4 as a service provider.",
+    "is_qualified": false
+  },
+  {
+    "name": "Abdulsalam Muaad",
+    "title": "Flutter Developer.. IT Automation..",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAD5wtVoBd_2133FI0t6VzXe94Xk7LvTmcrw",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 60,
+    "llm_reasoning": "Flutter Developer with a focus on IT automation, fits TIER 3 but lacks clear purchasing authority.",
+    "is_qualified": false
+  },
+  {
+    "name": "Kathryn V.",
+    "title": "Wife & Mother of 7",
+    "company": "Venture Capital | Scientist | TOP 30 Patent Drafters | US Patent Examiner | Violinist | Polyglot | #1 Best Selling Children's Book | #1 LinkedIn Global Influencer in Innovation/IP Law (Favikon)",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAFD9Xd0B706XBJ9vhgixmhwIic1LO1dN4G8",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 50,
+    "llm_reasoning": "Wife & Mother with diverse roles, but primarily a personal profile, fits TIER 4 as a service provider.",
+    "is_qualified": false
+  },
+  {
+    "name": "Sara Simmonds",
+    "title": "CEO Impact Innovator",
+    "company": "Helping Purpose Driven Entrepreneurs Scale to $1 Million, $50 Million and Beyond | Follow Me For Systems On Sustainable Growth \ud83c\udf0e",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAAKgh5YBVCEtOJl9bSwm2687-JWJxhxgi7U",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 85,
+    "llm_reasoning": "CEO with a focus on scaling businesses, fits TIER 1 as a C-level executive with purchasing authority.",
+    "is_qualified": true
+  },
+  {
+    "name": "Brice Maurln",
+    "title": "CEO chez LGM",
+    "company": "Get more Replies with Multichannel Outbound.",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAFjM54UBESElI_aqSAKRCXuXYvww6MDZros",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 80,
+    "llm_reasoning": "CEO of a company focused on outbound marketing, fits TIER 2 as a growth role with purchasing potential.",
+    "is_qualified": true
+  },
+  {
+    "name": "Arun Kumar V",
+    "title": "Certified Clay Creator",
+    "company": "\ud83c\udf93NMIMS MBA WX '26 | \ud83e\udd16AI & Automation Sales Expert | ABM & GTM Strategist |\ud83d\ude80Scaling Revenue with AI Agents, Make.com, Zapier & n8n | SaaS & Inside Sales | Make, Snowflake\u2744| Ex-ValueLabs",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABKMYB0BlsZI7amYetVzobPK9RUPqhgr7pQ",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Certified Clay Creator and AI/Automation Sales Expert, fits TIER 3 as a technical builder with purchasing authority.",
+    "is_qualified": true
+  },
+  {
+    "name": "Afaq Ahmed",
+    "title": "Director of Growth & Strategy @ 7X",
+    "company": "Growth Strategist | Driving Strategic Partnerships & Disruptive Models | Startup Builder | Investment Portfolio Expert | Scaling Ventures to Exit| The architect of possibility",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAAI2FiIBUd7G9X0ExMDh3leqpkB8oa-R_rg",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 80,
+    "llm_reasoning": "Director of Growth & Strategy with a focus on strategic partnerships, fits TIER 2 as a growth role.",
+    "is_qualified": true
+  },
+  {
+    "name": "Mohamed Reda Dahdah",
+    "title": "Investment Banker",
+    "company": "Corporate Finance | Capital Market | M&A | Financial Modelling | Valuation | Project Finance | IPO | Financial Advisory | Corporate Restructuring",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACBS57cBPpi-PSEqPxgkPtCFlgB6WciUUYI",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Investment Banker involved in client outreach, fits TIER 2 as a growth role with purchasing authority.",
+    "is_qualified": true
+  },
+  {
+    "name": "kuldip parmar",
+    "title": "Turning Founders into Thought Leaders & Workflows into AI Agents",
+    "company": "LinkedIn Ghostwriting + Automation Expert | Building TrueVibess",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAEAXOZABOCFeoorzUHdisVRFHlz3f9zo6u8",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 40,
+    "llm_reasoning": "Ghostwriting and automation expert, fits TIER 4 as a service provider.",
+    "is_qualified": false
+  },
+  {
+    "name": "Nishkarsh Agarwal",
+    "title": "GTM Engineer/Architect @Vertical",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAD0KbhQBIrhHcOhSAKKkwt1i789peW9Ejms",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "GTM Engineer/Architect, fits TIER 2 as a growth role with potential purchasing authority.",
+    "is_qualified": true
+  }
+]

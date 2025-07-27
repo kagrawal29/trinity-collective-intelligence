@@ -1,0 +1,87 @@
+[
+  {
+    "name": "getCompanyPosts",
+    "description": "Fetches posts from a company's LinkedIn page. Supports pagination via `page` parameter.",
+    "method": "GET",
+    "url": "https://linkedin-data-scraper.p.rapidapi.com/company_updates",
+    "requiredParams": [
+      "company_url",
+      "page"
+    ],
+    "pagination": true
+  },
+  {
+    "name": "getPersonDeepProfile",
+    "description": "Fetches deep profile data of a person from their LinkedIn profile URL.",
+    "method": "POST",
+    "url": "https://linkedin-data-scraper.p.rapidapi.com/person_deep",
+    "requiredParams": [
+      "link"
+    ],
+    "pagination": false
+  },
+  {
+    "name": "getPersonPosts",
+    "description": "Fetches posts made by a person using their LinkedIn profile URL. Supports pagination.",
+    "method": "GET",
+    "url": "https://linkedin-data-scraper.p.rapidapi.com/profile_updates",
+    "requiredParams": [
+      "profile_url",
+      "page",
+      "paginationToken"
+    ],
+    "pagination": true
+  },
+  {
+    "name": "getPostData",
+    "description": "Fetches details of a specific LinkedIn post, including article components, text, actor, etc.",
+    "method": "POST",
+    "url": "https://linkedin-data-scraper.p.rapidapi.com/post",
+    "requiredParams": [
+      "link"
+    ],
+    "pagination": false
+  },
+  {
+    "name": "getPostReactions",
+    "description": "Fetches users who reacted to a post using its `reactionsUrn`. Supports pagination.",
+    "method": "POST",
+    "url": "https://linkedin-data-scraper.p.rapidapi.com/post_reactions",
+    "requiredParams": [
+      "reactionsUrn",
+      "page"
+    ],
+    "pagination": true
+  },
+  {
+    "name": "getPostComments",
+    "description": "Fetches comments on a LinkedIn post using `commentsUrn`. Supports pagination.",
+    "method": "POST",
+    "url": "https://linkedin-data-scraper.p.rapidapi.com/post_comments",
+    "requiredParams": [
+      "commentsUrn",
+      "page"
+    ],
+    "pagination": true
+  },
+  {
+    "name": "getCompanyProfile",
+    "description": "Fetches detailed company profile data from a LinkedIn company URL.",
+    "method": "POST",
+    "url": "https://linkedin-data-scraper.p.rapidapi.com/company",
+    "requiredParams": [
+      "link"
+    ],
+    "pagination": false
+  },
+  {
+    "name": "getSimilarProfiles",
+    "description": "Fetches similar LinkedIn profiles based on a given profile URL.",
+    "method": "GET",
+    "url": "https://linkedin-data-scraper.p.rapidapi.com/similar_profiles",
+    "requiredParams": [
+      "profileUrl"
+    ],
+    "pagination": false
+  }
+]

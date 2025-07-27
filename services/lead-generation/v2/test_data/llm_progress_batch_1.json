@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Krishnapal S.",
+    "title": "Remote appointment setter",
+    "company": "Booking calls for Coaches & Agencies | 3 sites | 15+ cold email wins.",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADY8yVoBRIlr3L8fNQHvv1tNXB_vlVJNTpQ",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Appointment setter role indicates a growth role that actively purchases lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Chanakya Kyatham \ud83d\udfe2",
+    "title": "Full Stack Digital Marketing Manager @ParamInfo",
+    "company": "@properties.market | @piHappiness | Programmatic SEO \ud83d\ude80 | Performance Marketing \ud83d\udcc8 | \ud83e\udd16 AI Generalist & Automation Strategist | eCommerce, SaaS & IT Growth Expert",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABXUwsIBaOcUcM-7PoScasltiUO1XAS7ebQ",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Full Stack Digital Marketing Manager with expertise in performance marketing and automation, indicating a growth role that likely purchases tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Ashutosh Mishra",
+    "title": "Elevating Experience",
+    "company": "Townships and Smart city Solutions",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABqGBQ4B15gtzhcxL1b1iI1Vinbjg_YGtbo",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 60,
+    "llm_reasoning": "Role is vague and does not indicate a purchasing authority or a growth role that buys tools.",
+    "is_qualified": false
+  },
+  {
+    "name": "Prithviraj Gohel",
+    "title": "Helping People and Brands transform through AR/VR/XR, Storytelling & Mindset",
+    "company": "Exploring Minds and Metaverse | AR Creator | Author | Lifecoach | Video Editor| Ai+Ar Glasses - coming soon",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADKHlIkBoqaJ2tZOJPSIV1cOtPzsH2UEQ-E",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "Focus on AR/VR and storytelling suggests a creative role without clear purchasing authority.",
+    "is_qualified": false
+  },
+  {
+    "name": "Saurav Kumar",
+    "title": "Brand Marketing",
+    "company": "Digital Marketing | Growth Marketing | Account Based Marketing |Copywriting |Content Strategist | SEO | Google Analytics | Google Ads | Meta Ads",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACrZh4YB6DAO2rnU4bkIq717Mb_6SdHE2ys",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Brand marketing role with a focus on growth marketing indicates a potential buyer of lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Sagar Patil",
+    "title": "AI Generalist",
+    "company": "ETA and Search Fund | Private Equity | Operations Strategy and Supply Chain | PM - CSPO certified | Alteryx Designer Core | Emory Goizueta MBA' 26 | PMP Candidate",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAD-oeLABa9JyGyB3BMMCXj2Q8p7hlpnTJcc",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "AI Generalist in private equity suggests involvement in operations strategy, likely purchasing tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Dawood Hameed",
+    "title": "Full Stack AI Developer",
+    "company": "Node.js | Nest.js | AI Voice Agents & Chatbot Systems | Serverless (AWS/GCP/Firebase)",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADTrfEwBjeoA5RL9zd3W2w1savkxLvx92KI",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Full Stack AI Developer indicates technical expertise and likely purchases APIs and development tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Zaki taj",
+    "title": "MEP BIM Modeler",
+    "company": "Revit MEPF | HVAC, Plumbing, Fire Protection | LOD 500 | BOQ | Remote & Full-Time Ready | Immediate Joiner",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADI9C6oBQoNO90oJW1Dnm0kwOXa_tP649Y8",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 50,
+    "llm_reasoning": "MEP BIM Modeler role suggests a service provider without purchasing authority.",
+    "is_qualified": false
+  },
+  {
+    "name": "Rajeev Patil",
+    "title": "Sr. Manager Sales, Dubai & Northern Emirates Sales at Emirates Airline",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAACKNEQBttD0qXOXvTigASOAfHQh94flsRE",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Senior Manager in sales at Emirates Airline indicates a growth role that likely purchases lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Archana Pal",
+    "title": "Strategic Communication",
+    "company": "Geospatial & Smart Infrastructure Expert | Product Positioning | Insight-Led Growth",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACjFz2sByrMDehHXRkFOnNNcHkZ7TVnsdJU",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "Strategic communication role indicates expertise but lacks clear purchasing authority.",
+    "is_qualified": false
+  }
+]

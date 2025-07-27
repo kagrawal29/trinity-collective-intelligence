@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Abdullah Khan \ud83d\udcc8",
+    "title": "CMO Real Estate Platform - Get FREE 24-hour Startup Report. 15+ Yrs in RevOps & Global Marketing. OSINT for Business. Vibe Coder. 45K Students. 10x Certified. Learn. Build. Teach. Hobby: comedy & song writing: ready?",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAAHxiQcBsHwYx-8FKlFOyYVPAqliTLp5RZA",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Abdullah Khan is a CMO with extensive experience in RevOps and global marketing, indicating a significant role in purchasing decisions. This places him in TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Samuel Darwin",
+    "title": "Co-Founder & CEO. Helping Businesses Scale.",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAAOZu7EBjGhQy9TQQqhtLhvn9-3MC1jqTpY",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 85,
+    "llm_reasoning": "Samuel Darwin is a Co-Founder & CEO, which gives him high purchasing authority. This qualifies him as a TIER 1 buyer.",
+    "is_qualified": true
+  },
+  {
+    "name": "Vaibhav Tripathi",
+    "title": "Growth Marketer @Tangence",
+    "company": "Digital Marketing | B2B | SEO & SMM | Upwork Expert | Google & Meta Ads",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACU4hSoBXkp-gT-p07rKrBfnB1RmpP04Ook",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Vaibhav Tripathi is a Growth Marketer, which typically involves purchasing lead generation tools. This places him in TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Jose Mayor",
+    "title": "Business Development",
+    "company": "Sales | Growth",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADHVIT4By6DakYjuSowyg6Yrl-2uKWPARE8",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Jose Mayor is in Business Development, a role that often involves purchasing lead generation tools, qualifying him for TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Yash Hotkar",
+    "title": "Scaling D2C Brands with Paid Ads",
+    "company": "Data-Driven Growth Strategist | Spend $200K+",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADJHx9EBTjAaYuNu9wQXe2mFSS64Zfla80w",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Yash Hotkar is focused on scaling brands with paid ads, indicating a role that likely involves purchasing marketing tools, placing him in TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Ajay Tiwari",
+    "title": "Helping underprivileged children's to grow,educate and lead a purposeful life.",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADOZlN8BrjyCO_JtMig2KbRuK-qz2oTzrXo",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 20,
+    "llm_reasoning": "Ajay Tiwari's focus on helping underprivileged children suggests a non-commercial role, placing him in TIER 4 as a service provider.",
+    "is_qualified": false
+  },
+  {
+    "name": "Marko Milojkovic",
+    "title": "Building web/mobile applications in weeks for startups and professionals.",
+    "company": "Get custom app plan for free | 15+ apps launched | CEO @ Eterna | Bubble.io no-code",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABPC04oB2evVqLkwMgUHWclMlzXevYtiMII",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Marko Milojkovic is a CEO involved in building applications, indicating a technical role that may involve purchasing tools, qualifying him for TIER 3.",
+    "is_qualified": true
+  },
+  {
+    "name": "Mayank Makhija",
+    "title": "Solving AI Challenges for Corporates",
+    "company": "SEO meets AI | Marketing | Artificial intelligence Trainings | We Build Tech | Founder of Fameweb - Ecommerce Experts | Sharepoint | CGI | M365 | OpenAI | GenAI | DeepSeek",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABT3DegBs6jhdN3LKliqbTz0XBSlZYxzKDk",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Mayank Makhija is solving AI challenges for corporates, indicating a role that likely involves purchasing tools and APIs, placing him in TIER 3.",
+    "is_qualified": true
+  },
+  {
+    "name": "Shubham nigam",
+    "title": "Management Consultant @ PwC",
+    "company": "Product Owner | Digital Transformation in Aviation, Chemicals & Tourism sectors",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAClpcTQBs72rys1PHvAK44aWTHfIZTxTVd8",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Shubham Nigam is a Management Consultant at PwC, indicating a role that may involve purchasing data and automation tools, qualifying him for TIER 3.",
+    "is_qualified": true
+  },
+  {
+    "name": "Shubham Sharma",
+    "title": "Transforming Healthcare with Tailored Solutions & Data-Driven Marketing",
+    "company": "Driving Success in Health & Wellness",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADSVeP8BepuYWSh4Ve3ayNKCuwW_shMMId0",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Shubham Sharma is focused on transforming healthcare with tailored solutions, indicating a role that may involve purchasing tools, placing him in TIER 2.",
+    "is_qualified": true
+  }
+]
