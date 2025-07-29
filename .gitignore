@@ -37,5 +37,11 @@ out/
 *.temp
 .cache/
 
-# Communication archives (if sensitive)
-# agents/comm_archive.json
+# Trinity internal files that change during use
+agents/comm.json
+agents/.comm.lock
+agents/.json_corrupted
+CURRENT_SPRINT.md
+
+# Note for users: Add 'trinity/' to your project's .gitignore
+# to prevent Trinity from being committed to your project
