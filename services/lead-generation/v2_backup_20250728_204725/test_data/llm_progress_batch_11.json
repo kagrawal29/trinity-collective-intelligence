@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Oliver Johnson",
+    "title": "GTM & Community Lead at Rep.ai",
+    "company": "| Founder of Tech Sales Tutors",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADeNEJQBqgXX6QYCijyWLKyFeF4ZaTVecGs",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Oliver Johnson is in a growth role as GTM & Community Lead and is likely involved in purchasing lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Zakir Shaikh - YourEmailGuy",
+    "title": "[Get your Cold Emails & Marketing Emails delivered to INBOX & not Spam] + [FIX Your Email Deliverability] + [STOP hackers from impersonating your business to send phishing emails to your customers] ==> #YourEmailGuy",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAAEYLggBC63J-unnTvvb_1qGuhP-NrP8uSI",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 40,
+    "llm_reasoning": "Zakir Shaikh appears to be a service provider focused on email deliverability and marketing, which places him in TIER 4.",
+    "is_qualified": false
+  },
+  {
+    "name": "Saif Qureshi",
+    "title": "\"Associate Product Manager\"",
+    "company": "| Ex TrueMeds || Ex Unacademy || Driven by Expertise in Product/Project Management & Operations Management, Empowered through Data Analysis and Business Analytics Upgrades\"",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAB-sGL8BmLp2pqZNdFf9dMPwcFygVt5x9qE",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Saif Qureshi is an Associate Product Manager, which indicates involvement in product management but not a direct purchasing role for lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Pratiek Kale - Performance Marketing Strategist\u2122",
+    "title": "Meta Certified Digital Strategist\ud83c\udf96",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAByB2AYBGf-At7f7-zzrpHOwnVMZBmPyaXU",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Pratiek Kale is a performance marketing strategist, likely involved in purchasing marketing tools, placing him in TIER 2.",
+    "is_qualified": true
+  },
+  {
+    "name": "Divyanshi Sharma",
+    "title": "Co-Founder @AcquisitionX",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADIWFJcBj5zbsAjb1mDBIFOlmqfumfLSZqs",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Divyanshi Sharma is a Co-Founder at AcquisitionX, indicating a leadership role that may involve purchasing decisions.",
+    "is_qualified": true
+  },
+  {
+    "name": "Muhammad Raza",
+    "title": "Founder@LunalinkAi",
+    "company": "AI-Pow Software Engineer | AI Voice Solutions | AI Call Centre |",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAEe6ecABMTgThlgMSXdejH5bYG7oiyClTW4",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Muhammad Raza is a founder and involved in AI solutions, which suggests he may buy tools and APIs, placing him in TIER 3.",
+    "is_qualified": true
+  },
+  {
+    "name": "ANFAL HASSAN",
+    "title": "Blockchain",
+    "company": "Builder in Web3 | Entrepreneur | Technologist | Developer | Web3 Strategist & Consultant | RWA- Tokenization | AI |",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABsg-zsBZWVojxwRO-Ja0aKxX2UA2Vcoo_k",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Anfal Hassan is a Web3 strategist and consultant, likely involved in purchasing decisions related to blockchain and AI tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Kiran Chavan",
+    "title": "B2B Sales Catalyst: Working with startups & SMBs 3x pipeline with proven outreach framework",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAB8IZRgBZGQj-0TFY3fDjtXaVd8qhlA5qPo",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Kiran Chavan works as a B2B Sales Catalyst, indicating involvement in growth roles and potential purchasing of lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Rebecca Solomon",
+    "title": "Solving Critical Skills Gaps with AI",
+    "company": "Reduced Training Time by 70% for Global Enterprises | Workforce Development at Scale | Former @TheWorldBank & @ColumbiaUniversity",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAAepBi0BLBc-ux7oF9m7G4c2Ki8l2T0iZAQ",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Rebecca Solomon has experience in workforce development for global enterprises, suggesting a role that may involve purchasing decisions.",
+    "is_qualified": true
+  },
+  {
+    "name": "Ankith H",
+    "title": "I help B2B companies to generate more revenue without a massive sales team by building automated growth infrastructures",
+    "company": "GTM Strategist |",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAEQik5oBFJcMtwGBQRQQavsOpH-RiDocBtc",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Ankith H is a GTM strategist focused on automating growth infrastructures, indicating a role that likely involves purchasing lead generation tools.",
+    "is_qualified": true
+  }
+]

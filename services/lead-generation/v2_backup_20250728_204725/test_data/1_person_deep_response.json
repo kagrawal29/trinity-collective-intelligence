@@ -1,0 +1,924 @@
+{
+  "endpoint": "https://linkedin-data-scraper.p.rapidapi.com/person_deep",
+  "status_code": 200,
+  "duration_seconds": 4.36,
+  "headers": {
+    "Date": "Sun, 27 Jul 2025 12:30:14 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "etag": "W/\"5feb-hqaLxb+qsHG1wXTfq7BZaNIfvgM\"",
+    "rndr-id": "fe10d4ee-4364-43d7",
+    "x-render-origin-server": "Render",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "vary": "Accept-Encoding",
+    "CF-RAY": "965c25836fa0fdc3-SIN",
+    "cf-cache-status": "DYNAMIC",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "X-RateLimit-Requests-Limit": "20000",
+    "X-RateLimit-Requests-Remaining": "18925",
+    "X-RateLimit-Requests-Reset": "1624544",
+    "Server": "RapidAPI-1.2.8",
+    "X-RapidAPI-Version": "1.2.8",
+    "X-RapidAPI-Region": "AWS - ap-southeast-1",
+    "X-RapidAPI-Request-Id": "edddadfde887db4b1aa6f362eb58c8c4b1475c06de4b609e257315a8a8ca98f1"
+  },
+  "response": {
+    "success": true,
+    "status": 200,
+    "data": {
+      "firstName": "Suprava",
+      "lastName": "Sabat",
+      "fullName": "Suprava Sabat",
+      "publicIdentifier": "suprava-sabat-saasleadgen",
+      "headline": "Co-Founder @AcquisitionX",
+      "associatedHashtags": "",
+      "connections": 6487,
+      "followers": 37056,
+      "emailRequired": "",
+      "creatorWebsite": {
+        "name": "Get 2025 Lead Gen Hacks :)  ",
+        "link": "https://acquisitionx.substack.com/"
+      },
+      "openConnection": true,
+      "memberId": "",
+      "urn": "ACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8",
+      "addressCountryOnly": "",
+      "addressWithCountry": "United States",
+      "addressWithoutCountry": "United States",
+      "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+      "backgroundPicture": "https://media.licdn.com/dms/image/v2/D4D16AQFOEZ_01acJZQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1720094781474?e=1756339200&v=beta&t=7dDGFwmtn_u9fpE_-atBoTqmLybo8TvpkGCMXyEH3So",
+      "profilePicAllDimensions": [
+        {
+          "width": 100,
+          "height": 100,
+          "url": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw"
+        },
+        {
+          "width": 200,
+          "height": 200,
+          "url": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1692859740080?e=1756339200&v=beta&t=zFlqjz-rRzMCes3Pzlf1ZuLhlEtQK72e3Uy7ERbhs1w"
+        },
+        {
+          "width": 400,
+          "height": 400,
+          "url": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1692859740080?e=1756339200&v=beta&t=fY-NyRnBUeZy91DR9QqTKDExn7DzBTlhG2-WKzOlMaU"
+        },
+        {
+          "width": 800,
+          "height": 800,
+          "url": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1692859740080?e=1756339200&v=beta&t=PMYgPhmJMc-4lwKxHWWRVDi7YVjZDFaqxiBpTSnlRVQ"
+        }
+      ],
+      "interests": [
+        {
+          "section_name": "Top Voices",
+          "section_components": [
+            {
+              "titleV2": "Marshall Goldsmith",
+              "caption": "1,586,982 followers",
+              "subtitle": "My latest project: MarshallGoldsmith.ai Ask me any question.\nEverything I know is available for free! | Thinkers50 Hall of Fame | #1 Executive Coach | #1 Leadership Thought Leader | #1 NYT Bestselling Author",
+              "size": "LARGE",
+              "textActionTarget": "https://www.linkedin.com/in/marshallgoldsmith",
+              "subComponents": []
+            },
+            {
+              "titleV2": "Dr. Sneha Sharma",
+              "caption": "141,174 followers",
+              "subtitle": "Helping Professionals like you Master the Skills & Mindset to get Spotlight everytime everywhere l Corporate Trainer l Personal Branding Expert l Public Speaking Trainer l Golfer l Resume Expert l Interview Coach",
+              "size": "LARGE",
+              "textActionTarget": "https://www.linkedin.com/in/snehasharmathecoach",
+              "subComponents": []
+            }
+          ]
+        },
+        {
+          "section_name": "Companies",
+          "section_components": [
+            {
+              "titleV2": "Microsoft",
+              "caption": "25,968,359 followers",
+              "size": "LARGE",
+              "textActionTarget": "https://www.linkedin.com/company/1035/",
+              "subComponents": []
+            },
+            {
+              "titleV2": "LinkedIn",
+              "caption": "31,420,490 followers",
+              "size": "LARGE",
+              "textActionTarget": "https://www.linkedin.com/company/1337/",
+              "subComponents": []
+            }
+          ]
+        },
+        {
+          "section_name": "Groups",
+          "section_components": [
+            {
+              "titleV2": "Flooencer Creator Community",
+              "caption": "62 members",
+              "size": "LARGE",
+              "textActionTarget": "https://www.linkedin.com/groups/13183141",
+              "subComponents": []
+            },
+            {
+              "titleV2": "AI Marketing Connect",
+              "caption": "1,108 members",
+              "size": "LARGE",
+              "textActionTarget": "https://www.linkedin.com/groups/14623549",
+              "subComponents": []
+            }
+          ]
+        },
+        {
+          "section_name": "Newsletters",
+          "section_components": [
+            {
+              "titleV2": "Growth Newsletter",
+              "caption": "Published daily",
+              "subtitle": "Growth Newsletter - Weekly Newsletter Focused on Growth & Sales.  Helping Companies Build Acquire Revenue Faster.",
+              "size": "LARGE",
+              "textActionTarget": "https://www.linkedin.com/newsletters/6865821061750030336",
+              "subComponents": [
+                {
+                  "insightComponent": {
+                    "text": "Jesse Ouellette",
+                    "actionTarget": "https://www.linkedin.com/in/jesseoue"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_name": "Schools",
+          "section_components": [
+            {
+              "titleV2": "Indian Institute Of Tourism And Travel Management",
+              "caption": "9,080 followers",
+              "size": "LARGE",
+              "textActionTarget": "https://www.linkedin.com/school/15141062/",
+              "subComponents": []
+            },
+            {
+              "titleV2": "Masters' Union",
+              "caption": "98,534 followers",
+              "size": "LARGE",
+              "textActionTarget": "https://www.linkedin.com/school/31250989/",
+              "subComponents": []
+            }
+          ]
+        }
+      ],
+      "recommendations": [
+        {
+          "section_name": "Received",
+          "section_components": [
+            {
+              "titleV2": "Ivan Montanhini",
+              "caption": "June 20, 2024, Ivan was Suprava\u2019s client",
+              "subtitle": "Estou educando a pr\u00f3xima gera\u00e7\u00e3o de vendedores! | CEO & Founder @ LEARN2SELL",
+              "size": "LARGE",
+              "textActionTarget": "https://www.linkedin.com/in/ivanmontanhini",
+              "image": "https://media.licdn.com/dms/image/v2/D4D03AQGm1UBqUB4Yzw/profile-displayphoto-shrink_100_100/B4DZbmKEFCHsAU-/0/1747618120617?e=1756339200&v=beta&t=CQ7BYoQ3obtg-IU_13-BnPXnBw1YnIIoMRiUwCi9ukw",
+              "subComponents": [
+                {
+                  "fixedListComponent": [
+                    {
+                      "type": "textComponent",
+                      "text": "Suprava is truly a global reference when it comes to demand generation and B2B leads."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titleV2": "Haider Zaidi",
+              "caption": "June 13, 2023, Haider worked with Suprava but on different teams",
+              "subtitle": "LinkedIn Ghostwriter | Helping you grow your personal brand on LinkedIn in 90 days.",
+              "size": "LARGE",
+              "textActionTarget": "https://www.linkedin.com/in/haider-zaidi-copywriter",
+              "image": "https://media.licdn.com/dms/image/v2/D4D03AQFC-AMwNi9A6Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1696291336136?e=1756339200&v=beta&t=xVfep-2QJPFEnnsg4GC3-GWFeP3fKP5uSzfg-zZKUzU",
+              "subComponents": [
+                {
+                  "fixedListComponent": [
+                    {
+                      "type": "textComponent",
+                      "text": "Splendid!!!  - That's how I would define Suprava. \n\nI had the privilege to have a detailed discussion with Suprava. \n\nShe gave me valuable insights about creating the proper funnel and working with coaches and successfully generate leads through Webinars. \n\nI must say that she has a huge potential under her wings to make a positive impact in the marketing landscape. \n\nI would love to hop on a call with her again. But next time..... over a cup of Coffee."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_name": "Given",
+          "section_components": [
+            {
+              "titleV2": "Rahul Raisinghani",
+              "caption": "September 2, 2023, Suprava was Rahul\u2019s client",
+              "subtitle": "Performance Marketer | Founder : RR Digital Marketing Services (5x+ ROAS) | Generated $50M+ (400 Cr+) in Ad Revenue | Trainer & Speaker | Personal Branding Coach | Mindset Marketing",
+              "size": "LARGE",
+              "textActionTarget": "https://www.linkedin.com/in/rahulraisinghanidigitalmarketer",
+              "image": "https://media.licdn.com/dms/image/v2/D4D03AQGtlBhTKJ4sGA/profile-displayphoto-scale_200_200/B4DZgW4XfJG8Ac-/0/1752730535253?e=1756339200&v=beta&t=PqJ_wWCOduUKPm7TWyZKvfYt6e-FTU6DDdh4IRKYPwc",
+              "subComponents": [
+                {
+                  "fixedListComponent": [
+                    {
+                      "type": "textComponent",
+                      "text": "Rahul is a fantastic organiser. 10/10 recommended for his skills. "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titleV2": "Sana Virani\ud83c\udf0f",
+              "caption": "July 20, 2023, Suprava was Sana\u2019s client",
+              "subtitle": "Business Lawyer. Paralegal. Startups. All about Contracts",
+              "size": "LARGE",
+              "textActionTarget": "https://www.linkedin.com/in/sanaviranicontractconsultant",
+              "image": "https://media.licdn.com/dms/image/v2/D4D03AQF3iQ_NT8XxKg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729179411935?e=1756339200&v=beta&t=h0I6ylHwc4u2fPmzn8w3f8fCM1rsIKUYRjybaFtRmn8",
+              "subComponents": [
+                {
+                  "fixedListComponent": [
+                    {
+                      "type": "textComponent",
+                      "text": "Sana was excellent! She helped me review my contract. I would recommend her for all sorts of contractual work 10/10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "postText": "You are losing leads because \u274c \n\n--> You do pitch slap \n--> You aren't doing it on a scale\n--> You are using the strategies of 2022\n\nOne of our clients went from:\n\n-> Booking 5 sales calls/mo\n\nTo\n\n-> Booking 30 sales calls/mo\n\nScroll this \ud83d\udc47  till the end to find out!\n\n---\n\nDrop your questions in the comments!\n\n#sales #leadgen #ai",
+          "image": "undefinedundefined",
+          "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7203397700959035395?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7203397700959035395%29",
+          "numLikes": 158,
+          "numComments": 34,
+          "reactionTypeCounts": [
+            {
+              "count": 140,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 9,
+              "reactionType": "INTEREST"
+            },
+            {
+              "count": 7,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 2,
+              "reactionType": "PRAISE"
+            }
+          ]
+        },
+        {
+          "postText": "If you have a SaaS product then stop and scroll.\n\n\n#saas #saasmarketing #softwareasservice",
+          "image": "undefinedundefined",
+          "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7118226097216851968?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7118226097216851968%29",
+          "numLikes": 94,
+          "numComments": 23,
+          "reactionTypeCounts": [
+            {
+              "count": 82,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 5,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 3,
+              "reactionType": "APPRECIATION"
+            },
+            {
+              "count": 3,
+              "reactionType": "INTEREST"
+            },
+            {
+              "count": 1,
+              "reactionType": "PRAISE"
+            }
+          ]
+        },
+        {
+          "postText": "We helped our client get $20K worth of deals!\n\nAnd here\u2019s how we did it.\ud83d\udc47\ud83c\udffb\n\nWe used our AL and ML models to find people in the niche. \n\nWho are already looking for their service.\n\nClient Industry: Marketing & Sales\n\nSolution:\n\n1. LinkedIn:\n\n- 5 posts daily\u00a0\n- 15+15 msgs daily\u00a0\n- Launched a webinar \n\nCalls booked: 7\nDeals closed: 2\nTotal: $12K \n\n2. Facebook:\n\n- Lead magnets\u00a0\n- 30 DMs/ daily\n\nCalls booked: 9\nDeals closed: 2\nTotal: $5k\n\n3. Cold-Calling:\n\n- 100 calls/day\n- 5 days a week = 500 \n\nCalls booked: 6\nDeals Closed: 1\nTotal: $3K\n\nDuration: 45 days\nTotal appointments: 22 (all qualified)\nDeals closed: 5\nRevenue: $20K\n-----------------\n\nIf you run a B2B business and need a second hand in getting qualified leads then DM me \"LEADS\". And let's see if we are a right fit!\n\nSlots open for September. \n\n**Only for B2B consultants/CEOs/Founders/SDRs**\n\n#ai #sales #clientsuccess ",
+          "image": "https://media.licdn.com/dms/image/v2/D4D22AQGKT9RrpdmHzg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1692879472297?e=1756339200&v=beta&t=alMaJA_r6-Snh0Q00Hy3Y22UdnAkeCYxfyZLzz-Yuy4",
+          "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7100451149152985090?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7100451149152985090%29",
+          "numLikes": 146,
+          "numComments": 36,
+          "reactionTypeCounts": [
+            {
+              "count": 127,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 9,
+              "reactionType": "PRAISE"
+            },
+            {
+              "count": 5,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 4,
+              "reactionType": "APPRECIATION"
+            },
+            {
+              "count": 1,
+              "reactionType": "INTEREST"
+            }
+          ]
+        },
+        {
+          "postText": "Yesterday I was on a client call..\n\nAnd we were talking the next steps\u2026\n\nThen my client showed me the dashboard of their product \u2026\n\nThey are getting over:\n\n-> 30 sign-ups/day\n-> Over 200+ installs/day \n-> 20K+ impressions on posts\n\nAll this with:\n\n-> Organic marketing\n-> Under just 10 days \n\nAnd all of the sign-ups and installs are from their target market.\n\nEarlier:\n\n-> 42 installs/day\n-> Only 5-7 sign-ups/day\n-> 500 impressions on posts\n\nThis is the power of Linkedin if utilised properly.\n\nPS: If you have a SAAS product that you believe can do well if marketed properly. Then reach out to me and let\u2019s discuss!\n\nCheck the caption for a more clear view of the dashboard.\n\n#saasmarketing #saasproduct #saas",
+          "image": "https://media.licdn.com/dms/image/v2/D4D22AQHOdia12ZqGXQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1690286563802?e=1756339200&v=beta&t=3Y-AlT-la4t-gGzEeVe0wIMW7Hpty2JAHQ85zrXePoY",
+          "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7089575700394893313?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7089575700394893313%29",
+          "numLikes": 154,
+          "numComments": 66,
+          "reactionTypeCounts": [
+            {
+              "count": 136,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 9,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 6,
+              "reactionType": "INTEREST"
+            },
+            {
+              "count": 2,
+              "reactionType": "PRAISE"
+            },
+            {
+              "count": 1,
+              "reactionType": "APPRECIATION"
+            }
+          ]
+        },
+        {
+          "postText": "Can I get them to 10K+ sign-ups?\n\nHi people,\n\nI am doing a live project\u2026\n\nMy goal is to get them 10K+ sign-ups this month\n\nMeet Volodymyr, he is the CEO of Salee\n\nSalee is a LinkedIn-authorized AI tool\n\nThat writes personalized msgs for you\n\nFOR FREE \n\nWho should try Salee?\n\n-> If you are doing your outbound campaigns by yourself\n-> If you are not getting good results from your msgs\n-> If you want to save 10+ hrs/weekly\n\nWho\u2019s it for?\n\n-> Sales Managers\n-> Consultants\u00a0\n-> Freelancers\n-> CEOs\n\nTry salee for free- *link in the comments below*\n\nAnd make sure to follow -\u00a0Volodymyr Dybenko\n\nCurrently, we are at:\n\n-> 11K followers\n-> 6K installs\n\nFollow us to find out if we are going to fail or pass!\n\nHave any thoughts? Let me know in the comments below! \n\n#liveproject #ai #salesboost #signup #contentmarketingstrategy \n",
+          "image": "https://media.licdn.com/dms/image/v2/D4D22AQE7i8nZx26TtQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1689682833850?e=1756339200&v=beta&t=bRewEFX7EyyjwFkanTMA-eBbjmdqBQVYVEIgrRLjbVg",
+          "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7087043472821559296?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7087043472821559296%29",
+          "numLikes": 72,
+          "numComments": 21,
+          "reactionTypeCounts": [
+            {
+              "count": 67,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 3,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 2,
+              "reactionType": "APPRECIATION"
+            }
+          ]
+        }
+      ],
+      "about": "At AcquisitionX, we build lead-gen systems that work in 2025.\n\nWe focus on having multichannel systems for our clients!\n\nProblems We Tackle:\n\n- Inconsistent lead quality.\n- Time-consuming manual processes.\n- High CPAs on paid channels.\n\nSolutions We Offer:\n\n- Faster go-to-market\n- Community building\n- Personal branding\n- High-converting acquisition funnels\n- A guarantee to reduce CPAs\n- Strategic audience segmentation for targeted outreach\n- Integrated AI-driven automation for streamlined operations\n- Advanced CRO techniques to keep you cutting-edge.\n\nWho can benefit:\n\n- B2B SAAS companies\n- B2B service-based business\n\nBook a call with us here: https://calendly.com/acquisitionxsuprava/discovery",
+      "experiences": [
+        {
+          "companyId": "101349439",
+          "companyUrn": "urn:li:fsd_company:101349439",
+          "companyLink1": "https://www.linkedin.com/company/101349439/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH2vbc44uexHg/company-logo_200_200/company-logo_200_200/0/1720096752155/acquisitionxpro_logo?e=1756339200&v=beta&t=-_mYtip-XIRUGUM7xNn0Qp4GVz93uR2hD5NANZpyUOM",
+          "title": "AcquisitionX",
+          "subtitle": "Full-time \u00b7 1 yr 10 mos",
+          "caption": "United States",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Co-Founder",
+              "caption": "Oct 2023 - Present \u00b7 1 yr 10 mos",
+              "metadata": "Remote",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "We help B2B companies build multichannel acquisition systems that bring leads from everywhere and every day!"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Skills: Product Marketing \u00b7 SaaS Sales \u00b7 Lead Generation \u00b7 Go-to-Market Strategy \u00b7 B2B Marketing \u00b7 Social Media Marketing \u00b7 Salesforce.com \u00b7 Enterprise Software \u00b7 Start-up Leadership"
+                }
+              ]
+            },
+            {
+              "title": "Founder",
+              "caption": "Oct 2023 - Dec 2023 \u00b7 3 mos",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Skills: Sales \u00b7 Product Marketing \u00b7 Customer Acquisition \u00b7 SaaS Sales \u00b7 Lead Generation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "33200573",
+          "companyUrn": "urn:li:fsd_company:33200573",
+          "companyLink1": "https://www.linkedin.com/company/33200573/",
+          "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEm61LvFDQ0Gg/company-logo_100_100/B4EZaIZV7PGQAQ-/0/1746045069009/indpendent_contractor_logo?e=1756339200&v=beta&t=BUDrguhqjno0kdVw8TxIu0t8dczpqwAFb9A6cLCi-gA",
+          "title": "Self Employed",
+          "subtitle": "Freelance \u00b7 6 yrs 11 mos",
+          "breakdown": true,
+          "subComponents": [
+            {
+              "title": "Client Acquistion Partner",
+              "caption": "Feb 2017 - Dec 2023 \u00b7 6 yrs 11 mos",
+              "metadata": "Remote",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "I have helped my clients book over 30 appointments on a monthly basis just through LinkedIn. \n\nHere's what I will do for you:\n\n-> Attract high-paying clients\n-> Book high-quality appointments\n-> Position you as a leader in your industry\n\nDM me and let's chat!"
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Skills: Lead Generation \u00b7 Setting Appointments \u00b7 B2B Marketing"
+                }
+              ]
+            },
+            {
+              "title": "Copywriter",
+              "caption": "Mar 2019 - Dec 2021 \u00b7 2 yrs 10 mos",
+              "metadata": "Remote",
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Wrote blogs and topical posts for Instagram and Twitter mostly on digital marketing to increase sales.\n- Coordinated with the marketing team to build strategies and learned the proper usage of SEO keywords. And met with strict guidelines by delivering 5-6 articles weekly.\n- Created content for the whole website for a client featuring products and services that maximized business for the company.\n- Collaborated with business development and sales teams to ensure company-wide branding consistency for our clients."
+                },
+                {
+                  "type": "textComponent",
+                  "text": "Skills: Creative Writing \u00b7 Copywriting \u00b7 Content Marketing \u00b7 Marketing Strategy \u00b7 Digital Marketing"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "educations": [],
+      "licenseAndCertificates": [
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/822535/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1756339200&v=beta&t=aantC5jR1-RG8YwCmfQmnmABDCeR0LCqR6auwJV9b84",
+          "title": "Content Strategy & Planning in B2B",
+          "subtitle": "Udemy",
+          "caption": "Issued Oct 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "Skills: Marketing Strategy \u00b7 Content Creation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "companyId": "1441",
+          "companyUrn": "urn:li:fsd_company:1441",
+          "companyLink1": "https://www.linkedin.com/company/1441/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1756339200&v=beta&t=XzBIwg-VBAxOoyBjMC7CK7kS4kFQXmQNjPwnDLVrUoA",
+          "title": "Fundamentals Of Digital Marketing",
+          "subtitle": "Google",
+          "caption": "Issued Sep 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "1646",
+          "companyUrn": "urn:li:fsd_company:1646",
+          "companyLink1": "https://www.linkedin.com/company/1646/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_200_200/company-logo_200_200/0/1631318058235?e=1756339200&v=beta&t=YUiHxRXYaLxL3JIO8jjukkaT6EVBT1Gr2nd42t9p55M",
+          "title": "Entrepreneurship in Emerging Economy",
+          "subtitle": "Harvard University",
+          "caption": "Issued May 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "822535",
+          "companyUrn": "urn:li:fsd_company:822535",
+          "companyLink1": "https://www.linkedin.com/company/822535/",
+          "logo": "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1756339200&v=beta&t=aantC5jR1-RG8YwCmfQmnmABDCeR0LCqR6auwJV9b84",
+          "title": "Brand Management & Building",
+          "subtitle": "Udemy",
+          "caption": "Issued Sep 2020",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "companyId": "2453129",
+          "companyUrn": "urn:li:fsd_company:2453129",
+          "companyLink1": "https://www.linkedin.com/company/2453129/",
+          "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1756339200&v=beta&t=E3QY7YN7qfoJSsWnI_byT44XMuYmW9pryNQTADlJTro",
+          "title": "The Psychology of Marketing & Communication",
+          "subtitle": "Coursera",
+          "caption": "Issued Aug 2021 \u00b7 Expired Nov 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        }
+      ],
+      "honorsAndAwards": [],
+      "languages": [],
+      "volunteerAndAwards": [],
+      "verifications": [],
+      "promos": [],
+      "highlights": [],
+      "projects": [
+        {
+          "title": "Rebranding: SagasIT Analytics",
+          "subtitle": "Jul 2022 - Sep 2022",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "\u2713 Developed a new logo with different font & colour grading which represents the brand more effectively. \n\u2713 Re-worked the website by creating new content with proper SEO implementation.\n\u2713 Created & designed the whole website template which was best suited for a B2B business. \n\u2713 Changed the company's presentation with the new format that communicate the brand's goal more clearly."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Impact of Cross-Culture on Coca-Cola",
+          "subtitle": "Jun 2021 - Aug 2021",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "\u2713 Developed a chart with team by interviewing HRs on how it would impact the company's dimension. \n\u2713 Presented a clear strategy on how we can take the business plan forward.\n\u2713 Researched thoroughly about Coco-Cola's cross-cultural activities and how they are developing day-by-day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Smart City Project",
+          "subtitle": "Apr 2019 - Jun 2019",
+          "breakdown": false,
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "textComponent",
+                  "text": "- Led a team of seven and worked on different parts of cities to identify the areas where it lacks. Identified ICT standards of the city and worked accordingly with the team.\n- Worked with the team to measure the framework of the city\u2019s GDP and organized various campaigns to raise awareness of the situation."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "courses": [],
+      "testScores": [],
+      "organizations": [],
+      "volunteerCauses": [],
+      "skills": [
+        {
+          "title": "Lead Generation",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "3 experiences across AcquisitionX and 1 other company"
+                },
+                {
+                  "type": "insightComponent",
+                  "text": "Endorsed by Kat Ford who is highly skilled at this"
+                },
+                {
+                  "type": "insightComponent",
+                  "text": "Endorsed by 6 people in the last 6 months"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SaaS Sales",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "2 experiences at AcquisitionX"
+                },
+                {
+                  "type": "insightComponent",
+                  "text": "Endorsed by 4 people in the last 6 months"
+                },
+                {
+                  "type": "insightComponent",
+                  "text": "10 endorsements"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sales",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "Founder at AcquisitionX"
+                },
+                {
+                  "type": "insightComponent",
+                  "text": "Endorsed by 3 people in the last 6 months"
+                },
+                {
+                  "type": "insightComponent",
+                  "text": "20 endorsements"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Linkedin Marketing",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "19 endorsements"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Outbound Marketing",
+          "subComponents": [
+            {
+              "description": []
+            }
+          ]
+        },
+        {
+          "title": "Salesforce.com",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "Co-Founder at AcquisitionX"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Enterprise Software",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "Co-Founder at AcquisitionX"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Start-up Leadership",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "Co-Founder at AcquisitionX"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Online Lead Generation",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "1 endorsement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Go-to-Market Strategy",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "Co-Founder at AcquisitionX"
+                },
+                {
+                  "type": "insightComponent",
+                  "text": "1 endorsement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Customer Acquisition",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "Founder at AcquisitionX"
+                },
+                {
+                  "type": "insightComponent",
+                  "text": "1 endorsement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Product Marketing",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "2 experiences at AcquisitionX"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Dux-Soup Turbo",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "5 endorsements"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Setting Appointments",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "Client Acquistion Partner at Self Employed"
+                },
+                {
+                  "type": "insightComponent",
+                  "text": "7 endorsements"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Brand Marketing",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "7 endorsements"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Marketing Automation",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "12 endorsements"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Marketing Strategy",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "Copywriter at Self Employed"
+                },
+                {
+                  "type": "insightComponent",
+                  "text": "Content Strategy & Planning in B2B"
+                },
+                {
+                  "type": "insightComponent",
+                  "text": "4 endorsements"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Content Creation",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "Content Strategy & Planning in B2B"
+                },
+                {
+                  "type": "insightComponent",
+                  "text": "8 endorsements"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Campaign Management",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "6 endorsements"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Content Strategy",
+          "subComponents": [
+            {
+              "description": [
+                {
+                  "type": "insightComponent",
+                  "text": "5 endorsements"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

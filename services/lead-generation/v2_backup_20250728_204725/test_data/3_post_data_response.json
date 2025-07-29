@@ -1,0 +1,51 @@
+{
+  "endpoint": "https://linkedin-data-scraper.p.rapidapi.com/post",
+  "status_code": 200,
+  "response": {
+    "success": true,
+    "status": 200,
+    "data": {
+      "postText": "How to turn LinkedIn engagement into qualified sales calls, all automated\n\nLet\u2019s be honest\n\nSales is not about the best pitch.\n\nIt\u2019s about perfect timing.\n\nYou could have the best offer in the world\u2026\n\nIf it hits their inbox too early, they\u2019ll ignore it.\nToo late? \n\nThey\u2019ve already gone with a competitor.\n\nSo what really matters?\n\nIntent + Timing.\n\nHere\u2019s how this agent fixes this completely on autopilot:\n\nStep 1: Trigify.io extracts relevant social data \n\n- Tracks profiles and keywords on LinkedIn to find high intent leads\n\n- Upload Linkedin profiles to continually monitor\n\n- Track who engages with their posts\n\n- Run keyword searches to find individual post engagement \n\nNow you know who\u2019s showing interest. \n\nStep 2: AI Agent reads the signal and context\n\nInstead of just dumping names into a list\u2026\nThe agent pulls in:\n\n- Their role\n- Company\n- ICP fit\n- What content did they engage with\n\nAnd then decides what type of message they should get.\n\nStep 3: It writes and sends the message \n\nYour AI agent writes a personalized email or LinkedIn message\n\n\u2192 That references what they engaged with\n\u2192 That speaks directly to their job + use case\n\u2192 And that hits right when intent is high\n\nAnd when they respond?\n\nThe agent stops outreach across all other channels automatically.\n\nIt\u2019s like having a 24/7 SDR \n\nThat never sleeps, never forgets, and always hits at the right time.\n\n\u2014\u2014\n\nSend this post to your sdr! :) \n\nIf you need help with this system feel free to reach out or comment \u201cagent\u201d",
+      "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7353758072894320642",
+      "imageComponent": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQExs0r2Gs2eQg/feedshare-shrink_800/B4DZg3L_MQH4Ak-/0/1753272549351?e=1756339200&v=beta&t=qBBo73k3g5jI-CjEYqOX5kpmeAzpClNhWKet1Cao5CU"
+      ],
+      "linksInPost": [
+        "https://www.linkedin.com/company/trigify/"
+      ],
+      "actor": {
+        "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+        "actorDescription": "Co-Founder @AcquisitionX",
+        "actorName": "Suprava Sabat",
+        "actorSubDescription": "4d \u2022   ",
+        "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+      },
+      "is_repost": false,
+      "socialCount": {
+        "numLikes": 144,
+        "numComments": 62,
+        "numShares": 5,
+        "reactionTypeCounts": [
+          {
+            "count": 130,
+            "reactionType": "LIKE"
+          },
+          {
+            "count": 11,
+            "reactionType": "EMPATHY"
+          },
+          {
+            "count": 3,
+            "reactionType": "INTEREST"
+          }
+        ]
+      },
+      "postedAt": "2025-07-23T12:09:10.000Z",
+      "postedAgo": "4d \u2022   ",
+      "urn": "urn:li:activity:7353758072894320642",
+      "reactionsUrn": "urn:li:activity:7353758072894320642",
+      "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7353758072894320642,urn:li:activity:7353758072894320642,urn:li:highlightedReply:-)",
+      "repostsUrn": "urn:li:activity:7353758072894320642"
+    }
+  }
+}

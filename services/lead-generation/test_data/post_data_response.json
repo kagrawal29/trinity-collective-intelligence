@@ -1,0 +1,55 @@
+{
+  "success": true,
+  "status": 200,
+  "data": {
+    "postText": "We built a multichannel lead-gen funnel for a $300M+ B2B company that helped them get 10x more leads (here\u2019s everything we did for them):\n\nThis client came to us with solid funding, a decent SDR stack but no system to make it stick. \n\nThey were relying too much on cold-email which led their revenue to fall.\n\nThey needed help to make a presence everywhere which will help them get more visibility.\n\nHere\u2019s what we did for them \ud83d\udc47\n\n1\ufe0f\u20e3 Started with social signals\n\n We tracked:\n\n- Job postings for roles they could solve.\n- Fresh funding + expansion news.\n- Executives commenting on competitors.\n- Looking for roles\n- Likes/comments of competitors \n\nSo every name in the funnel was pre-qualified by real intent.\n\nWe did this using Trigify.io \n\n2\ufe0f\u20e3 Broke the pattern with handwritten notes. \ud83d\udcdd \n\nBefore any email or DM, top accounts got a short handwritten note referencing the signal that triggered them.\n\nPhysical > inbox.\n\n90% open rate.\n\nWe used Handwrytten for this\n\n3\ufe0f\u20e3 Backed it up with an email the right way.\n\nNot ur daily spam.\n\nEach inbox warmed, low volume.\n\nShort plain-text follow-ups referencing the note.\n\nReplies went straight to their team.\n\nUsing Smartlead \n\n4\ufe0f\u20e3 Ran LinkedIn in parallel.\n\n Viewed their profiles \u2192 liked + commented on a recent post \u2192 soft connection request \u2192 no pitch in the first DM.\n\nResult: by the time an email landed, they knew who we were.\n\nIt was manually because of LinkedIn strict issues.\n\n5\ufe0f\u20e3 Made the whole team visible through content \n\nWe didn\u2019t just rely on SDRs.\n\nWe lined up posts from founders, AEs, and product heads.\n\nReal stories, lessons, and mini case studies.\n\nKept the company top-of-mind for every warm lead.\n\n6\ufe0f\u20e3 Added webinars for mid-funnel trust.\n\n Every month: a short live session solving 1 common pain point.\n\nEngaged lurkers, collected objections, and booked calls directly on the session.\n\nUsed Luma for this\n\n7\ufe0f\u20e3 Used an AI call to confirm every booked meeting.\n\n One hour before each call, an AI SDR rang the prospect:\n\n \u2705 Confirmed attendance\n \u2705 Answered basic questions\n \u2705 Offered reschedule if needed\n\nNo more no-shows. Simple but powerful.\n\nIt was using Retell AI \n\n8\ufe0f\u20e3 Built a private Slack space to capture everyone else.\n\nWebinar attendees, warm replies, LinkedIn engagers all pulled into a free Slack community.\n\nWeekly drops: playbooks, fresh case studies, behind-the-scenes.\n\nA trust funnel \u2014 prospects closed themselves later.\n\nWe set up a slack bot. That engaged their prospects.\n\n\ud83d\udc49 The result:\n\n- Higher show rates\n- Higher close rates\n\nIt gave a:\n\n- 40% lift in replies compared to their old high-volume approach\n\n- Zero guesswork about who to target next quarter\n\nThis is one of the most practical system for 2025.\n\nBe everywhere. \n\n\u2014\u2014\n\nIf you run sales at scale and want this architecture, my DMs are open :)\n\n\n\n\n\n\n#B2B #Outbound #LeadGen #Revenue #SalesOps",
+    "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7340393305525911552",
+    "imageComponent": [
+      "https://media.licdn.com/dms/image/v2/D4D22AQGkcq1MFe4Bgg/feedshare-shrink_2048_1536/B4DZd5QztpGsAs-/0/1750086139885?e=1756339200&v=beta&t=pHHFxVyN_BidXMDMHZfH7dPjG0o7NCnmDqizHptgFBY"
+    ],
+    "linksInPost": [
+      "https://www.linkedin.com/company/trigify/",
+      "https://www.linkedin.com/company/handwrytten/",
+      "https://www.linkedin.com/company/smartlead-ai/",
+      "https://www.linkedin.com/company/luma-hq/",
+      "https://www.linkedin.com/company/retellai/"
+    ],
+    "actor": {
+      "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+      "actorDescription": "Co-Founder @AcquisitionX",
+      "actorName": "Suprava Sabat",
+      "actorSubDescription": "1mo \u2022   ",
+      "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+    },
+    "is_repost": false,
+    "socialCount": {
+      "numLikes": 211,
+      "numComments": 44,
+      "numShares": 6,
+      "reactionTypeCounts": [
+        {
+          "count": 197,
+          "reactionType": "LIKE"
+        },
+        {
+          "count": 8,
+          "reactionType": "EMPATHY"
+        },
+        {
+          "count": 5,
+          "reactionType": "INTEREST"
+        },
+        {
+          "count": 1,
+          "reactionType": "PRAISE"
+        }
+      ]
+    },
+    "postedAt": "2025-06-16T15:02:21.000Z",
+    "postedAgo": "1mo \u2022   ",
+    "urn": "urn:li:activity:7340393305525911552",
+    "reactionsUrn": "urn:li:activity:7340393305525911552",
+    "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7340393305525911552,urn:li:activity:7340393305525911552,urn:li:highlightedReply:-)",
+    "repostsUrn": "urn:li:activity:7340393305525911552"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "test_run_id": "comprehensive_test_20250728_000928",
+  "start_time": "2025-07-28T00:09:28.511904",
+  "tests": [
+    {
+      "test_name": "API_Valid_Profile_Request",
+      "status": "PASS",
+      "execution_time_ms": 1997,
+      "details": {
+        "message": "Retrieved 20 posts",
+        "status_code": 200
+      },
+      "timestamp": "2025-07-28T00:09:30.509627"
+    },
+    {
+      "test_name": "API_Invalid_Profile_Handling",
+      "status": "WARN",
+      "execution_time_ms": 940,
+      "details": {
+        "message": "Unexpected status: 400"
+      },
+      "timestamp": "2025-07-28T00:09:31.450514"
+    },
+    {
+      "test_name": "LLM_High_Quality_B2B_Content",
+      "status": "PASS",
+      "execution_time_ms": 3013,
+      "details": {
+        "message": "Correctly scored high-quality content: 92/100",
+        "score": 92
+      },
+      "timestamp": "2025-07-28T00:09:34.463978"
+    },
+    {
+      "test_name": "LLM_Low_Quality_Content_Rejection",
+      "status": "PASS",
+      "execution_time_ms": 2139,
+      "details": {
+        "message": "Correctly rejected low-quality content: 10/100",
+        "score": 10
+      },
+      "timestamp": "2025-07-28T00:09:36.603145"
+    },
+    {
+      "test_name": "Database_Schema_Integrity",
+      "status": "FAIL",
+      "execution_time_ms": 2,
+      "details": {
+        "message": "Missing tables: ['processing_steps']",
+        "found_tables": [
+          "influencers",
+          "sqlite_sequence",
+          "posts",
+          "campaigns",
+          "prompt_versions",
+          "processing_logs",
+          "lead_qualification_results",
+          "processing_runs",
+          "post_qualifications"
+        ]
+      },
+      "timestamp": "2025-07-28T00:09:36.605472"
+    },
+    {
+      "test_name": "Database_Duplicate_Cleanup",
+      "status": "FAIL",
+      "execution_time_ms": 0,
+      "details": {
+        "message": "Database cleanup failed: table post_qualifications has no column named qualification"
+      },
+      "timestamp": "2025-07-28T00:09:36.606019"
+    },
+    {
+      "test_name": "Database_Data_Consistency",
+      "status": "PASS",
+      "execution_time_ms": 0,
+      "details": {
+        "message": "All 21 posts have content",
+        "posts_with_content": 21
+      },
+      "timestamp": "2025-07-28T00:09:36.606253"
+    },
+    {
+      "test_name": "Error_Handling_Malformed_Content",
+      "status": "PASS",
+      "execution_time_ms": 1820,
+      "details": {
+        "message": "Gracefully handled malformed content",
+        "score": 20
+      },
+      "timestamp": "2025-07-28T00:09:38.427237"
+    },
+    {
+      "test_name": "Error_Handling_Empty_Content",
+      "status": "FAIL",
+      "execution_time_ms": 2049,
+      "details": {
+        "message": "Failed to properly score empty content",
+        "result": "{'overall_score': 85, 'target_audience_score': 90, 'topic_relevance_score': 80, 'lead_quality_score': 85, 'action_trigger_score': 80, 'qualification': 'QUALIFIED', 'reasoning': 'The post targets B2B SaaS companies and discusses relevant topics like lead generation and sales automation, which are aligned with our ICP. It also encourages engagement from decision-makers.', 'key_indicators': ['discussion of tools', 'strategies for lead generation', 'engagement from decision-makers'], 'recommended_action': 'PROCESS', 'post_url': None, 'evaluated_at': '2025-07-28T00:09:40.476577', 'model_used': 'gpt-4o-mini'}"
+      },
+      "timestamp": "2025-07-28T00:09:40.476604"
+    },
+    {
+      "test_name": "Performance_Large_Content",
+      "status": "PASS",
+      "execution_time_ms": 2273,
+      "details": {
+        "message": "Processed large content efficiently",
+        "execution_time": 2.2730250358581543,
+        "content_length": 6000
+      },
+      "timestamp": "2025-07-28T00:09:42.750594"
+    },
+    {
+      "test_name": "Edge_Case_Unicode_Content",
+      "status": "PASS",
+      "execution_time_ms": 2424,
+      "details": {
+        "message": "Handled edge case",
+        "score": 25,
+        "content_preview": "B2B lead generation with \u00e9mojis \ud83d\ude80\ud83d\udcbc and \u00f1o\u00f1-ASCII \u00e7"
+      },
+      "timestamp": "2025-07-28T00:09:45.175258"
+    },
+    {
+      "test_name": "Edge_Case_All_Caps_Content",
+      "status": "PASS",
+      "execution_time_ms": 2291,
+      "details": {
+        "message": "Handled edge case",
+        "score": 75,
+        "content_preview": "URGENT B2B LEAD GENERATION OPPORTUNITY - MASSIVE S"
+      },
+      "timestamp": "2025-07-28T00:09:47.466498"
+    },
+    {
+      "test_name": "Edge_Case_Minimal_Content",
+      "status": "PASS",
+      "execution_time_ms": 1771,
+      "details": {
+        "message": "Handled edge case",
+        "score": 20,
+        "content_preview": "B2B leads"
+      },
+      "timestamp": "2025-07-28T00:09:49.238282"
+    },
+    {
+      "test_name": "Edge_Case_URL_Heavy_Content",
+      "status": "PASS",
+      "execution_time_ms": 1951,
+      "details": {
+        "message": "Handled edge case",
+        "score": 30,
+        "content_preview": "Check out https://example.com for B2B leads and ht"
+      },
+      "timestamp": "2025-07-28T00:09:51.190138"
+    },
+    {
+      "test_name": "Edge_Case_Hashtag_Heavy",
+      "status": "PASS",
+      "execution_time_ms": 2153,
+      "details": {
+        "message": "Handled edge case",
+        "score": 45,
+        "content_preview": "B2B lead generation #B2B #leadgen #sales #automati"
+      },
+      "timestamp": "2025-07-28T00:09:53.343895"
+    }
+  ],
+  "summary": {
+    "total_tests": 15,
+    "passed": 11,
+    "failed": 3,
+    "warnings": 1
+  },
+  "end_time": "2025-07-28T00:09:53.343919"
+}

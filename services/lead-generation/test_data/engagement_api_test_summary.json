@@ -1,0 +1,10 @@
+{
+  "test_timestamp": 1753642274.1313438,
+  "post_data_success": true,
+  "reactions_success": true,
+  "comments_success": true,
+  "reactions_urn": "urn:li:activity:7340393305525911552",
+  "comments_urn": "urn:li:fsd_socialDetail:(urn:li:activity:7340393305525911552,urn:li:activity:7340393305525911552,urn:li:highlightedReply:-)",
+  "reaction_count": 10,
+  "comment_count": 10
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Priyanka S",
+    "title": "Growth @AcquisitionX",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAD6jXaoBq6OCJjijTpOsqbYka1siXRqnmIw",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Priyanka S is in a growth role at AcquisitionX, likely involved in purchasing lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Joshua Okosodo",
+    "title": "AI Automation Specialist",
+    "company": "Automating Ops, Customer Tasks & Repetitive Workflows | Zapier - Make - n8n | SMM",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAE22A-MBYZGFNPCD5H1FYMXbqfK4cFThjAA",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Joshua Okosodo is an AI Automation Specialist, which suggests involvement in purchasing APIs and automation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Lalit Kumawat",
+    "title": "Aligning Strategy with Sustainability",
+    "company": "Leading ESG SaaS Growth @ GovEVA",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACUYHO8BrDYhrB_63JJPtlWT0qLH_sMYK4M",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Lalit Kumawat aligns strategy with sustainability in a growth role, indicating potential involvement in lead generation.",
+    "is_qualified": true
+  },
+  {
+    "name": "Bhuvan Bethanamudi",
+    "title": "Digital Marketing & AI Specialist",
+    "company": "AI Marketing | Vibe Coding & Automation | Content Creation | I Elevate Your Brand\u2019s Online Presence with AI",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADTmw10BsT3lzL98PTvm2o34phOD8YaE8Ek",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "Bhuvan Bethanamudi is a specialist in digital marketing and AI, likely providing services rather than making purchasing decisions.",
+    "is_qualified": false
+  },
+  {
+    "name": "Ronit Bajaji",
+    "title": "LinkedIn Growth Expert",
+    "company": "Helping Coaches & Consultants Get 25 to 30 Consistent High-Ticket Leads Using LinkedIn + AI | B2B Lead Generation | AI-Powered Outreach Strategist | Pure implementation mindest |",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAFuutUgBFMmJbary20Thlw6St_poT5bhyiU",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Ronit Bajaji focuses on lead generation for coaches and consultants, indicating a growth role that may involve purchasing tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Hugo Millington-Drake",
+    "title": "Using Social Signals To Predict Buyer Intent",
+    "company": "Co-Founder @ Trigify.io",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABCtOx0BtjTZ8lRDRvC4DbTcgzocZHMfwKE",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Hugo Millington-Drake is a co-founder involved in predicting buyer intent, likely in a growth role.",
+    "is_qualified": true
+  },
+  {
+    "name": "Dr. Vishal Weldode PhD \u23cf\ufe0f\ud83d\ude80",
+    "title": "Founder @b2bharvest II I do B2B Lead Generation in a \"SMART\" way and make it more easy with AI+ GTM Outbound System II Want more Leads click on the link below",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADmxGdkBOJWmByapYMJcrWyf8i4JSc7y_oM",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "Dr. Vishal Weldode is a founder focused on B2B lead generation, but primarily offers services rather than making purchasing decisions.",
+    "is_qualified": false
+  },
+  {
+    "name": "Warmy.io - Email channel. Reliable.",
+    "title": "13,145 followers",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/company/warmy/",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 20,
+    "llm_reasoning": "Warmy.io appears to be a service provider with no clear decision-making authority.",
+    "is_qualified": false
+  },
+  {
+    "name": "Daniel Shnaider",
+    "title": "Co-founder @Warmy.io\ud83d\udd25 & AnyBiz.io\ud83d\ude80",
+    "company": "\ud83e\ude82 Skydiver | \ud83c\udfd4 7 summits",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACDPbXABcUusWeo2LWyqUImpSTj9NMNXGGI",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "Daniel Shnaider is a co-founder but primarily involved in service provision rather than purchasing decisions.",
+    "is_qualified": false
+  },
+  {
+    "name": "Vikas Saini",
+    "title": "I Help B2B Teams to 2x their Sales Pipeline in 12 Weeks with CLEP Framework",
+    "company": "Multi-Channel B2B Lead Gen Expert | AI & Automation Strategist",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADrUw5gBcTUv9ODILUqaFxcOWRn9ICWFwAA",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Vikas Saini helps B2B teams with lead generation, indicating a growth role that may involve purchasing tools.",
+    "is_qualified": true
+  }
+]

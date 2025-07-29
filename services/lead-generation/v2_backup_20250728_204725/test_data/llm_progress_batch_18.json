@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Https://Channel-Sales.ai \u2728Free GPT for Channels.",
+    "title": "104 followers",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/company/channels-as-a-strategy/posts",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 20,
+    "llm_reasoning": "The profile does not indicate any decision-making authority or relevant role in purchasing lead generation services.",
+    "is_qualified": false
+  },
+  {
+    "name": "Siddhartha Yawalkar",
+    "title": "Building India's biggest recruiter community",
+    "company": "Recruitment Trainer | Trained more than 1500+ aspiring HR recruiters",
+    "linkedin_url": "https://www.linkedin.com/in/siddhartha-yawalkar",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 65,
+    "llm_reasoning": "As a recruitment trainer, the individual may influence hiring decisions but lacks direct purchasing authority for lead generation services.",
+    "is_qualified": false
+  },
+  {
+    "name": "Ayesha Farooq",
+    "title": "AI Marketing Automation & GHL Systems Builder",
+    "company": "LinkedIn Specialist | 7-Figure Sales Funnels on Autopilot | Lead Magnets That Convert, Digital Products & Low-Ticket Offers | Turning Cold Prospects Into Hot Leads 24/7",
+    "linkedin_url": "https://www.linkedin.com/in/ayesha-farooq96",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 75,
+    "llm_reasoning": "As an AI Marketing Automation specialist, this individual is involved in lead generation and likely purchases relevant tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Charley Cash - AI Automation Specialist",
+    "title": "I Help Entrepreneurs Build An AI Sales Loop System\u2122 To Close Clients Predictably With Top Proven Sales Closers On A Commission Basis. We Have Scaled 300+ Businesses",
+    "company": "Book A FREE Game Plan Call Now! \ud83d\udc47\ud83d\udc47",
+    "linkedin_url": "https://www.linkedin.com/in/charley-cash",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 75,
+    "llm_reasoning": "The individual helps entrepreneurs build sales systems, indicating a role that likely involves purchasing lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Oliver Johnson",
+    "title": "GTM & Community Lead at Rep.ai",
+    "company": "| Founder of Tech Sales Tutors",
+    "linkedin_url": "https://www.linkedin.com/in/oliverjohnsonnn",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "As a GTM & Community Lead, this individual is likely involved in purchasing decisions related to lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Thiago Guimar\u00e3es",
+    "title": "Consultor Empresarial na W1 Consultoria",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/thiagoguimaraesconsultor",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 65,
+    "llm_reasoning": "As a business consultant, the individual may influence decisions but does not have direct purchasing authority.",
+    "is_qualified": false
+  },
+  {
+    "name": "Divyanshi Sharma",
+    "title": "Co-Founder @AcquisitionX",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/divyanshis-saasleadgen",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "As a co-founder, this individual is likely involved in purchasing decisions for lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Divyanshi Sharma",
+    "title": "Co-Founder @AcquisitionX",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/divyanshis-saasleadgen",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "As a co-founder, this individual is likely involved in purchasing decisions for lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Charles Newson",
+    "title": "Founder/CEO @ ProfilePartner",
+    "company": "#1 LinkedIn Profile Marketplace",
+    "linkedin_url": "https://www.linkedin.com/in/charles-newson",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 85,
+    "llm_reasoning": "As a Founder/CEO, this individual has direct purchasing authority and decision-making power.",
+    "is_qualified": true
+  },
+  {
+    "name": "Sagnik Halder",
+    "title": "Add $ 100k MRR to your startup in 6 months with our all-in-one marketing funnel",
+    "company": "Meta Certified Marketing Professional",
+    "linkedin_url": "https://www.linkedin.com/in/sagnik-halder-5806a71b1",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "As a marketing professional, this individual is likely involved in purchasing decisions for lead generation tools.",
+    "is_qualified": true
+  }
+]

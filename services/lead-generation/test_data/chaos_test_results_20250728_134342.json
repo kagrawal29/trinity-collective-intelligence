@@ -1,0 +1,69 @@
+{
+  "test_run_id": "chaos_test_20250728_134342",
+  "start_time": "2025-07-28T13:43:42.847919",
+  "tests": [
+    {
+      "test_name": "RealTimeMonitor_Basic_Display",
+      "status": "PASS",
+      "execution_time_ms": 20,
+      "details": {
+        "message": "Dashboard renders without errors"
+      },
+      "timestamp": "2025-07-28T13:43:42.868293"
+    },
+    {
+      "test_name": "RealTimeMonitor_Edge_Cases",
+      "status": "PASS",
+      "execution_time_ms": 7,
+      "details": {
+        "message": "Handles zero and large values correctly"
+      },
+      "timestamp": "2025-07-28T13:43:42.875895"
+    },
+    {
+      "test_name": "MLPrefilter_False_Negative_Check",
+      "status": "WARN",
+      "execution_time_ms": 0,
+      "details": {
+        "message": "ML model not trained yet - test structure ready",
+        "test_cases": 4
+      },
+      "timestamp": "2025-07-28T13:43:42.875908"
+    },
+    {
+      "test_name": "ParallelProcessor_Concurrency_Test",
+      "status": "WARN",
+      "execution_time_ms": 0,
+      "details": {
+        "message": "High-risk component - requires isolated test environment",
+        "test_leads": 20
+      },
+      "timestamp": "2025-07-28T13:43:42.875922"
+    },
+    {
+      "test_name": "ParallelProcessor_Worker_Death",
+      "status": "WARN",
+      "execution_time_ms": 0,
+      "details": {
+        "message": "Worker death simulation not executed - requires process isolation"
+      },
+      "timestamp": "2025-07-28T13:43:42.875926"
+    },
+    {
+      "test_name": "Production_Database_Integrity",
+      "status": "PASS",
+      "execution_time_ms": 3,
+      "details": {
+        "message": "Database intact: 152 leads, all tables present"
+      },
+      "timestamp": "2025-07-28T13:43:42.878996"
+    }
+  ],
+  "summary": {
+    "total_tests": 6,
+    "passed": 3,
+    "failed": 0,
+    "warnings": 3
+  },
+  "end_time": "2025-07-28T13:43:42.879004"
+}

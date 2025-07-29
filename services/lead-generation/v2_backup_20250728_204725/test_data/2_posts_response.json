@@ -1,0 +1,1093 @@
+{
+  "endpoint": "https://linkedin-data-scraper.p.rapidapi.com/profile_updates",
+  "status_code": 200,
+  "duration_seconds": 2.59,
+  "headers": {
+    "Date": "Sun, 27 Jul 2025 12:30:18 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "etag": "W/\"ff1f-M9p5Jjssot8sFhjJv9Sbz/D2n7s\"",
+    "rndr-id": "a876011f-0681-4f08",
+    "x-render-origin-server": "Render",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "vary": "Accept-Encoding",
+    "CF-RAY": "965c25a9aefcfd18-SIN",
+    "cf-cache-status": "DYNAMIC",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "X-RateLimit-Requests-Limit": "20000",
+    "X-RateLimit-Requests-Remaining": "18924",
+    "X-RateLimit-Requests-Reset": "1624540",
+    "Server": "RapidAPI-1.2.8",
+    "X-RapidAPI-Version": "1.2.8",
+    "X-RapidAPI-Region": "AWS - ap-southeast-1",
+    "X-RapidAPI-Request-Id": "bf8af6f4d384451f01df69fb8792ca5648c6de89cde9ae41d5101a1b0b6f42ac"
+  },
+  "response": {
+    "success": true,
+    "status": 200,
+    "posts": [
+      {
+        "postText": "How to turn LinkedIn engagement into qualified sales calls, all automated\n\nLet\u2019s be honest\n\nSales is not about the best pitch.\n\nIt\u2019s about perfect timing.\n\nYou could have the best offer in the world\u2026\n\nIf it hits their inbox too early, they\u2019ll ignore it.\nToo late? \n\nThey\u2019ve already gone with a competitor.\n\nSo what really matters?\n\nIntent + Timing.\n\nHere\u2019s how this agent fixes this completely on autopilot:\n\nStep 1: Trigify.io extracts relevant social data \n\n- Tracks profiles and keywords on LinkedIn to find high intent leads\n\n- Upload Linkedin profiles to continually monitor\n\n- Track who engages with their posts\n\n- Run keyword searches to find individual post engagement \n\nNow you know who\u2019s showing interest. \n\nStep 2: AI Agent reads the signal and context\n\nInstead of just dumping names into a list\u2026\nThe agent pulls in:\n\n- Their role\n- Company\n- ICP fit\n- What content did they engage with\n\nAnd then decides what type of message they should get.\n\nStep 3: It writes and sends the message \n\nYour AI agent writes a personalized email or LinkedIn message\n\n\u2192 That references what they engaged with\n\u2192 That speaks directly to their job + use case\n\u2192 And that hits right when intent is high\n\nAnd when they respond?\n\nThe agent stops outreach across all other channels automatically.\n\nIt\u2019s like having a 24/7 SDR \n\nThat never sleeps, never forgets, and always hits at the right time.\n\n\u2014\u2014\n\nSend this post to your sdr! :) \n\nIf you need help with this system feel free to reach out or comment \u201cagent\u201d",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7353758072894320642",
+        "imageComponent": [
+          "https://media.licdn.com/dms/image/v2/D4D22AQExs0r2Gs2eQg/feedshare-shrink_800/B4DZg3L_MQH4Ak-/0/1753272549351?e=1756339200&v=beta&t=qBBo73k3g5jI-CjEYqOX5kpmeAzpClNhWKet1Cao5CU"
+        ],
+        "linksInPost": [
+          "https://www.linkedin.com/company/trigify/"
+        ],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "4d \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 144,
+          "numComments": 62,
+          "numShares": 5,
+          "reactionTypeCounts": [
+            {
+              "count": 130,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 11,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 3,
+              "reactionType": "INTEREST"
+            }
+          ]
+        },
+        "postedAt": "2025-07-23T12:09:10.000Z",
+        "postedAgo": "4d \u2022   ",
+        "urn": "urn:li:activity:7353758072894320642",
+        "reactionsUrn": "urn:li:activity:7353758072894320642",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7353758072894320642,urn:li:activity:7353758072894320642,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:activity:7353758072894320642"
+      },
+      {
+        "postText": "Our AI SDR system generates $70K every month. Here\u2019s how it works\n\nOh and it beats even best reps without damaging the brand.\n\nHere\u2019s exactly how we rebuilt our SDR motion step by step:\n\n1. We don\u2019t use our real LinkedIn profiles for outreach.\n\nIt\u2019s tempting to use your own face.\n\nBut the truth is if you send more than you post, your account slowly dies.\n\nSo we build avatar accounts instead.\n\nThey post lead magnets that actually bring leads.\n\nThen we keep a goal of sending 3K+ InMails a month \n\nWe focus on volume.\n\nIt\u2019s safer, scalable, and works better long term.\n\nWe automate the DMs but in a way that doesn\u2019t spam here HeyReach.io helps us.\n\n2. Started tracking signals:\n\nWe stopped buying databases.\n\nEvery lead now enters the funnel based on a trigger:\n\n- Visited our site anonymously\n- Engaged with a competitor\n- Posted a relevant job\n- Raised a funding round\n- Started hiring rapidly\n\nThat one shift from static to signal changed everything.\n\nRiddhiman helped us make ai agents that tracks these.\n\nYou can check Trigify.io for this too.\n\n3. Shifted to prompts from templates:\n\nNo \"Hope you're well.\"\nNo \u201cquick question.\u201d\n\nEach message is generated based on the context:\n\n \u2192 What\u2019s the goal?\n \u2192 Who\u2019s the lead and what triggered them?\n \u2192 What\u2019s the tone that\u2019ll land best?\n \u2192 What\u2019s already been said?\n\nWe built a custom GPT that writes it for us.\n\n4. We only chase leads worth chasing.\n\n AI agent monitors behavior in real time:\n\n \u2192 Email opens, click depth\n \u2192 LinkedIn activity\n \u2192 CRM movement\n\nHigh-intent leads get fast-tracked.\n\nEveryone else either gets nurtured\u2026 or ignored.\n\nThat alone gave us 30% more bandwidth with no performance drop.\n\nBreakcold is pretty solid when it comes to CRM tracking.\n\n5. Conversations happen. Then AI qualifies.\n When someone replies:\n\nFirst-layer questions are handled automatically\n\nBANT-style qualification runs in the background\n\nCalendars get booked if it\u2019s a fit\n\nNuanced replies get routed to a human\n\nAnd when video or voice adds context, we use it only then.\n\n6. Follow-ups switch channels based on behavior.\n\n If someone ignores the first message, we don\u2019t resend it louder.\n\nWe shift to another platform:\n\n Email \u2192 LinkedIn\n LinkedIn \u2192 Twitter (sometimes)\n\n \u2026and sometimes back to email with a new angle.\n\nSmartlead is the goat when it comes to email \n\nWe separated identity from infrastructure.\n\nWe now run outbound through fully warmed, pre-aged profiles not our personal ones.\n\nThey act like humans\n\nThey\u2019re safe to automate\n\nAnd if something happens?\n\n Our real brand stays untouched.\n\nWe still post.\n\nThis system helped us scale faster. \n\nLet me know if you want a walkthrough of how the system works behind the scenes.\n\nHappy to make a video on it!",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7353389645356765184",
+        "linkedInVideoComponent": {
+          "thumbnail": "https://media.licdn.com/dms/image/v2/D4D05AQHFCp7Fo3IIFA/videocover-high/B4DZgx86AMHACI-/0/1753184709528?e=1754226000&v=beta&t=JjLYkoUJZVn51MAJOU9xdHOjrkc3UApFRJU3UBxV2VU",
+          "duration": 7166,
+          "provider": "UGC"
+        },
+        "linksInPost": [
+          "https://www.linkedin.com/company/heyreachio/",
+          "https://www.linkedin.com/in/ACoAAEZ-7a0BSnHrKQKl2j5LHI1qw4YQewga1M4",
+          "https://www.linkedin.com/company/trigify/",
+          "https://www.linkedin.com/company/breakcold/",
+          "https://www.linkedin.com/company/smartlead-ai/"
+        ],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "5d \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 90,
+          "numComments": 40,
+          "numShares": 1,
+          "reactionTypeCounts": [
+            {
+              "count": 76,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 7,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 4,
+              "reactionType": "INTEREST"
+            },
+            {
+              "count": 2,
+              "reactionType": "PRAISE"
+            },
+            {
+              "count": 1,
+              "reactionType": "APPRECIATION"
+            }
+          ]
+        },
+        "postedAt": "2025-07-22T11:45:10.000Z",
+        "postedAgo": "5d \u2022   ",
+        "urn": "urn:li:activity:7353389645356765184",
+        "reactionsUrn": "urn:li:ugcPost:7353389639065309184",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7353389639065309184,urn:li:ugcPost:7353389639065309184,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:ugcPost:7353389639065309184"
+      },
+      {
+        "postText": "LinkedIn outreach got our clients over $320K in pipeline last quarter and we never touched their personal profiles.. (full process)\n\nWe sent 3000+ inmails every single month for one of the client \n\nThe client had broad TAM so it worked really well. \n\nWe didn\u2019t use their personal LinkedIn account\u2026\n\nBecause here\u2019s the truth:\n\nMost people do LinkedIn outreach backwards.\n\nThey chase leads from the wrong profile, burn their personal brand, and blame the channel.\n\nWe flipped the model.\n\nHere\u2019s our exact process:\n\n1. Warm-up aged LinkedIn accounts\n\n\u2192 Get verified profiles with clean track records\n\u2192 No spam history = no risk of bans\n\n2. Rebrand them to match the ICP\n\n\u2192 Think: \u201cGrowth Partner for B2B SaaS\u201d or \u201cOutbound Advisor for Agencies\u201d\n\u2192 Positioning is built to mirror the buyer, not push a founder\n\n3. Publish 2\u20133 lead magnets per week with workflows \n\n\u2192 Swipe files, ROI calculators, teardown carousels\n\u2192 Content that actually solves problems\n\n4. Capture interest \u2192 funnel into warm emails\n\nEvery commenter/DM goes into a short nurture funnel\n\n\u2192 Day 1: Asset\n\u2192 Day 3: How to use it\n\u2192 Day 6: Soft invite to chat\n\n5. Add automation to scale the backend\n\n\u2192 AI qualifies replies\n\u2192 SDRs handle follow-ups\n\u2192 Founder only steps in for high-fit convos\n\n6. Scale with InMails\n\n\u2192 For one client, we\u2019re sending 3,000 InMails/month\n\n\u2192 Booking 50\u2013100 qualified calls \u2014 at a lower CAC than paid ads\n\nThis system works because the founder stays out of the noise.\n\nYour job isn\u2019t to chase leads \n\nIt\u2019s to build leverage and stay rare.\n\nLet the system sell.\n\nLet you stay strategic.\n\n\u2014\u2014\n\nIf you need help setting this system up then lmk!\n\nTag your SDR :)",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7353020834325610497",
+        "linksInPost": [],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "6d \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 102,
+          "numComments": 55,
+          "numShares": 1,
+          "reactionTypeCounts": [
+            {
+              "count": 89,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 6,
+              "reactionType": "INTEREST"
+            },
+            {
+              "count": 5,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 2,
+              "reactionType": "APPRECIATION"
+            }
+          ]
+        },
+        "postedAt": "2025-07-21T11:19:39.000Z",
+        "postedAgo": "6d \u2022   ",
+        "urn": "urn:li:activity:7353020834325610497",
+        "reactionsUrn": "urn:li:activity:7353020834325610497",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7353020834325610497,urn:li:activity:7353020834325610497,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:activity:7353020834325610497"
+      },
+      {
+        "postText": "Breaking- ChatGPT just release AI Agents here\u2019s how you can use it in lead-gen. \u2b07\ufe0f\n\n1. Scrape LinkedIn without scraping tools\nPrompt: \u201cSearch for Heads of Marketing at Series A SaaS startups. \n\nCopy their names and companies to a spreadsheet.\u201d\n\n2. Auto-fill demo or contact forms\nPrompt: \u201cVisit each company\u2019s website. \n\nIf there\u2019s a form, submit this message with my email.\u201d\n\n3. Research competitors before pitching\nPrompt: \u201cGo through these 5 competitor sites. Extract pricing, features, and key differentiators. \n\nSummarize them in a table.\u201d\n\n4. Build mini-pitches and cold emails at scale\n\nPrompt: \u201cBased on this prospect\u2019s website, create a short pitch deck and a personalized outreach email.\u201d\n\nHow to try it:\n\n- Available to Pro, Plus, and Team users\n- In ChatGPT, go to Tools \u2192 Agent mode or type /agent\n- Give it a multi-step task, and watch it work with your approval at every step\n\nRead more about it here: https://lnkd.in/dQXDGhm2",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7351824668422455296",
+        "linkedInVideoComponent": {
+          "thumbnail": "https://media.licdn.com/dms/image/v2/D4D05AQFtHoDfB_3bnA/videocover-high/B4DZgbtiikH8CI-/0/1752811584218?e=1754226000&v=beta&t=DoM0X2xqR8mnEMHSOkM6kuUiH3ZpgvEg0otxEJv1LYs",
+          "duration": 46866,
+          "provider": "UGC"
+        },
+        "linksInPost": [
+          "https://www.linkedin.com/company/aichatgpt/"
+        ],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "1w \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 123,
+          "numComments": 43,
+          "numShares": 3,
+          "reactionTypeCounts": [
+            {
+              "count": 112,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 6,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 4,
+              "reactionType": "INTEREST"
+            },
+            {
+              "count": 1,
+              "reactionType": "PRAISE"
+            }
+          ]
+        },
+        "postedAt": "2025-07-18T04:06:31.000Z",
+        "postedAgo": "1w \u2022   ",
+        "urn": "urn:li:activity:7351824668422455296",
+        "reactionsUrn": "urn:li:ugcPost:7351824636898160643",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7351824636898160643,urn:li:ugcPost:7351824636898160643,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:ugcPost:7351824636898160643"
+      },
+      {
+        "postText": "This Notion file has an agent that sends cold emails and books calls on your behalf and you get this for free.\n\nWhat this system does daily-\n\n\u2705 Pulls leads from Sheets, APIs, or scrapers\n\u2705 Enforces send caps + monitors inbox health\n\u2705 Auto-swaps inboxes when bounce > 3%\n\u2705 Pushes leads into Smartlead via HTTP\n\u2705 Routes replies, pings hot leads to Slack \n\u2705 Personalizes follow-ups using GPT + Airtable \n\u2705 Scrapes Reddit, Inc. G2, job boards with Apify \n\u2705 Modular \u2192 scale by just adding inboxes\n\nAll built using:\n\n- n8n \n- Inframail \n- Smartlead \n- Airtable\n- GPT personalization\n\n\ud83d\udcbe Want the Notion link?\n\nLike this post\nComment \u201cAGENT\u201d and I\u2019ll DM it to you.\n(Must be connected)",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7351591228150337536",
+        "imageComponent": [
+          "https://media.licdn.com/dms/image/v2/D5622AQE9hIJhn3cqlw/feedshare-shrink_20/B56ZgYZQ1JHcA0-/0/1752755933773?e=1756339200&v=beta&t=_9qqwUUtSw2rEXyzhufxwUXXbSoKUF4q-9Z6Iy4s50U"
+        ],
+        "linksInPost": [
+          "https://www.linkedin.com/company/notionhq/",
+          "https://www.linkedin.com/company/tiny-spec-inc/",
+          "https://www.linkedin.com/company/airtablesdf33/",
+          "https://www.linkedin.com/company/reddit-com/",
+          "https://www.linkedin.com/company/g2dotcom/",
+          "https://www.linkedin.com/company/apify/",
+          "https://www.linkedin.com/company/n8n/",
+          "https://www.linkedin.com/company/inframail/",
+          "https://www.linkedin.com/company/smartlead-ai/"
+        ],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "1w \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 212,
+          "numComments": 210,
+          "numShares": 2,
+          "reactionTypeCounts": [
+            {
+              "count": 197,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 6,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 4,
+              "reactionType": "APPRECIATION"
+            },
+            {
+              "count": 3,
+              "reactionType": "INTEREST"
+            },
+            {
+              "count": 2,
+              "reactionType": "PRAISE"
+            }
+          ]
+        },
+        "postedAt": "2025-07-17T12:38:54.000Z",
+        "postedAgo": "1w \u2022   ",
+        "urn": "urn:li:activity:7351591228150337536",
+        "reactionsUrn": "urn:li:activity:7351591228150337536",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7351591228150337536,urn:li:activity:7351591228150337536,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:activity:7351591228150337536"
+      },
+      {
+        "postText": "1 idea, 1 week & Over 200 AI enthusiasts assembled.\n\nThat\u2019s a glimpse at experiences at The Hub Bengaluru\ud83c\udf1f\n\nWe went from idea to full house in under a week because when the right community hears the right call, they show up ready to build and grow together \ud83d\ude80\n\nWhat started as a room full of strangers quickly turned into signal. Every corner sparked with possibilities of collaborations with REAL people, asking REAL questions and finding REAL synergy \ud83d\udcaf\n\nA huge shout out to our Experiences team for making this happen Ahana, Lekhan, Praba, Khushi and Rony\n\nThere\u2019s nothing better than watching our offline & online worlds collide \ud83d\ude80\n\nThe rest of this year is all about creating phenominal experiences- and we\u2019re just getting started! \ud83c\udf0d\n\nSaheli, Suprava and Vishnu you guys sparked something inside Bengalore\u2019s builders last night!\n\nGrateful to have had my 90+ year old grandfather (The man who built the very building The Hub operates inside of) join us to learn about AI\ud83c\udf99\ufe0f\n\n#NeverStopLearning #NeverStopBuilding",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7351505670925385730",
+        "imageComponent": [
+          "https://media.licdn.com/dms/image/v2/D4D22AQEQQBul7O8jrA/feedshare-shrink_160/B4DZgW_jgVGgAg-/0/1752732418827?e=1756339200&v=beta&t=t5NpQxrPoDVHTrL4ONU-FQJrWQ7JsLfO8kzNxItO-Yc",
+          "https://media.licdn.com/dms/image/v2/D4D22AQH6W34-gkDRvA/feedshare-shrink_2048_1536/B4DZgW_jgvHYAs-/0/1752732428865?e=1756339200&v=beta&t=V9WeMrSUPfBubm60MkXLYMQAnfKX_9I7euIhvNRHFvI",
+          "https://media.licdn.com/dms/image/v2/D4D22AQFCkE7QQ4K3BA/feedshare-shrink_1280/B4DZgW_jh6HsAk-/0/1752732446889?e=1756339200&v=beta&t=t7GPqSU7dz8Aka6bSyVIOKHR5tHhSrGMYC6ntg1LV6E",
+          "https://media.licdn.com/dms/image/v2/D4D22AQG4cSa-KF0Q6A/feedshare-shrink_800/B4DZgW_jh7GgAg-/0/1752732450058?e=1756339200&v=beta&t=buuaukNDSZrEuHZtOEed2O2FbfCjaGsL9RkHxG2cbT4",
+          "https://media.licdn.com/dms/image/v2/D4D22AQEGjqhFcD3_zg/feedshare-shrink_20/B4DZgW_jgmGgA0-/0/1752732428703?e=1756339200&v=beta&t=heh3OULOpIwaeeq4EUWzTYqC9tYvTD5dv5VYnyefBbo",
+          "https://media.licdn.com/dms/image/v2/D4D22AQFfoNlnYjbdVw/feedshare-shrink_2048_1536/B4DZgW_jg9GgAo-/0/1752732429767?e=1756339200&v=beta&t=UjJCI1pI4W-uwswJ_MIlgJ17W1rBHoKV6A0VVCdNaFg",
+          "https://media.licdn.com/dms/image/v2/D4D22AQHyqmVx1QZmjQ/feedshare-shrink_480/B4DZgW_jhpGkAc-/0/1752732422019?e=1756339200&v=beta&t=rb35499ceEZwMm0ovJ9IcJNCBqirCrIM4WAX9ZNkAWk",
+          "https://media.licdn.com/dms/image/v2/D4D22AQGYiQvrM1CzWg/feedshare-shrink_2048_1536/B4DZgW_jhsG8Ao-/0/1752732428412?e=1756339200&v=beta&t=JIPMyZxRrAhe-dFGnlEGP2UXd4SSjxtJjGvxrWxYmYU",
+          "https://media.licdn.com/dms/image/v2/D4D22AQHraPlP3X15LA/feedshare-shrink_160/B4DZgW_jhXGsAg-/0/1752732428219?e=1756339200&v=beta&t=wcJa5bt1qsl8vNBtVAEniVF4F9bjhJPfueS7CJZxpaQ",
+          "https://media.licdn.com/dms/image/v2/D4D22AQEGmBRE52DeAA/feedshare-shrink_160/B4DZgW_jhqHYAk-/0/1752732431550?e=1756339200&v=beta&t=T8vVf1_cz__eyTmPNU8G_xRTlHHB1LfM_0omVhxfHnc",
+          "https://media.licdn.com/dms/image/v2/D4D22AQHB_R5OIjZ6sw/feedshare-shrink_480/B4DZgW_jg5HsAY-/0/1752732437241?e=1756339200&v=beta&t=0bWhuJeLXO4eVIGqWRXjDbHOhoxpvnpuMRHPQDDGbrQ",
+          "https://media.licdn.com/dms/image/v2/D4D22AQG5izg_I0YTRw/feedshare-shrink_800/B4DZgW_jhDHsAk-/0/1752732435407?e=1756339200&v=beta&t=w2sS1t5DsQiDmXuGPr9mlXV1ywBZtQmzv-QeYjrYwMY",
+          "https://media.licdn.com/dms/image/v2/D4D22AQHaAx-TbfNLyQ/feedshare-shrink_800/B4DZgW_jgsHsAo-/0/1752732428928?e=1756339200&v=beta&t=nFstX5xiUcXJTqit_ECWuTbFyGMZOdEpNx1WcsV2OBI",
+          "https://media.licdn.com/dms/image/v2/D4D22AQG2_RsciL2bUw/feedshare-shrink_480/B4DZgW_jhCGkAY-/0/1752732437809?e=1756339200&v=beta&t=CkUluc9boLElWVWsDp9GFis2fKKg0_eG2NCLMsaktCo",
+          "https://media.licdn.com/dms/image/v2/D4D22AQEYEjdZW-ksaQ/feedshare-shrink_2048_1536/B4DZgW_jgKHAAo-/0/1752732447985?e=1756339200&v=beta&t=BNqWNVADbGD_igqpXY5X03BTlff5eXGChYbgTi86E-0",
+          "https://media.licdn.com/dms/image/v2/D4D22AQHTO5hIv0O_rg/feedshare-shrink_480/B4DZgW_jg1GkAg-/0/1752732418359?e=1756339200&v=beta&t=yAoVcT2ii56mfnapx-aW-bsX8kuU7QB5rtqiWsR6ZkI",
+          "https://media.licdn.com/dms/image/v2/D4D22AQEG7nWfBKeYFQ/feedshare-shrink_480/B4DZgW_jg0GgAc-/0/1752732426242?e=1756339200&v=beta&t=pHEbf1cBfOYTEY_1ivObqnjhsrhMqunBOjBgtsCBzYM",
+          "https://media.licdn.com/dms/image/v2/D4D22AQFtoL6F7DaWpw/feedshare-shrink_20/B4DZgW_jhCH8Aw-/0/1752732425221?e=1756339200&v=beta&t=q62e5xX66CY3Uv_UUQrel4tW1hbh9UWM7dQXYWtiZbA",
+          "https://media.licdn.com/dms/image/v2/D4D22AQEUGEVMxK7lxA/feedshare-shrink_20/B4DZgW_jgbGQA0-/0/1752732449809?e=1756339200&v=beta&t=OtOr8aRZCULs6e6tTVUO09yd_bqxYEhcKA4X6sL1Fcw",
+          "https://media.licdn.com/dms/image/v2/D4D22AQG5UQw6SxZh8g/feedshare-shrink_20/B4DZgW_jhTH8A4-/0/1752732426843?e=1756339200&v=beta&t=HGC9VMdJR8Dg_rqaK6ctgxlxkcHPncxw0guJF3q6Ij0"
+        ],
+        "linksInPost": [
+          "https://www.linkedin.com/company/thehub/",
+          "https://www.linkedin.com/in/ACoAACSbntUBpOqadKAVJl8Z-bqzmdW3A6KNRYU",
+          "https://www.linkedin.com/in/ACoAAEB8DV8BIDlHuCynZoJN2bWfFOz6hrRMKJ8",
+          "https://www.linkedin.com/in/ACoAAET2PiUBGxE7u2IFa9Iwe0FIiPOeCzn7DAo",
+          "https://www.linkedin.com/in/ACoAADeWNmIB8qSE01BxgUGHXwkiK-wmn8hVT5M",
+          "https://www.linkedin.com/in/ACoAACkDiWYBMIvB4vqMBx9QcZVln0BrZNhRglY",
+          "https://www.linkedin.com/in/ACoAACtAarcBXQgO4MK7nnPkkGyI3xj_0ynynAA",
+          "https://www.linkedin.com/in/ACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8",
+          "https://www.linkedin.com/in/ACoAACqvT88BVLnbsEDtmc8gnmSdTlnDHmqu52I"
+        ],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHnCnt5nCdPyg/profile-displayphoto-crop_800_800/B56ZevvOdIHQAQ-/0/1751000084160?e=1756339200&v=beta&t=-JbJ2T9Vo0rPg7-H0lxLn4JxA9QgLfYFJLHWI_h6j-w",
+          "actorDescription": "Founder | Marketer | Community Builder \ud83d\ude80",
+          "actorName": "Azaan Feroz Sait",
+          "actorSubDescription": "1w \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/azaanferozsait?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAy-wXgBTIAjr-7ujMHVMbvGQZYi_enzkfo"
+        },
+        "header": {
+          "headerImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw}",
+          "headerNavigationLink": "https://www.linkedin.com/feed/update/urn:li:activity:7351505670925385730?updateEntityUrn=urn%3Ali%3Afsd_update%3A%28urn%3Ali%3Aactivity%3A7351505670925385730%2CMEMBER_SHARES%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=Cqac5aI%2Bd3o8jZ5F%2Bz9Jhg%3D%3D",
+          "headerText": "Suprava Sabat reposted this"
+        },
+        "is_repost": true,
+        "socialCount": {
+          "numLikes": 172,
+          "numComments": 21,
+          "numShares": 2,
+          "reactionTypeCounts": [
+            {
+              "count": 158,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 8,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 5,
+              "reactionType": "PRAISE"
+            },
+            {
+              "count": 1,
+              "reactionType": "APPRECIATION"
+            }
+          ]
+        },
+        "postedAt": "2025-07-17T06:58:56.000Z",
+        "postedAgo": "1w \u2022   ",
+        "urn": "urn:li:activity:7351505670925385730",
+        "reactionsUrn": "urn:li:ugcPost:7351492761155420164",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7351492761155420164,urn:li:activity:7351505670925385730,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:ugcPost:7351492761155420164"
+      },
+      {
+        "postText": "30+ B2B sales playbooks that created millions in revenue.\n\nGet your free guide below \ud83d\udc47\n\nLast year, I built 30+ proven systems for B2B clients.\n\nFrom cold outreach to AI research,\n\nWe tracked every lead and turned interest into sales.\n\nWhat worked? \n--> Systems. \n\nI packed the best ones into: \nThe GTM Playbook Library\n\nHere's what you get:\n1. ABM targeting - Find your exact buyers\n2. Website tracking - Catch prospects before they leave\n3. Inbound optimization - Turn visitors into demos instantly\n4. Influencer partnerships - Build 7-figure pipelines\n5. Signal intelligence - Turn strangers into customers\n6. Sales systems - Double your quota attainment\n7. Content machines - Generate 1000+ qualified leads\n8. Email routing - Respond to prospects in under 2 minutes\n9. Event systems - Convert 50% of attendees to pipeline\n10. Demand generation - Actually create real demand\n11. Social amplification - Reach 1M+ decision makers\n12. Outbound sequences - Get replies, not blocks\n13. LinkedIn strategies - Build million-dollar personal brands\n14. Cold outreach - Book C-suite meetings consistently\n15. Follow-up systems - Revive \"dead\" opportunities\n16. AI research - Personalize outreach at scale\n17. Retargeting - Bring back 40% of lost prospects\n18. Response systems - Beat your competitors' speed\n19. Pre-meeting flows - Cut no-shows by 80%\n20. Attribution tracking - Prove ROI on every dollar\n\nWant the playbook?\n\nReact with \ud83d\udd25 and comment \"SEND\"\n(Must be connected so I can DM you)",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7351179849039773699",
+        "imageComponent": [
+          "https://media.licdn.com/dms/image/v2/D5622AQFLFhHmslniwg/feedshare-shrink_2048_1536/B56ZgSdcqoHMAo-/0/1752656380475?e=1756339200&v=beta&t=BElaIJPUECsH6xFNp6jvz0zSImjPYVH2GYtIXqk6hrE"
+        ],
+        "linksInPost": [],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D4D03AQFLBr36lcJ8cw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1685380290603?e=1756339200&v=beta&t=Y5JRG45FKyVjd6tfl-B38ycou_YfB7um99lVowE2f6o",
+          "actorDescription": "Growth @AcquisitionX",
+          "actorName": "Priyanka S",
+          "actorSubDescription": "1w \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/priyankas111?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAD6jXaoBq6OCJjijTpOsqbYka1siXRqnmIw"
+        },
+        "header": {
+          "headerImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw}",
+          "headerNavigationLink": "https://www.linkedin.com/feed/update/urn:li:activity:7351179849039773699?updateEntityUrn=urn%3Ali%3Afsd_update%3A%28urn%3Ali%3Aactivity%3A7351179849039773699%2CMEMBER_SHARES%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=mUsIGjm09q04fdA2i5%2FLkA%3D%3D",
+          "headerText": "Suprava Sabat reposted this"
+        },
+        "is_repost": true,
+        "socialCount": {
+          "numLikes": 362,
+          "numComments": 530,
+          "numShares": 8,
+          "reactionTypeCounts": [
+            {
+              "count": 295,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 34,
+              "reactionType": "INTEREST"
+            },
+            {
+              "count": 21,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 6,
+              "reactionType": "PRAISE"
+            },
+            {
+              "count": 6,
+              "reactionType": "APPRECIATION"
+            }
+          ]
+        },
+        "postedAt": "2025-07-16T09:24:14.000Z",
+        "postedAgo": "1w \u2022   ",
+        "urn": "urn:li:activity:7351179849039773699",
+        "reactionsUrn": "urn:li:activity:7351173700362145793",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7351173700362145793,urn:li:activity:7351179849039773699,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:activity:7351173700362145793"
+      },
+      {
+        "postText": "What if you could see your thoughts as a neural map?\n\nImagine visualizing your entire ChatGPT conversation history as a 3D web of interconnected ideas.\n\nHere\u2019s how that could be done:\n\n\t1.\tExport the chat history from ChatGPT settings\n\t2.\tClean the messages to isolate the raw conversations\n\t3.\tGenerate embeddings using an AI model like text-embedding-3-small\n\t4.\tMeasure similarity between conversations using cosine distance\n\t5.\tBuild a graph with similar thoughts linked\n\t6.\tVisualize it in 3D using tools like Gephi, Graphistry, or 3d-force-graph.js\n\nThe result:\n\nA living, breathing map of one\u2019s thought patterns \u2014 clustered by topics, connected by curiosity, and layered with personal evolution.\n\nThe next frontier might not be AI doing the thinking for us\u2026\n\n\u2026but showing us how we think.\n\nThoughts on this?\n\nVc: lexiritchie21",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7350761248583495681",
+        "linkedInVideoComponent": {
+          "thumbnail": "https://media.licdn.com/dms/image/v2/D4D05AQHh2ZHWgn_vbQ/videocover-low/B4DZgMmXcZGgCE-/0/1752558047288?e=1754226000&v=beta&t=qcwNj3XtSY7oZTikDlFn0v2kZNRn8O0PdGNTFFyASJM",
+          "duration": 8666,
+          "provider": "UGC"
+        },
+        "linksInPost": [],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "1w \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 63,
+          "numComments": 11,
+          "numShares": 1,
+          "reactionTypeCounts": [
+            {
+              "count": 58,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 2,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 2,
+              "reactionType": "INTEREST"
+            },
+            {
+              "count": 1,
+              "reactionType": "APPRECIATION"
+            }
+          ]
+        },
+        "postedAt": "2025-07-15T05:40:52.000Z",
+        "postedAgo": "1w \u2022   ",
+        "urn": "urn:li:activity:7350761248583495681",
+        "reactionsUrn": "urn:li:ugcPost:7350761226206953472",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7350761226206953472,urn:li:ugcPost:7350761226206953472,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:ugcPost:7350761226206953472"
+      },
+      {
+        "postText": "We built a multichannel lead-gen funnel for a $300M+ B2B company that helped them get 10x more leads (here\u2019s everything we did for them):\n\nThis client came to us with solid funding, a decent SDR stack but no system to make it stick. \n\nThey were relying too much on cold-email which led their revenue to fall.\n\nThey needed help to make a presence everywhere which will help them get more visibility.\n\nHere\u2019s what we did for them \ud83d\udc47\n\n1\ufe0f\u20e3 Started with social signals\n\n We tracked:\n\n- Job postings for roles they could solve.\n- Fresh funding + expansion news.\n- Executives commenting on competitors.\n- Looking for roles\n- Likes/comments of competitors \n\nSo every name in the funnel was pre-qualified by real intent.\n\nWe did this using Trigify.io  \n\n2\ufe0f\u20e3 Broke the pattern with handwritten notes. \ud83d\udcdd \n\nBefore any email or DM, top accounts got a short handwritten note referencing the signal that triggered them.\n\nPhysical > inbox.\n\n90% open rate.\n\nWe used Handwrytten for this\n\n3\ufe0f\u20e3 Backed it up with an email the right way.\n\nNot ur daily spam.\n\nEach inbox warmed, low volume.\n\nShort plain-text follow-ups referencing the note.\n\nReplies went straight to their team.\n\nUsing Smartlead  \n\n4\ufe0f\u20e3 Ran LinkedIn in parallel.\n\n Viewed their profiles \u2192 liked + commented on a recent post \u2192 soft connection request \u2192 no pitch in the first DM.\n\nResult: by the time an email landed, they knew who we were.\n\nIt was manually because of LinkedIn strict issues.\n\n5\ufe0f\u20e3 Made the whole team visible through content \n\nWe didn\u2019t just rely on SDRs.\n\nWe lined up posts from founders, AEs, and product heads.\n\nReal stories, lessons, and mini case studies.\n\nKept the company top-of-mind for every warm lead.\n\n6\ufe0f\u20e3 Added webinars for mid-funnel trust.\n\n Every month: a short live session solving 1 common pain point.\n\nEngaged lurkers, collected objections, and booked calls directly on the session.\n\nUsed Luma for this\n\n7\ufe0f\u20e3 Used an AI call to confirm every booked meeting.\n\n One hour before each call, an AI SDR rang the prospect:\n\n \u2705 Confirmed attendance\n \u2705 Answered basic questions\n \u2705 Offered reschedule if needed\n\nNo more no-shows. Simple but powerful.\n\nIt was using Retell AI  \n\n8\ufe0f\u20e3 Built a private Slack space to capture everyone else.\n\nWebinar attendees, warm replies, LinkedIn engagers all pulled into a free Slack community.\n\nWeekly drops: playbooks, fresh case studies, behind-the-scenes.\n\nA trust funnel \u2014 prospects closed themselves later.\n\nWe set up a slack bot. That engaged their prospects.\n\n\ud83d\udc49 The result:\n\n- Higher show rates\n- Higher close rates\n\nIt gave a:\n\n- 40% lift in replies compared to their old high-volume approach\n\n- Zero guesswork about who to target next quarter\n\nThis is one of the most practical system for 2025.\n\nBe everywhere. \n\n\u2014\u2014\n\nIf you run sales at scale and want this architecture, my DMs are open :)\n\n\n\n\n\n\n#B2B #Outbound #LeadGen #Revenue #SalesOps",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7350489529796980738",
+        "imageComponent": [
+          "https://media.licdn.com/dms/image/v2/D4D22AQHadVNiMMLJPA/feedshare-shrink_2048_1536/B4DZgIvRWBH8Ao-/0/1752493268022?e=1756339200&v=beta&t=xTJGt9alKEdhRBlL6zWRg0zukSVIFgxciGUCCl6Vlik"
+        ],
+        "linksInPost": [
+          "https://www.linkedin.com/company/trigify/",
+          "https://www.linkedin.com/company/handwrytten/",
+          "https://www.linkedin.com/company/smartlead-ai/",
+          "https://www.linkedin.com/company/luma-hq/",
+          "https://www.linkedin.com/company/retellai/"
+        ],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "1w \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 132,
+          "numComments": 46,
+          "numShares": 3,
+          "reactionTypeCounts": [
+            {
+              "count": 113,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 8,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 6,
+              "reactionType": "INTEREST"
+            },
+            {
+              "count": 3,
+              "reactionType": "PRAISE"
+            },
+            {
+              "count": 2,
+              "reactionType": "APPRECIATION"
+            }
+          ]
+        },
+        "postedAt": "2025-07-14T11:41:09.000Z",
+        "postedAgo": "1w \u2022   ",
+        "urn": "urn:li:activity:7350489529796980738",
+        "reactionsUrn": "urn:li:activity:7350489529796980738",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7350489529796980738,urn:li:activity:7350489529796980738,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:activity:7350489529796980738"
+      },
+      {
+        "postText": "If You\u2019re a Founder or Creator in Bengaluru, This Is your AI Wake-Up Call \ud83d\udea8\n\nThis panel is building blueprints. What they\u2019re about to share could shift your entire playbook. \n\n\ud83d\ude80 We\u2019re going deep on content, systems, scale and AI all decoded by Saheli Chatterjee in a room full of builders.\n\n\ud83d\ude80 From small hacks to big saves, learn how Vishnu Vijayan uses AI to cut costs, boost productivity, and stay 10 steps ahead.\n\n\ud83d\ude80 In a world where attention is currency, Suprava Sabat shows how AI supercharges lead generation, so you\u2019re not just seen, you\u2019re chosen.\n\n\ud83d\udcc5 July 16 l \ud83d\udd55 6 PM |\ud83d\udccdThe Hub Bengaluru l \ud83c\udf9f\ufe0f Limited seats\n\nRSVP NOW \u203c\ufe0f Link in the first comment\n\nSuper excited for this one to take off Ahana, Pruthvi R and Rony \ud83d\ude80",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7350420666615005184",
+        "imageComponent": [
+          "https://media.licdn.com/dms/image/v2/D5622AQFu8Y-k1YX6ZA/feedshare-shrink_1280/B56ZgHVeXJG0Ao-/0/1752469730977?e=1756339200&v=beta&t=TCIs296Kr_D4TtsuAqutuTyUQWlfJXE-aM0iSTliqYM",
+          "https://media.licdn.com/dms/image/v2/D5622AQFo6x0Ajm4wVg/feedshare-shrink_160/B56ZgHVeRIHcAk-/0/1752469730179?e=1756339200&v=beta&t=EM0yezS6ynt78Nk1G6enZy-h8F1VMGgktSH6YxQDbMU",
+          "https://media.licdn.com/dms/image/v2/D5622AQE2ygCbIGq2NA/feedshare-shrink_2048_1536/B56ZgHVeQ4HQAw-/0/1752469731461?e=1756339200&v=beta&t=leB3oLC-e3cV_QyFGcKfkaY6yYKKaQTCPbDrV-6yoLw",
+          "https://media.licdn.com/dms/image/v2/D5622AQErlmOlymiqxA/feedshare-shrink_1280/B56ZgHVeWiHIAo-/0/1752469730926?e=1756339200&v=beta&t=vjvvv9hOFf1fZFoyT7G-AYPyqjUFDXP-iUOEA6vX0hM",
+          "https://media.licdn.com/dms/image/v2/D5622AQE-8XbPIkrNkA/feedshare-shrink_20/B56ZgHVeRDHUA0-/0/1752469729815?e=1756339200&v=beta&t=yp9UzuCcGuUVO8t2Iq_o9ygRqHSZIhDWFk0rV1JHZYM",
+          "https://media.licdn.com/dms/image/v2/D5622AQFvsNkQDHpheA/feedshare-shrink_2048_1536/B56ZgHVeWUHsAs-/0/1752469731230?e=1756339200&v=beta&t=OE-H3bm2x6FFS5CKvCbh6iAV0bLexZGePEdprGjuNH4"
+        ],
+        "linksInPost": [
+          "https://www.linkedin.com/in/ACoAACtAarcBXQgO4MK7nnPkkGyI3xj_0ynynAA",
+          "https://www.linkedin.com/in/ACoAACqvT88BVLnbsEDtmc8gnmSdTlnDHmqu52I",
+          "https://www.linkedin.com/in/ACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8",
+          "https://www.linkedin.com/company/thehub/",
+          "https://www.linkedin.com/in/ACoAACSbntUBpOqadKAVJl8Z-bqzmdW3A6KNRYU",
+          "https://www.linkedin.com/in/ACoAACiaeRgB-NQKh5sgkr7s_Up4kU4nZUyQYQY",
+          "https://www.linkedin.com/in/ACoAACkDiWYBMIvB4vqMBx9QcZVln0BrZNhRglY"
+        ],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHnCnt5nCdPyg/profile-displayphoto-crop_800_800/B56ZevvOdIHQAQ-/0/1751000084160?e=1756339200&v=beta&t=-JbJ2T9Vo0rPg7-H0lxLn4JxA9QgLfYFJLHWI_h6j-w",
+          "actorDescription": "Founder | Marketer | Community Builder \ud83d\ude80",
+          "actorName": "Azaan Feroz Sait",
+          "actorSubDescription": "1w \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/azaanferozsait?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAy-wXgBTIAjr-7ujMHVMbvGQZYi_enzkfo"
+        },
+        "header": {
+          "headerImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw}",
+          "headerNavigationLink": "https://www.linkedin.com/feed/update/urn:li:activity:7350420666615005184?updateEntityUrn=urn%3Ali%3Afsd_update%3A%28urn%3Ali%3Aactivity%3A7350420666615005184%2CMEMBER_SHARES%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=wgc5ViVMDIIZwrxSHtRQiQ%3D%3D",
+          "headerText": "Suprava Sabat reposted this"
+        },
+        "is_repost": true,
+        "socialCount": {
+          "numLikes": 177,
+          "numComments": 35,
+          "numShares": 3,
+          "reactionTypeCounts": [
+            {
+              "count": 161,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 11,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 3,
+              "reactionType": "PRAISE"
+            },
+            {
+              "count": 2,
+              "reactionType": "APPRECIATION"
+            }
+          ]
+        },
+        "postedAt": "2025-07-14T07:07:31.000Z",
+        "postedAgo": "1w \u2022   ",
+        "urn": "urn:li:activity:7350420666615005184",
+        "reactionsUrn": "urn:li:ugcPost:7350390810279915520",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7350390810279915520,urn:li:activity:7350420666615005184,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:ugcPost:7350390810279915520"
+      },
+      {
+        "postText": "Here are 9000+ AI agents ready to import for free \u2b07\ufe0f\n\nYou don\u2019t have to spend 1000s on automation agencies.\n\nYou can use premade agents that are all over google right now. \n\nOne of the most easies ones are the Relevance AI templates \n\nEven if you're not a techie, you can start using AI agents today.\n\nI just created an agent in under 5 minutes with a fee simple prompts that gave me a full list \n\nYou can either:\n\n\u2192 Create your own agent with a simple prompt\n\n\u2192 Or pick from their directory of 9000+ pre-made agents from here: https://lnkd.in/dP7P9cXW\n\nYou can even use it to build your own AI workforce.\n\nSuper powerful for sales, prospecting, research, and more.\n\nHere are some premade lead gen AI agent templates that you can use for yourself:\n\n1. Leads hunter: https://lnkd.in/dB2fViYb\n\n2. Research leads: https://lnkd.in/dxnYmUaJ\n\n3. Enrich leads: https://lnkd.in/dEMbtEhA\n\n4. Company identifier: https://lnkd.in/dg87ac4q\n\n5. Lead scoring: https://lnkd.in/dKNaBytR\n\nSend this post to your marketing team :)",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7349396744364789760",
+        "linkedInVideoComponent": {
+          "thumbnail": "https://media.licdn.com/dms/image/v2/D4D05AQFSjMET0pJHBg/videocover-high/B4DZf5NWphGkCQ-/0/1752232726975?e=1754226000&v=beta&t=Pq52KyHC-73-eFMWPoH09-fqbuY15C6XNJBtnyEWC88",
+          "duration": 6566,
+          "provider": "UGC"
+        },
+        "linksInPost": [
+          "https://www.linkedin.com/company/relevanceai/"
+        ],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "2w \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 157,
+          "numComments": 22,
+          "numShares": 14,
+          "reactionTypeCounts": [
+            {
+              "count": 143,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 6,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 4,
+              "reactionType": "APPRECIATION"
+            },
+            {
+              "count": 3,
+              "reactionType": "INTEREST"
+            },
+            {
+              "count": 1,
+              "reactionType": "PRAISE"
+            }
+          ]
+        },
+        "postedAt": "2025-07-11T11:18:49.000Z",
+        "postedAgo": "2w \u2022   ",
+        "urn": "urn:li:activity:7349396744364789760",
+        "reactionsUrn": "urn:li:ugcPost:7349396733040259072",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7349396733040259072,urn:li:ugcPost:7349396733040259072,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:ugcPost:7349396733040259072"
+      },
+      {
+        "postText": "Well well \ud83d\udc80",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7348729249819758593",
+        "linkedInVideoComponent": {
+          "thumbnail": "https://media.licdn.com/dms/image/v2/D4D05AQGCzY1qJrLbaw/videocover-high/B4DZfvuJ41GkCI-/0/1752073552951?e=1754226000&v=beta&t=KTjab-oZetKGHJwxiSlM9Ntb3XVxM96d7bG1IoFF99o",
+          "duration": 8800,
+          "provider": "UGC"
+        },
+        "linksInPost": [],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "2w \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 37,
+          "numComments": 2,
+          "numShares": 0,
+          "reactionTypeCounts": [
+            {
+              "count": 27,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 10,
+              "reactionType": "ENTERTAINMENT"
+            }
+          ]
+        },
+        "postedAt": "2025-07-09T15:06:25.000Z",
+        "postedAgo": "2w \u2022   ",
+        "urn": "urn:li:activity:7348729249819758593",
+        "reactionsUrn": "urn:li:ugcPost:7348729248938913792",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7348729248938913792,urn:li:ugcPost:7348729248938913792,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:ugcPost:7348729248938913792"
+      },
+      {
+        "postText": "If your lead ghosts you after booking a call then this agent will help you. \n\nWe had this problem too.\n\nMost of our leads are inbound. And some use to be a no show.\n\nSo I had call with Riddhiman and we built a bulletproof sales ops flow around the demo.\n\nHere\u2019s how it works now:\n\n- Lead books a call via Calendly\n- They get a case study miro board based on their industry right before the call over email through Smartlead \n- AI calls them the day before to confirm the meeting \n- We get on the call\n- Our sales assistant logs notes & generates their action plan\n- If they don\u2019t reply post-call, we auto-follow up\n- Every 2 weeks, the system researches their brand issues and sends a high-value resource (not generic crap)\n\nThis system alone helped us turn ghosted leads into sales calls. \n\nBecause most prospects need constant attention and that\u2019s exactly what this agent helps you with. \n\nIf you get a lot of no shows lemme know. Happy to help!",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7348675826420277249",
+        "imageComponent": [
+          "https://media.licdn.com/dms/image/v2/D4D22AQEz2qQoAKdAoQ/feedshare-shrink_800/B4DZfu9uHFHkAg-/0/1752060847494?e=1756339200&v=beta&t=9D1lQFKa_ioSiq9p3oe4F6v6_-znGPHJLdCsPLyus4k"
+        ],
+        "linksInPost": [
+          "https://www.linkedin.com/in/ACoAAEZ-7a0BSnHrKQKl2j5LHI1qw4YQewga1M4",
+          "https://www.linkedin.com/company/smartlead-ai/"
+        ],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "2w \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 51,
+          "numComments": 12,
+          "numShares": 2,
+          "reactionTypeCounts": [
+            {
+              "count": 46,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 2,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 1,
+              "reactionType": "PRAISE"
+            },
+            {
+              "count": 1,
+              "reactionType": "APPRECIATION"
+            },
+            {
+              "count": 1,
+              "reactionType": "INTEREST"
+            }
+          ]
+        },
+        "postedAt": "2025-07-09T11:34:08.000Z",
+        "postedAgo": "2w \u2022   ",
+        "urn": "urn:li:activity:7348675826420277249",
+        "reactionsUrn": "urn:li:activity:7348675826420277249",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7348675826420277249,urn:li:activity:7348675826420277249,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:activity:7348675826420277249"
+      },
+      {
+        "postText": "What if AI SDRs could generate warm leads, and book meetings for you on LinkedIn by posting content?\n\nHere\u2019s how it would look like:\n\n1. Create AI avatars for LinkedIn (DM me to get these custom-built)\n\n2. Rebrand them as \u201cAI SDR at [Your Company Name]\u201d\n\n3. Fill out a short form this gives your AI SDR its voice, target ICP, and offer\n\n4. The SDR then starts posting lead magnets, playbooks, and workflow content (like this one)\n\nIt runs warm outreach using LA Growth Machine across both LinkedIn DMs + Email\n\ncontent \u2192 engagement \u2192 warm DMs/emails.\n\nYou can deploy as many AI SDRs as you want each with a different tone, persona, or niche ICP\n\n\u201cBut Suprava\u2026 won\u2019t people report it as spam?\u201d\n\nLet\u2019s be real:\n\nPeople already follow AI avatars on Instagram, TikTok, and even YouTube\n\nNo one cares how it's made as long as it delivers real value\n\nThese SDRs don\u2019t pretend to be human they\u2019re positioned as helpful agents working for you\n\nIf it helps someone get 3 more booked calls this week, they won\u2019t mind where it came from.\n\nWe did the same for 2 YC-backed SaaS companies, we tested this with 3 AI SDRs each:\n\n- Posted value daily\n\n- Engaged with ICPs\n\n- DMed warm leads who liked/commented\n\nIt booked 20+ calls booked in 1 month\n\nLemme know in the comments if u want a guide on this or need help setting this up.\n\nI\u2019ll DM you the full funnel breakdown with tools, setup, and scripts.\n\nSee you!",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7348354413578575872",
+        "imageComponent": [
+          "https://media.licdn.com/dms/image/v2/D4D22AQE116x__JhOdg/feedshare-shrink_480/B4DZfqZZTTGkAY-/0/1751984216575?e=1756339200&v=beta&t=ad39Lda3Y_qTUG2DyAJ2vVGKSv2wrLhFTm3nxt9pfDo"
+        ],
+        "linksInPost": [],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "2w \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 75,
+          "numComments": 23,
+          "numShares": 0,
+          "reactionTypeCounts": [
+            {
+              "count": 69,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 4,
+              "reactionType": "INTEREST"
+            },
+            {
+              "count": 1,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 1,
+              "reactionType": "APPRECIATION"
+            }
+          ]
+        },
+        "postedAt": "2025-07-08T14:16:58.000Z",
+        "postedAgo": "2w \u2022   ",
+        "urn": "urn:li:activity:7348354413578575872",
+        "reactionsUrn": "urn:li:activity:7348354413578575872",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7348354413578575872,urn:li:activity:7348354413578575872,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:activity:7348354413578575872"
+      },
+      {
+        "postText": "Inside of a $10M+ company that generates leads without cold email or ads! \u2b07\ufe0f\n\nWe all use the same methods for lead gen:\n\n\u274c Cold emails\n\u274c LinkedIn DMs \n\u274c Paid ads \n\nThis $10M+ company did the opposite. \n\nThey used Handwritten letters + memes + automation + PAS framework.\n\n\ud83d\udd39 Step 1: Build an intent list using lemlist Clay, PhantomBuster and Evaboot (funding, hiring, news).\n\n\ud83d\udd39 Step 2: Send automated handwritten notes (Handwrytten + Audience.co + Make)\n\n\ud83d\udd39 Step 3: Follow up with a meme using Smartlead & second handwritten note (5-7 days later).\n\n\ud83d\udd39 Step 4: Email sequence using PAS framework\n\n(Problem \u2192 Agitation \u2192 Solution).\n\nEmail 1: Pattern interrupt\nEmail 2: Pain point + meme\nEmail 3: Solution + workflow\n\nThey have a closing rate of 60% pretty high than average! \n\n\u2014\u2014\n\nIf you want us to implement this system for you then let us know in the comments! :)",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7347951123699269636",
+        "linkedInVideoComponent": {
+          "thumbnail": "https://media.licdn.com/dms/image/v2/D4D05AQHUv44wkND7Bg/videocover-high/B4DZfkqmenHMCM-/0/1751888065534?e=1754226000&v=beta&t=kIseW6M357WzIFhtwqlaEKUVd9khfEnJbMn7vgOYK8Y",
+          "duration": 4000,
+          "provider": "UGC"
+        },
+        "linksInPost": [
+          "https://www.linkedin.com/company/lemlist/",
+          "https://www.linkedin.com/company/grow-with-clay/",
+          "https://www.linkedin.com/company/phantombuster-official/",
+          "https://www.linkedin.com/company/evaboot-official/",
+          "https://www.linkedin.com/company/handwrytten/",
+          "https://www.linkedin.com/company/audience-co/",
+          "https://www.linkedin.com/company/itsmakehq/",
+          "https://www.linkedin.com/company/smartlead-ai/"
+        ],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "2w \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 95,
+          "numComments": 29,
+          "numShares": 4,
+          "reactionTypeCounts": [
+            {
+              "count": 85,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 5,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 5,
+              "reactionType": "INTEREST"
+            }
+          ]
+        },
+        "postedAt": "2025-07-07T11:34:26.000Z",
+        "postedAgo": "2w \u2022   ",
+        "urn": "urn:li:activity:7347951123699269636",
+        "reactionsUrn": "urn:li:ugcPost:7347951119173595136",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7347951119173595136,urn:li:ugcPost:7347951119173595136,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:ugcPost:7347951119173595136"
+      },
+      {
+        "postText": "This AI agent turns LinkedIn comments into booked sales calls.\n\nUsed by $100M+ companies. \n\nNow it\u2019s yours for free.\n\nHere\u2019s what it automates in under 30 seconds:\n\n- Scrapes form responses\n- Enriches leads with LinkedIn + website data\n- Finds and verifies emails\n- Sends the lead magnet\n- Adds leads to your Smartlead campaign\n- Tracks performance with real-time analytics\n\n\nIt\u2019s all built inside n8n using 7 connected AI agents.\n\nNo manual work. \n\nNo follow-up stress.\n\nOver 10 of our clients are using it right now to book calls directly from LinkedIn.\n\nIt\u2019s already helped generate 77+ meetings and counting.\n\nWhat makes it even more powerful?\n\nWe connected it to Smartlead\u2019s Global Analytics system.\n\nSo now you can track what\u2019s working, what\u2019s not, and fix problems before performance drops.\n\nYou\u2019ll get access to:\n\n- The full setup (Notion walkthrough)\n- All 7 ready-to-import JSONs\n- Step-by-step Loom videos\n- Smartlead\u2019s live dashboards\n\nIf u want then\u2026\n\n \nComment \u201cSMARTLEAD\u201d and I\u2019ll DM you the full system.\nI\nOr if you want it done-for-you, we can set it up in 48 hours.",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7346502303417298944",
+        "imageComponent": [
+          "https://media.licdn.com/dms/image/v2/D4D22AQG7_V7vJVQhzA/feedshare-shrink_2048_1536/B4DZfQE5T0HAAo-/0/1751542638669?e=1756339200&v=beta&t=0Jo2hY6LoZurXbR99e7ieyO5ckDyi5MQnlgRtv_QJEY"
+        ],
+        "linksInPost": [
+          "https://www.linkedin.com/company/n8n/",
+          "https://www.linkedin.com/company/smartlead-ai/"
+        ],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "3w \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 223,
+          "numComments": 281,
+          "numShares": 5,
+          "reactionTypeCounts": [
+            {
+              "count": 206,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 12,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 3,
+              "reactionType": "APPRECIATION"
+            },
+            {
+              "count": 2,
+              "reactionType": "INTEREST"
+            }
+          ]
+        },
+        "postedAt": "2025-07-03T11:37:20.000Z",
+        "postedAgo": "3w \u2022   ",
+        "urn": "urn:li:activity:7346502303417298944",
+        "reactionsUrn": "urn:li:activity:7346502303417298944",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7346502303417298944,urn:li:activity:7346502303417298944,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:activity:7346502303417298944"
+      },
+      {
+        "postText": "One cold email or a LinkedIn DM doesn\u2019t build trust. So, we coordinated 7 touchpoints across channels for a $300M+ brand. Here\u2019s what we did:\n\n\u2192 Tracked buying signals (like job openings + funding news)\n\u2192 Sent handwritten notes before the first email\n\u2192 Showed up on LinkedIn no pitch, just signal-based comments\n\u2192 Ran webinars that solved one clear pain\n\u2192 Used AI calls to confirm every booked meeting\n\u2192 Built a private Slack space that closed leads on its own\n\nWhich led to:\n\n- 40% more replies.\n- Higher show-up rates.\n\nBreakdown\u2019s in the post.\n\nIf you need help building a similar system feel free to DM :)",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7343269180957233154",
+        "documentComponent": {
+          "title": "Multichannel funnel!",
+          "transcribedDocumentUrl": "https://media.licdn.com/dms/document/media/v2/D4D1FAQFlYz655QIRXA/feedshare-document-chunked-pdf/B4DZeiIIdzHABo-/0/1750771802631?e=1754226000&v=beta&t=2rflIpY1oWz2l2RduuOHDN-f0qxJkK11m01vZWHxQe4",
+          "coverPages": [
+            {
+              "width": 387,
+              "height": 484,
+              "imageUrls": [
+                "https://media.licdn.com/dms/image/v2/D4D1FAQFlYz655QIRXA/feedshare-document-cover-images_480/B4DZeiIIdzHABM-/0/1750771801580?e=1754226000&v=beta&t=ZfXpJk2xG8ncLzdiZOJabfik8aqO3hS1FS_jwmaFw2A",
+                "https://media.licdn.com/dms/image/v2/D4D1FAQFlYz655QIRXA/feedshare-document-cover-images_480/B4DZeiIIdzHABM-/1/1750771801580?e=1754226000&v=beta&t=pQoT6AFw6EuGV6Q7B5S8GUjfFl4TZko0QihkmrwrPDo",
+                "https://media.licdn.com/dms/image/v2/D4D1FAQFlYz655QIRXA/feedshare-document-cover-images_480/B4DZeiIIdzHABM-/2/1750771801580?e=1754226000&v=beta&t=r7xkWDHxwKhoONqHEaoPyKsatEK7ejqhKIcozvx7X7s"
+              ]
+            },
+            {
+              "width": 650,
+              "height": 812,
+              "imageUrls": [
+                "https://media.licdn.com/dms/image/v2/D4D1FAQFlYz655QIRXA/feedshare-document-cover-images_800/B4DZeiIIdzHABE-/0/1750771800885?e=1754226000&v=beta&t=ZLFffyH6sV5RPO1igZD5FCBqH02s7ppkM8vvkWfMmdU",
+                "https://media.licdn.com/dms/image/v2/D4D1FAQFlYz655QIRXA/feedshare-document-cover-images_800/B4DZeiIIdzHABE-/1/1750771800885?e=1754226000&v=beta&t=JkRopvPTe4D-yrBqB2-4KlqL7-kuW1rmXzLOUhHcCGU",
+                "https://media.licdn.com/dms/image/v2/D4D1FAQFlYz655QIRXA/feedshare-document-cover-images_800/B4DZeiIIdzHABE-/2/1750771800885?e=1754226000&v=beta&t=x4rx1_Da7xXnnKWbyy4llya2SGjEbVvJdGWz_rPKemY"
+              ]
+            },
+            {
+              "width": 1025,
+              "height": 1281,
+              "imageUrls": [
+                "https://media.licdn.com/dms/image/v2/D4D1FAQFlYz655QIRXA/feedshare-document-cover-images_1280/B4DZeiIIdzHABU-/0/1750771801657?e=1754226000&v=beta&t=73_0VuR01bvkd7t79FBedvaT572Pko9do6sO3l4clbU",
+                "https://media.licdn.com/dms/image/v2/D4D1FAQFlYz655QIRXA/feedshare-document-cover-images_1280/B4DZeiIIdzHABU-/1/1750771801657?e=1754226000&v=beta&t=PDl81H2mlvVaf5kbPo4OumxdGLY1wFMe6PWS8Kx2yFQ",
+                "https://media.licdn.com/dms/image/v2/D4D1FAQFlYz655QIRXA/feedshare-document-cover-images_1280/B4DZeiIIdzHABU-/2/1750771801657?e=1754226000&v=beta&t=yW6sIXOnEBf6RxjeOkL5uQzq-eE-DSR8nzIY-LU7fLU"
+              ]
+            },
+            {
+              "width": 1537,
+              "height": 1921,
+              "imageUrls": [
+                "https://media.licdn.com/dms/image/v2/D4D1FAQFlYz655QIRXA/feedshare-document-cover-images_1920/B4DZeiIIdzHAAw-/0/1750771801907?e=1754226000&v=beta&t=-u2Niz08gS9VbUzvTtU-qiud1o4U2x1OYr6hYd7JKhk",
+                "https://media.licdn.com/dms/image/v2/D4D1FAQFlYz655QIRXA/feedshare-document-cover-images_1920/B4DZeiIIdzHAAw-/1/1750771801907?e=1754226000&v=beta&t=dGMIAQU0SC1enXSNXQvx112_kzvuZdHvW8UHsmAtxJo",
+                "https://media.licdn.com/dms/image/v2/D4D1FAQFlYz655QIRXA/feedshare-document-cover-images_1920/B4DZeiIIdzHAAw-/2/1750771801907?e=1754226000&v=beta&t=bBzuGODZT7mbStG5oF1eK--OJqOC2dudrcIrbookTyI"
+              ]
+            }
+          ]
+        },
+        "linksInPost": [],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "1mo \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 89,
+          "numComments": 15,
+          "numShares": 4,
+          "reactionTypeCounts": [
+            {
+              "count": 85,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 2,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 2,
+              "reactionType": "INTEREST"
+            }
+          ]
+        },
+        "postedAt": "2025-06-24T13:30:04.000Z",
+        "postedAgo": "1mo \u2022   ",
+        "urn": "urn:li:activity:7343269180957233154",
+        "reactionsUrn": "urn:li:ugcPost:7343269091748540416",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7343269091748540416,urn:li:ugcPost:7343269091748540416,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:ugcPost:7343269091748540416"
+      },
+      {
+        "postText": "Cold email tip:\n\nStop with the \u201cLove what you\u2019re doing at XYZ.\u201d\n\nIf their ads suck, say it.\n\nBeing real will get you more replies than fake compliments!",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7342847480536936449",
+        "linksInPost": [],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "1mo \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 84,
+          "numComments": 24,
+          "numShares": 2,
+          "reactionTypeCounts": [
+            {
+              "count": 70,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 8,
+              "reactionType": "ENTERTAINMENT"
+            },
+            {
+              "count": 5,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 1,
+              "reactionType": "INTEREST"
+            }
+          ]
+        },
+        "postedAt": "2025-06-23T09:34:22.000Z",
+        "postedAgo": "1mo \u2022   ",
+        "urn": "urn:li:activity:7342847480536936449",
+        "reactionsUrn": "urn:li:activity:7342847480536936449",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7342847480536936449,urn:li:activity:7342847480536936449,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:activity:7342847480536936449"
+      },
+      {
+        "postText": "This bot has been trained to write email that has a 70% reply rate. \ud83d\udc47\ud83c\udffb(using human psychology)\n\nIt uses c-suite level behaviour patterns such as:\n\n- Pattern disruption\n- Fear aversion \n- Open loop\n\nI have fed it some of our best performing campaigns.\n\nThis is one of the email copy this GPT gave me \u2b07\ufe0f\n\nSubject: \u201cLeaked: [Competitor]\u2019s Strategy to [Pain Point] Playbook\u201d\n\n[First Name]- Most [industry] execs don\u2019t talk about this publicly, but we\u2019ve compiled a private playbook showing [Competitor] and [Another Competitor] quietly [achieved massive result] in [X weeks] without [common frustration].\n\nMy team sat 72 hrs to compile this haha. Lemme know if you wanna check! \n\nToodles,\n[Your Name]\n\nThis GPT is smarter than your avg SDR.\n\nWould you like to give it a try? \n\n(Link is in the comments)",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7341507239804841984",
+        "linkedInVideoComponent": {
+          "thumbnail": "https://media.licdn.com/dms/image/v2/D4D05AQGuU-ihGXs0Wg/videocover-low/B4DZeJF6u_HkB8-/0/1750351722329?e=1754226000&v=beta&t=gCP9iBwDekf5Bc8TNOSvXi3j9Ix3oZCRCpatNFnviMU",
+          "duration": 10033,
+          "provider": "UGC"
+        },
+        "linksInPost": [],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "1mo \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 91,
+          "numComments": 12,
+          "numShares": 4,
+          "reactionTypeCounts": [
+            {
+              "count": 83,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 7,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 1,
+              "reactionType": "APPRECIATION"
+            }
+          ]
+        },
+        "postedAt": "2025-06-19T16:48:44.000Z",
+        "postedAgo": "1mo \u2022   ",
+        "urn": "urn:li:activity:7341507239804841984",
+        "reactionsUrn": "urn:li:ugcPost:7341507228723470337",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7341507228723470337,urn:li:ugcPost:7341507228723470337,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:ugcPost:7341507228723470337"
+      },
+      {
+        "postText": "We built a multichannel lead-gen funnel for a $300M+ B2B company that helped them get 10x more leads (here\u2019s everything we did for them):\n\nThis client came to us with solid funding, a decent SDR stack but no system to make it stick. \n\nThey were relying too much on cold-email which led their revenue to fall.\n\nThey needed help to make a presence everywhere which will help them get more visibility.\n\nHere\u2019s what we did for them \ud83d\udc47\n\n1\ufe0f\u20e3 Started with social signals\n\n We tracked:\n\n- Job postings for roles they could solve.\n- Fresh funding + expansion news.\n- Executives commenting on competitors.\n- Looking for roles\n- Likes/comments of competitors \n\nSo every name in the funnel was pre-qualified by real intent.\n\nWe did this using Trigify.io \n\n2\ufe0f\u20e3 Broke the pattern with handwritten notes. \ud83d\udcdd \n\nBefore any email or DM, top accounts got a short handwritten note referencing the signal that triggered them.\n\nPhysical > inbox.\n\n90% open rate.\n\nWe used Handwrytten for this\n\n3\ufe0f\u20e3 Backed it up with an email the right way.\n\nNot ur daily spam.\n\nEach inbox warmed, low volume.\n\nShort plain-text follow-ups referencing the note.\n\nReplies went straight to their team.\n\nUsing Smartlead \n\n4\ufe0f\u20e3 Ran LinkedIn in parallel.\n\n Viewed their profiles \u2192 liked + commented on a recent post \u2192 soft connection request \u2192 no pitch in the first DM.\n\nResult: by the time an email landed, they knew who we were.\n\nIt was manually because of LinkedIn strict issues.\n\n5\ufe0f\u20e3 Made the whole team visible through content \n\nWe didn\u2019t just rely on SDRs.\n\nWe lined up posts from founders, AEs, and product heads.\n\nReal stories, lessons, and mini case studies.\n\nKept the company top-of-mind for every warm lead.\n\n6\ufe0f\u20e3 Added webinars for mid-funnel trust.\n\n Every month: a short live session solving 1 common pain point.\n\nEngaged lurkers, collected objections, and booked calls directly on the session.\n\nUsed Luma for this\n\n7\ufe0f\u20e3 Used an AI call to confirm every booked meeting.\n\n One hour before each call, an AI SDR rang the prospect:\n\n \u2705 Confirmed attendance\n \u2705 Answered basic questions\n \u2705 Offered reschedule if needed\n\nNo more no-shows. Simple but powerful.\n\nIt was using Retell AI \n\n8\ufe0f\u20e3 Built a private Slack space to capture everyone else.\n\nWebinar attendees, warm replies, LinkedIn engagers all pulled into a free Slack community.\n\nWeekly drops: playbooks, fresh case studies, behind-the-scenes.\n\nA trust funnel \u2014 prospects closed themselves later.\n\nWe set up a slack bot. That engaged their prospects.\n\n\ud83d\udc49 The result:\n\n- Higher show rates\n- Higher close rates\n\nIt gave a:\n\n- 40% lift in replies compared to their old high-volume approach\n\n- Zero guesswork about who to target next quarter\n\nThis is one of the most practical system for 2025.\n\nBe everywhere. \n\n\u2014\u2014\n\nIf you run sales at scale and want this architecture, my DMs are open :)\n\n\n\n\n\n\n#B2B #Outbound #LeadGen #Revenue #SalesOps",
+        "postLink": "https://www.linkedin.com/feed/update/urn:li:activity:7340393305525911552",
+        "imageComponent": [
+          "https://media.licdn.com/dms/image/v2/D4D22AQGkcq1MFe4Bgg/feedshare-shrink_2048_1536/B4DZd5QztpGsAs-/0/1750086139885?e=1756339200&v=beta&t=pHHFxVyN_BidXMDMHZfH7dPjG0o7NCnmDqizHptgFBY"
+        ],
+        "linksInPost": [
+          "https://www.linkedin.com/company/trigify/",
+          "https://www.linkedin.com/company/handwrytten/",
+          "https://www.linkedin.com/company/smartlead-ai/",
+          "https://www.linkedin.com/company/luma-hq/",
+          "https://www.linkedin.com/company/retellai/"
+        ],
+        "actor": {
+          "actorImage": "https://media.licdn.com/dms/image/v2/D5603AQHQEkHaHrDgvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692859740080?e=1756339200&v=beta&t=jsw7t2GBzvkDuGYBy7hLLfvyN47Jy0h6Swxh-gbqzqw",
+          "actorDescription": "Co-Founder @AcquisitionX",
+          "actorName": "Suprava Sabat",
+          "actorSubDescription": "1mo \u2022   ",
+          "actorLink": "https://www.linkedin.com/in/suprava-sabat-saasleadgen?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADLkiRIB3R_tbZC2oQfE5xj-6IDiCsONYY8"
+        },
+        "is_repost": false,
+        "socialCount": {
+          "numLikes": 211,
+          "numComments": 44,
+          "numShares": 6,
+          "reactionTypeCounts": [
+            {
+              "count": 197,
+              "reactionType": "LIKE"
+            },
+            {
+              "count": 8,
+              "reactionType": "EMPATHY"
+            },
+            {
+              "count": 5,
+              "reactionType": "INTEREST"
+            },
+            {
+              "count": 1,
+              "reactionType": "PRAISE"
+            }
+          ]
+        },
+        "postedAt": "2025-06-16T15:02:21.000Z",
+        "postedAgo": "1mo \u2022   ",
+        "urn": "urn:li:activity:7340393305525911552",
+        "reactionsUrn": "urn:li:activity:7340393305525911552",
+        "commentsUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7340393305525911552,urn:li:activity:7340393305525911552,urn:li:highlightedReply:-)",
+        "repostsUrn": "urn:li:activity:7340393305525911552"
+      }
+    ],
+    "pagination": {
+      "count": 20,
+      "start": 0,
+      "total": 0
+    },
+    "paginationToken": "dXJuOmxpOmFjdGl2aXR5OjczNDAzOTMzMDU1MjU5MTE1NTItMTc1MDA4NjE0MTkxOQ=="
+  }
+}

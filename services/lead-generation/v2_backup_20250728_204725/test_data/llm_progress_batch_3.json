@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Erfan Karimkhani",
+    "title": "AI Researcher in Advertising",
+    "company": "Branding|Marketing MSC OF System Optimization",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADPNT3IBChi3ethpUPUHYW-JyqkHjcyRt34",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "AI Researcher in Advertising; fits TIER 3 as a technical builder but lacks direct purchasing authority.",
+    "is_qualified": false
+  },
+  {
+    "name": "Erez ZohaR",
+    "title": "Creative Director & Founder",
+    "company": "Sourcex 3D Technology studio",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABwuALIBvX37IqdoNHPU30it_OiQJPfJq6s",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 60,
+    "llm_reasoning": "Creative Director & Founder; primarily a service provider, fits TIER 4.",
+    "is_qualified": false
+  },
+  {
+    "name": "Margo Lee (Kashuba)",
+    "title": "CMO",
+    "company": "Marketing Leader | | Expert in B2B SaaS Strategy & Go-to-Market (GTM) for Startups | | Passionate About Driving Innovation and Team Development | Focused on Data-Driven Results and Long-Term Success",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAAc6QwYBHF6RYk9rCpwJcLfsLZ2quOxRSr0",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 80,
+    "llm_reasoning": "CMO with a focus on B2B SaaS Strategy; fits TIER 2 as a growth role with purchasing authority.",
+    "is_qualified": true
+  },
+  {
+    "name": "Atta Ul Mustafa",
+    "title": "Go High Level (GHL) Expert",
+    "company": "CRM Automation Specialist | Helping Businesses Scale with GHL | Zapier | n8n | Make.com | AI Agents",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADluag4BArMmU7dbfdMMoIFg6IySucz9n1s",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "CRM Automation Specialist; fits TIER 3 as a technical builder who buys tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Jack McDonough",
+    "title": "Digital Transformation Consultant @ Exponential-E",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAC8s6JwBz5HVUg10l5Z1IcnFjz66beKzeXA",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Digital Transformation Consultant; fits TIER 2 as a growth role with potential purchasing influence.",
+    "is_qualified": true
+  },
+  {
+    "name": "dheeraj chauhan",
+    "title": "",
+    "company": "Social media marketing | Facebook Ads | content creation strategist | lead generation",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACk7KvgBNaO6SnI4IuWIrm_tFCEd2_2OmWE",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 30,
+    "llm_reasoning": "Social media marketing strategist; fits TIER 4 as a service provider.",
+    "is_qualified": false
+  },
+  {
+    "name": "Olha Anurina",
+    "title": "B2B Marketing Manager",
+    "company": "Marketing Generalist | Data Enthusiast",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACb_H4oBNhuGdKsjxXe1Y8JAxN1TkxMWSvU",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "B2B Marketing Manager; fits TIER 2 as a growth role with purchasing authority.",
+    "is_qualified": true
+  },
+  {
+    "name": "Ayush Prakash",
+    "title": "persuing dual degree from Indian Institute of Technology, Patna and GEC Bhojpur.",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAFG4TUkBtdQXSgm65OuqNduYvYdNSM5KZ6M",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 20,
+    "llm_reasoning": "Student; does not fit any tier for purchasing authority.",
+    "is_qualified": false
+  },
+  {
+    "name": "Vaibbhav Sutar",
+    "title": "Founder @ Threevaay",
+    "company": "B2B: Client Acquisition, Email, AI Agents | B2C: Content, Social Media, Performance Ads",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAFdU19oBgZjLA2YT2FsNlTL1BBj5xFSySWs",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Founder with a focus on client acquisition; fits TIER 2 as a growth role.",
+    "is_qualified": true
+  },
+  {
+    "name": "Meddy Mallard \u26a1\ufe0f",
+    "title": "\ud83d\udc49 Devenez la r\u00e9f\u00e9rence de votre secteur d\u2019activit\u00e9 et \u00e0 convertissez sur linkedIn",
+    "company": "Sp\u00e9cialiste LinkedIn & Personal Branding \u26a1\ufe0f",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADeGKeQBOh0ULrj207yDZPHf_TS9BXipGF0",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 40,
+    "llm_reasoning": "Personal Branding Specialist; fits TIER 4 as a service provider.",
+    "is_qualified": false
+  }
+]

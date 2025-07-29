@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Arpit Singh",
+    "title": "GTM Engineer",
+    "company": "I talk about GTM, LinkedIn growth, outbound and cold email outreach | LinkedIn Content & Social Selling for B2B Business | Open for collaborations",
+    "linkedin_url": "https://www.linkedin.com/in/digiarpit",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "GTM Engineer involved in growth marketing strategies, likely purchases lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Manthan Patel",
+    "title": "I teach AI Agents and Lead Gen",
+    "company": "Lead Gen Man(than) | 100K+ students",
+    "linkedin_url": "https://www.linkedin.com/in/leadgenmanthan",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 75,
+    "llm_reasoning": "Teaches AI Agents and Lead Generation, indicating a role in growth and education, likely to purchase relevant tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Manthan Patel",
+    "title": "I teach AI Agents and Lead Gen",
+    "company": "Lead Gen Man(than) | 100K+ students",
+    "linkedin_url": "https://www.linkedin.com/in/leadgenmanthan",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 75,
+    "llm_reasoning": "Teaches AI Agents and Lead Generation, indicating a role in growth and education, likely to purchase relevant tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Manthan Patel",
+    "title": "I teach AI Agents and Lead Gen",
+    "company": "Lead Gen Man(than) | 100K+ students",
+    "linkedin_url": "https://www.linkedin.com/in/leadgenmanthan",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 75,
+    "llm_reasoning": "Teaches AI Agents and Lead Generation, indicating a role in growth and education, likely to purchase relevant tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Janvi K.",
+    "title": "3M+ views generated in 60 days Helping Founders & Businesses to build loyal communities through attraction marketing + organic content strategies",
+    "company": "COPYWRITER | SOCIAL MEDIA MARKETER",
+    "linkedin_url": "https://www.linkedin.com/in/janvikar",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 40,
+    "llm_reasoning": "Freelance copywriter and social media marketer, primarily offering services rather than purchasing tools.",
+    "is_qualified": false
+  }
+]

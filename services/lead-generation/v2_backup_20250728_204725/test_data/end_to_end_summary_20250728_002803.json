@@ -1,0 +1,155 @@
+{
+  "status": "success",
+  "execution_time_seconds": 114.59957385063171,
+  "post_id": 21,
+  "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7340393305525911552",
+  "total_engagement": 20,
+  "total_reactions": 10,
+  "total_comments": 10,
+  "total_leads_extracted": 20,
+  "qualified_leads_count": 3,
+  "qualification_rate": 15.0,
+  "lead_ids": [
+    1,
+    2,
+    3
+  ],
+  "qualified_leads": [
+    {
+      "source": "reaction",
+      "source_type": "reaction",
+      "name": "Gustavo Siqueira",
+      "job_title": "Estrategista em Prospec\u00e7\u00e3o | Outbound |",
+      "profile_url": "https://www.linkedin.com/in/ACoAADLcR_kBpvn3NSYgerq5M339DXIyaJuNk98",
+      "profile_urn": "ACoAADLcR_kBpvn3NSYgerq5M339DXIyaJuNk98",
+      "reaction_type": "LIKE",
+      "engagement_type": "reacted",
+      "company": "Outbound |",
+      "raw_data": {
+        "image": {
+          "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQGe5limNhz7Og/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1666179761739?e=1756339200&v=beta&t=Lj0kooIk9RLtO_lPN1hWm_1ilVupUGpfw09axYF_UEg",
+          "profileUrn": "ACoAADLcR_kBpvn3NSYgerq5M339DXIyaJuNk98"
+        },
+        "subtitle": "Estrategista em Prospec\u00e7\u00e3o | Outbound |",
+        "navigationUrl": "https://www.linkedin.com/in/ACoAADLcR_kBpvn3NSYgerq5M339DXIyaJuNk98",
+        "title": "Gustavo Siqueira",
+        "actionUrn": "urn:li:fsd_profile:ACoAADLcR_kBpvn3NSYgerq5M339DXIyaJuNk98",
+        "actor": {
+          "companyUrn": null,
+          "*profileUrn": "urn:li:fsd_profile:ACoAADLcR_kBpvn3NSYgerq5M339DXIyaJuNk98"
+        },
+        "reactionType": "LIKE"
+      },
+      "qualification": {
+        "overall_score": 75,
+        "target_audience_score": 80,
+        "topic_relevance_score": 70,
+        "lead_quality_score": 75,
+        "action_trigger_score": 70,
+        "qualification": "QUALIFIED",
+        "reasoning": "The post is from a professional involved in outbound prospecting, which aligns with our target audience of B2B companies and sales/marketing teams. While it engages with lead generation topics, it lacks depth in discussing specific tools or strategies.",
+        "key_indicators": [
+          "B2B lead generation",
+          "Outbound prospecting"
+        ],
+        "recommended_action": "PROCESS",
+        "post_url": null,
+        "evaluated_at": "2025-07-28T00:27:23.387612",
+        "model_used": "gpt-4o-mini"
+      },
+      "qualification_score": 75,
+      "qualified": true
+    },
+    {
+      "source": "reaction",
+      "source_type": "reaction",
+      "name": "Lakshith Dinesh",
+      "job_title": "Building Linkrunner.io | Ex-Bain, HighRadius | BITS Pilani | Strategy Ops & GTM",
+      "profile_url": "https://www.linkedin.com/in/ACoAACLX9kgBtZ1pCdNfEfM-3cosSGaizg_w1X8",
+      "profile_urn": "ACoAACLX9kgBtZ1pCdNfEfM-3cosSGaizg_w1X8",
+      "reaction_type": "LIKE",
+      "engagement_type": "reacted",
+      "company": "Strategy Ops & GTM",
+      "raw_data": {
+        "image": {
+          "profilePic": "https://media.licdn.com/dms/image/v2/D5603AQFTGO2AOODBjQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729234824179?e=1756339200&v=beta&t=-yf3FDwB_xeRC5PT71T_VgOCMkmbi5YfNr1y6WQqVqA",
+          "profileUrn": "ACoAACLX9kgBtZ1pCdNfEfM-3cosSGaizg_w1X8"
+        },
+        "subtitle": "Building Linkrunner.io | Ex-Bain, HighRadius | BITS Pilani | Strategy Ops & GTM",
+        "navigationUrl": "https://www.linkedin.com/in/ACoAACLX9kgBtZ1pCdNfEfM-3cosSGaizg_w1X8",
+        "title": "Lakshith Dinesh",
+        "actionUrn": "urn:li:fsd_profile:ACoAACLX9kgBtZ1pCdNfEfM-3cosSGaizg_w1X8",
+        "actor": {
+          "companyUrn": null,
+          "*profileUrn": "urn:li:fsd_profile:ACoAACLX9kgBtZ1pCdNfEfM-3cosSGaizg_w1X8"
+        },
+        "reactionType": "LIKE"
+      },
+      "qualification": {
+        "overall_score": 70,
+        "target_audience_score": 80,
+        "topic_relevance_score": 60,
+        "lead_quality_score": 70,
+        "action_trigger_score": 50,
+        "qualification": "QUALIFIED",
+        "reasoning": "The post is from a professional in a relevant field and engages with lead generation content, indicating potential interest from decision-makers.",
+        "key_indicators": [
+          "B2B lead generation",
+          "Strategy Ops",
+          "GTM"
+        ],
+        "recommended_action": "PROCESS",
+        "post_url": null,
+        "evaluated_at": "2025-07-28T00:27:34.578114",
+        "model_used": "gpt-4o-mini"
+      },
+      "qualification_score": 70,
+      "qualified": true
+    },
+    {
+      "source": "reaction",
+      "source_type": "reaction",
+      "name": "Jaydeep Khachar",
+      "job_title": "Driving Sales Growth | Expert in Lead Generation & Prospecting | iSmartRecruit",
+      "profile_url": "https://www.linkedin.com/in/ACoAADhhr0oBMVaes1qloa8geVo6ABkeRCcxS34",
+      "profile_urn": "ACoAADhhr0oBMVaes1qloa8geVo6ABkeRCcxS34",
+      "reaction_type": "LIKE",
+      "engagement_type": "reacted",
+      "company": "iSmartRecruit",
+      "raw_data": {
+        "image": {
+          "profilePic": "https://media.licdn.com/dms/image/v2/D4D03AQFNdxOUZPgqRw/profile-displayphoto-scale_100_100/B4DZeCmuU4GgAc-/0/1750242881601?e=1756339200&v=beta&t=BbPO1cayE0nuRsZ1tp7DsJ0q_MsdTfsjVcmSJf0Pzbc",
+          "profileUrn": "ACoAADhhr0oBMVaes1qloa8geVo6ABkeRCcxS34"
+        },
+        "subtitle": "Driving Sales Growth | Expert in Lead Generation & Prospecting | iSmartRecruit",
+        "navigationUrl": "https://www.linkedin.com/in/ACoAADhhr0oBMVaes1qloa8geVo6ABkeRCcxS34",
+        "title": "Jaydeep Khachar",
+        "actionUrn": "urn:li:fsd_profile:ACoAADhhr0oBMVaes1qloa8geVo6ABkeRCcxS34",
+        "actor": {
+          "companyUrn": null,
+          "*profileUrn": "urn:li:fsd_profile:ACoAADhhr0oBMVaes1qloa8geVo6ABkeRCcxS34"
+        },
+        "reactionType": "LIKE"
+      },
+      "qualification": {
+        "overall_score": 75,
+        "target_audience_score": 80,
+        "topic_relevance_score": 85,
+        "lead_quality_score": 70,
+        "action_trigger_score": 70,
+        "qualification": "QUALIFIED",
+        "reasoning": "The post is relevant to B2B companies in the SaaS space, focusing on lead generation, which aligns with our ICP. The engagement from a sales growth expert indicates potential interest from decision-makers, though specific details on tools or strategies are lacking.",
+        "key_indicators": [
+          "Expert in Lead Generation",
+          "Engagement on B2B lead generation post"
+        ],
+        "recommended_action": "PROCESS",
+        "post_url": null,
+        "evaluated_at": "2025-07-28T00:27:37.414453",
+        "model_used": "gpt-4o-mini"
+      },
+      "qualification_score": 75,
+      "qualified": true
+    }
+  ]
+}

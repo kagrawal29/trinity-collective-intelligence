@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Jyothsna Panda",
+    "title": "I Help You Build & Grow Your Personal Brand On LinkedIn\u2122",
+    "company": "\ud83c\udfc6 LinkedIn Top Voice | B2B Marketing & Sales",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADYWSj8B-a4U1U6kzYqFtYbmZEj52kFi1U8",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "Ranjana Jha builds personal brands for executives, indicating a service provider role rather than a decision-maker.",
+    "is_qualified": false
+  },
+  {
+    "name": "Juan S.",
+    "title": "Marketing Automation Specialist",
+    "company": "CRM & Email Marketing | Hubspot Marketing Hub | Salesforce CRM",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAB3EzjcBp7SfcxO6KmyGiRFPyGAzIGf7U54",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Juan S. is a Marketing Automation Specialist, likely involved in purchasing lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Prashant Mehta",
+    "title": "\ud83e\udd16 AI Agent Builder",
+    "company": "\u2699\ufe0f Ai driven automation | \ud83c\udf10 N8N Expert | \ud83d\udcac Chatbot Developer | RAG | Notion AI | \ud83d\udcbb JavaScript",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACgkE7ABwEme9HlUoE9sPgxV_rN-XZsm2xg",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Prashant Mehta develops AI-driven automation tools, indicating a role that involves purchasing APIs and development tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Yash Suthar",
+    "title": "Building @SingnalCraft",
+    "company": "AI & Automation Ops | 15+ tools/microtools shipped | Builder",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADLgI8ABDZIOE-714xkegEbUbUwYmIbk4Jo",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Yash Suthar is involved in AI & Automation Ops, suggesting a role that may involve purchasing tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Ranjana Jha",
+    "title": "I build Personal Brands for CEOs, VCs, & CXOs",
+    "company": "AI Automation | Lead Generation | Linkdin Branding Strategist | SWE @Praxzen | Ex-Atlassian",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAFAnRUQBUSZ3UGmMCunUPOSXMOUHjB0KQYA",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Ranjana Jha focuses on personal branding for high-level executives, indicating a service provider role.",
+    "is_qualified": true
+  },
+  {
+    "name": "Manish S",
+    "title": "Co-founder at Stravix AI",
+    "company": "Automate Sales and Customer Support with Enterprise-Grade AI Voice Agents",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAEm7WXcBr4YlS4KdCorM-C3GDioCLybJ210",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Manish S is a co-founder of an AI company, involved in automation solutions, indicating a role that may involve purchasing tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Deep Patel Growth Catalyst",
+    "title": "Lead Generation & AI Automation Strategist",
+    "company": "Scaling Online Revenue with High-Personalized Lead Nurturing flows Efficient Business Automations.",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADnTxn8BhXu2NvYHJu9QO1aIC3rCYmZV78M",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Deep Patel is a Lead Generation & AI Automation Strategist, likely involved in purchasing lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Raouf Lemouchi",
+    "title": "GTM Expert - Founder of STS - the media that gives you unfair B2B advantage",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAClnHwQBHcROBjsTiRVAvGkfq_R69YDiVOs",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Raouf Lemouchi is a GTM Expert, suggesting involvement in purchasing decisions related to growth tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Amit Gupta",
+    "title": "Business Head @ Tata nexarc",
+    "company": "B2B Growth Leader | Angel Investor",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAABP0u4BHRTwuCn9j3EahAdYCPRX2UCZ100",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 85,
+    "llm_reasoning": "Amit Gupta is a Business Head at Tata nexarc, indicating a C-level executive with purchasing authority.",
+    "is_qualified": true
+  },
+  {
+    "name": "Voanio Ramialison",
+    "title": "Consultant marketing local",
+    "company": "Avis Google, SMS marketing & messagerie centralis\u00e9e pour franchis\u00e9s et enseignes multi-sites",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACFsqUABW2j_JURf3IYhZjUi4-LElV_0mnY",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 40,
+    "llm_reasoning": "Voanio Ramialison is a consultant in local marketing, indicating a service provider role.",
+    "is_qualified": false
+  }
+]

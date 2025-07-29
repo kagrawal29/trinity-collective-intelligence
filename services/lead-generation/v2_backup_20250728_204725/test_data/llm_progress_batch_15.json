@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Akanksha Ghosalkar",
+    "title": "Founder @ Level Up Studio I Building a Community @BrandBookFit I MBA - Business Design and Consumer Behaviour",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACeXGJoB11lNYJalyODZOaoi2Gv_WUSUtKk",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 60,
+    "llm_reasoning": "Founder of a studio, but lacks clear indication of budget authority or direct purchasing role.",
+    "is_qualified": false
+  },
+  {
+    "name": "Manthan Patel",
+    "title": "I teach AI Agents and Lead Gen",
+    "company": "Lead Gen Man(than) | 100K+ students",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADbvBgEBdClIO4WvtjPvh2Th08rfUn0lKG8",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Teaches AI Agents and Lead Generation, indicating a role in lead generation tools, fitting TIER 3.",
+    "is_qualified": true
+  },
+  {
+    "name": "Affan Mirza",
+    "title": "Helping Founders & CEO's achieve more Sales & ROI through LinkedIn",
+    "company": "Personal Branding | Content Marketing | Your Brand's Marketing Companion |",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAEM205MBVpZD3JGj84O-vhTcIE_lDE7olPw",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Focuses on helping Founders & CEOs with sales through LinkedIn, indicating a growth role.",
+    "is_qualified": true
+  },
+  {
+    "name": "Antonio Moschetta",
+    "title": "Unisco ADS, CRO e AUTOMATION \u2192 per aziende e brand Ecommerce \ud83d\udcc8 \u2192 costruisco ecosistemi digitali scalabili \u2192 Porto ecommerce e progetti online a oltre 100k mese",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/antoniomoschetta",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "CRO and automation for eCommerce, suggesting a growth role in a technical capacity.",
+    "is_qualified": true
+  },
+  {
+    "name": "Ashutosh Mishra",
+    "title": "Elevating Experience",
+    "company": "Townships and Smart city Solutions",
+    "linkedin_url": "https://www.linkedin.com/in/272ashu",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 50,
+    "llm_reasoning": "Role in townships and smart city solutions, but lacks direct lead generation focus.",
+    "is_qualified": false
+  },
+  {
+    "name": "Brice Maurln",
+    "title": "CEO chez LGM",
+    "company": "Get more Replies with Multichannel Outbound.",
+    "linkedin_url": "https://www.linkedin.com/in/bricemaur",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 80,
+    "llm_reasoning": "CEO of a company focused on multichannel outbound, indicating a strong growth role.",
+    "is_qualified": true
+  },
+  {
+    "name": "Jani Vrancsik",
+    "title": "Enterprise Clay Partner agency founder",
+    "company": "Sales leaders: I'll help you build a scalable outbound engine that gets meetings booked on autopilot in the next 180 days | DM me \"outbound\" to learn more",
+    "linkedin_url": "https://www.linkedin.com/in/janivrancsik",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 75,
+    "llm_reasoning": "Founder of a Clay Enterprise Partner agency, indicating a role in lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Brigitta Ruha",
+    "title": "Clay Enterprise Partner",
+    "company": "I'll help you build a scalable outbound engine that gets meetings booked on autopilot in the next 180 days | Visit Youtube: @growth-today to see how",
+    "linkedin_url": "https://www.linkedin.com/in/brigittaruha",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 75,
+    "llm_reasoning": "Another Clay Enterprise Partner, indicating a role in lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Ranu Patel",
+    "title": "Helping B2B Coaches & Consultants in NYC & USA Land High-Ticket Clients without Paid Ads",
+    "company": "LinkedIn Authority, Local SEO, AI Automation | 15+ Years | DM \u201cGROW\u201d for Audit",
+    "linkedin_url": "https://www.linkedin.com/in/rashi-ranu-patel",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 70,
+    "llm_reasoning": "Helps B2B coaches and consultants land clients, indicating a growth role.",
+    "is_qualified": true
+  },
+  {
+    "name": "Krishan Singh",
+    "title": "Founder Digital Gravitas",
+    "company": "Master's Union| National Level Medalist | Lifelong learner",
+    "linkedin_url": "https://www.linkedin.com/in/krishan12-singh",
+    "engagement_type": "comment",
+    "source": "comment",
+    "llm_score": 50,
+    "llm_reasoning": "Founder of a digital company, but lacks clear lead generation focus or authority.",
+    "is_qualified": false
+  }
+]

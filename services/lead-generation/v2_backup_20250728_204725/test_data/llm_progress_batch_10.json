@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Abu Huraira Bin Aman",
+    "title": "Co-Founder and CTO @ ThriveDesk",
+    "company": "15+ Years Industry Experience",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAAwxM_kBhHsjsfGLIUTAlPjNI_FHefAh3sg",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "Co-Founder and CTO indicates a leadership role, likely involved in purchasing decisions, but not at the C-level.",
+    "is_qualified": true
+  },
+  {
+    "name": "Arushi Malviya",
+    "title": "Founder @Inizio Media",
+    "company": "Helping B2B Founders & CEOs fill their sales pipeline through content & DM outreach | Personal Brand-led business growth",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADX8CvUBd_6uiN4ltuKgjbrf8yTgRsqZXJI",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Founder role suggests involvement in decision-making for lead generation services, but primarily focused on content and outreach.",
+    "is_qualified": true
+  },
+  {
+    "name": "Charley Cash - AI Automation Specialist",
+    "title": "I Help Entrepreneurs Build An AI Sales Loop System\u2122 To Close Clients Predictably With Top Proven Sales Closers On A Commission Basis. We Have Scaled 300+ Businesses",
+    "company": "Book A FREE Game Plan Call Now! \ud83d\udc47\ud83d\udc47",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAA8UHEEBb-4gLXNyS7yPhiCVr8D1x0vymTg",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "AI Automation Specialist indicates a technical role that likely involves purchasing automation tools for sales systems.",
+    "is_qualified": true
+  },
+  {
+    "name": "Wajahat Mirza",
+    "title": "Book 10-30 B2B meetings every month just via LinkedIn messaging",
+    "company": "SalesRobot",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADWa1b8BPGPvgpBnGTJmiZlWKzyWoSpmz8I",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Role focused on booking B2B meetings suggests a growth role that actively purchases lead generation tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Max Mitcham",
+    "title": "Founder & CEO @Trigify.io - Contact based signals through social media",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABHm_G8B9sZV1wm8cLPGhiqQ_QPGpanNLSA",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Founder & CEO role indicates leadership, but the company focus is unclear; likely involved in purchasing decisions.",
+    "is_qualified": true
+  },
+  {
+    "name": "Ajay Pradeep S R",
+    "title": "Founder at AJ Ventures",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAAYuN1MBaU-AZIGEred3I7rW-_VBrsvnAT4",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 60,
+    "llm_reasoning": "Founder role, but lacking specific details on involvement with lead generation tools or B2B sales.",
+    "is_qualified": false
+  },
+  {
+    "name": "Boda Vishvjeet",
+    "title": "Facebook Ads Expert",
+    "company": "| Leads Generation || App Development || Website Development || Social Media Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADVTwj0BIGijVr7LM_7UeEPHVeG0zsOeHW8",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "Facebook Ads Expert role suggests service provision rather than decision-making authority for lead generation tools.",
+    "is_qualified": false
+  },
+  {
+    "name": "Kunal K.",
+    "title": "Lead Data Scientist @ Ahlstrom",
+    "company": "Gen AI | Agentic Systems | TUM & Aalto Alum",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABPi668BGRITYnN7fJmAevVs64R_Cnu83x4",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Lead Data Scientist indicates a technical role that may involve purchasing data tools, but not in a direct decision-making capacity.",
+    "is_qualified": true
+  },
+  {
+    "name": "Nayan Tehlani",
+    "title": "\ud83d\ude80 I Build AI-Powered Content & Growth Systems for Founders",
+    "company": "Manager @ Build The Brand",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAADxSKM0BwzAoFUfFmVQ5YEXc-D9iIM1-EXI",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Manager role focused on building AI-powered systems suggests involvement in growth strategies, likely purchasing tools.",
+    "is_qualified": true
+  },
+  {
+    "name": "Juliano Rodrigues",
+    "title": "Increase sales and reduce churn with AI agents & GTM strategies @Brandpage",
+    "company": "I share my learning journey in AI and Data Science. Follow me and let's grow together!",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACr86BcBfZlc9sV46MQJvN44lTl_Pam5uL8",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 65,
+    "llm_reasoning": "Role focused on sharing knowledge and strategies indicates a service-oriented position rather than a purchasing authority.",
+    "is_qualified": false
+  }
+]

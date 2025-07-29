@@ -1,0 +1,24 @@
+{
+  "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7340393305525911552",
+  "fetch_timestamp": "2025-07-28T00:01:54.832076",
+  "post_details": {
+    "post_url": "https://www.linkedin.com/feed/update/urn:li:activity:7340393305525911552",
+    "activity_id": "7340393305525911552",
+    "post_content": "[Post content would be fetched here]",
+    "post_type": "text",
+    "posted_date": "2025-07-28T00:02:49.738880",
+    "hashtags": [],
+    "mentions": [],
+    "influencer": {
+      "name": "LinkedIn Influencer",
+      "profile_url": "https://linkedin.com/in/influencer",
+      "followers": 50000,
+      "industry": "B2B Sales & Marketing"
+    }
+  },
+  "total_reactions": 0,
+  "total_comments": 0,
+  "total_engagement": 0,
+  "reactions": [],
+  "comments": []
+}

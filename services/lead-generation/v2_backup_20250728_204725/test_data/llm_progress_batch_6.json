@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Dipak Rana",
+    "title": "\ud83d\udcbc Freelancer",
+    "company": "\ud83d\ude80 Flutter Developer | \ud83d\udcf2 Building Cross-Platform Experiences | \u2728 Open to New Opportunities \u2728 | \ud83e\udd1d Business Development Enthusiast",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAC6PdSwBvZJ91asDwhb6QOc8I1wVr42aUc0",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 30,
+    "llm_reasoning": "Freelancer providing services, does not fit into higher tiers.",
+    "is_qualified": false
+  },
+  {
+    "name": "Mike Hays",
+    "title": "Ghostwriter & Messaging Strategist helping leaders achieve 70% opt-ins with a Microstory Journey using the 3-Minute Story Blueprint to build trust and convert hesitant prospects into eager customers.",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAALEyE4BKgx9dOwUkU7LkYJvben2xGNk1FE",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 35,
+    "llm_reasoning": "Ghostwriter and strategist, primarily a service provider.",
+    "is_qualified": false
+  },
+  {
+    "name": "Danyaal Abdullah",
+    "title": "Teenage brain wired for marketing, sales & human behavior",
+    "company": "I obsess over copy that converts, ideas that spread, and psychology that sells",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAD3LD2kB5bf4IAUjhVDdI76gC1GKhk_sGNs",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 25,
+    "llm_reasoning": "Service provider focused on copywriting, does not fit into higher tiers.",
+    "is_qualified": false
+  },
+  {
+    "name": "Piyush Hirpara",
+    "title": "Kreative Kopywriter",
+    "company": "LinkedIn\u2122 Ghostwriter for busy Founders, CEOs, and Coaches | Saving you time by writing your LI posts + growing your community with comments",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACw7VDcB31QKhW5np6Ra6HVQLwn8c2EX3b0",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 30,
+    "llm_reasoning": "Ghostwriter for executives, primarily a service provider.",
+    "is_qualified": false
+  },
+  {
+    "name": "Ruben Bisso",
+    "title": "Founder @mygaz.io",
+    "company": "I build products | AI-Powered Products",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAACQsm0QBPFCsI76XjUw1zdCYIoyjRnIsxg8",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "Founder of an AI product company, fits as a Tier 3 enterprise partner.",
+    "is_qualified": true
+  },
+  {
+    "name": "Allen M.",
+    "title": "Enmessara AI Agent & Automation",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAABvND4gBzjo5emPBf70kJ04PXZQCocCUGO4",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "AI agent and automation specialist, fits as a Tier 3 enterprise partner.",
+    "is_qualified": true
+  },
+  {
+    "name": "Sadaqat Hussain",
+    "title": "Student at The Islamia University of Bahawalpur",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAFn1MAgBJTs_JVhpp4EZ1cwZOIJ3PbXrQiY",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 20,
+    "llm_reasoning": "Student, does not fit into any professional tier.",
+    "is_qualified": false
+  },
+  {
+    "name": "Sami Ullah",
+    "title": "Go High Level (GHL) Expert",
+    "company": "CRM Automation Specialist | Helping Businesses Scale with GHL",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAFqOztIBttfOijqz14YhK9PStqgG-Kzv8i4",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 75,
+    "llm_reasoning": "CRM automation specialist, fits as a Tier 2 growth role.",
+    "is_qualified": true
+  },
+  {
+    "name": "Paul V.",
+    "title": "AI Infrastructure Expert \u2655 Transforming Enterprise Security at Scale \u2655 240,000+ Users Protected \u2655 Author",
+    "company": "",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAACRKpgBEWqrhpaBAadb5nQWH7N3JRFI3IY",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 85,
+    "llm_reasoning": "AI infrastructure expert with a focus on enterprise security, fits as a Tier 1 buyer.",
+    "is_qualified": true
+  },
+  {
+    "name": "Abdelhakim Essaiydy",
+    "title": "AI Automation Specialist",
+    "company": "Drive More Sales with AI Receptionists & Automation",
+    "linkedin_url": "https://www.linkedin.com/in/ACoAAC7GKMIBT1TFRrQm85NCNyNQ-QA7rgjF_Ys",
+    "engagement_type": "reaction",
+    "source": "reaction",
+    "llm_score": 70,
+    "llm_reasoning": "AI automation specialist, fits as a Tier 3 enterprise partner.",
+    "is_qualified": true
+  }
+]
