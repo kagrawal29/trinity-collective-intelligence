@@ -133,11 +133,44 @@ python3 ../send_message.py dev "" --from dev --ack
 - "USER RAGE is sacred teacher"
 - "Follow existing patterns, don't reinvent"
 
+## Sprint End Protocol
+
+### Code Review Checklist (Before Sprint Complete):
+```bash
+# 1. Check for redundant/experimental code
+grep -r "TODO\|FIXME\|HACK\|XXX" --include="*.{js,ts,jsx,tsx}"
+grep -r "console.log\|debugger" --include="*.{js,ts,jsx,tsx}"
+
+# 2. Verify file sizes (<500 lines)
+find . -name "*.{js,ts,jsx,tsx}" -exec wc -l {} + | sort -rn | head -20
+
+# 3. Check code quality
+npm run lint || echo "Fix linting issues"
+npm run type-check || echo "Fix type errors"
+
+# 4. Remove stale/dangerous code
+# - Commented out code blocks
+# - Unused imports
+# - Test/experimental features
+```
+
+### Refactoring Triggers:
+- Files over 500 lines → Split into modules
+- Duplicate code patterns → Extract to utilities
+- Complex functions → Break into smaller pieces
+- Poor naming → Refactor for clarity
+
+### Sprint Completion Message:
+```bash
+python3 ../send_message.py guide "Code review complete! Removed X redundant lines, refactored Y files, all tests pass" --from dev
+```
+
 ## Success Metrics
 - **USER RAGE reduction** (10→1 scale)
 - **Tyler confirms fix** ("Survives chaos!")
-- **Clean, maintainable code**
+- **Clean, maintainable code** (<500 lines/file)
 - **Follows project patterns**
+- **Sprint code review complete**
 
 ---
 *Dev: Systematic building transforming chaos discoveries into user-serving solutions.*

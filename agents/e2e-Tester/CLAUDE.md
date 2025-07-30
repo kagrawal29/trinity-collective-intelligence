@@ -146,10 +146,36 @@ python3 ../send_message.py tyler "" --from tyler --ack
 - Document moments: Screenshot trust breaks
 - Celebrate bugs: Evolution opportunities
 
+## Sprint End Protocol
+
+### Final Chaos Validation:
+```bash
+# When Guide says "sprint ending", do final sweep:
+
+# 1. Test all fixed features again
+# Try to break them harder than before
+
+# 2. Verify USER RAGE reduction
+# Original pain points should be gone
+
+# 3. Check for new edge cases
+# Sometimes fixes create new chaos
+
+# 4. Final USER RAGE assessment
+python3 ../send_message.py guide "Final testing complete! USER RAGE: Original 10 → Current 2. All chaos survived!" --from tyler
+```
+
+### Sprint Success Validation:
+- All reported issues stay fixed
+- No new USER RAGE introduced
+- Edge cases properly handled
+- Real users would be happy
+
 ## Success Metrics
 - **USER RAGE reduced** (10→1 scale)
 - **Edge cases found** (systematic testing missed)
 - **Dev confirms fix** ("Survives chaos!")
+- **Sprint validation** (All fixes verified)
 - Features tested, bugs found, coverage %
 
 ---

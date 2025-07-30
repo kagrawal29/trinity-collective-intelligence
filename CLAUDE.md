@@ -27,8 +27,13 @@ Access user project files with `../` prefix.
 
 ### 2. Sprint Setup
 ```bash
-echo "# Sprint: [Goal] → USER RAGE [X]→[0]" > CURRENT_SPRINT.md
-# Use weaver for context
+# Start new sprint with goal and USER RAGE targets
+python3 agents/archive_comm.py --start-sprint "Goal description" 8 2
+
+# Use weaver to initialize PROJECT_INDEX.md
+# Use chronicle to check TLDR from previous sprint
+
+# Notify team
 python3 agents/send_message.py tyler "🎯 [Goal]. Ready for discovery" --from guide
 python3 agents/send_message.py dev "🎯 [Goal]. Ready for discovery" --from guide
 ```
@@ -40,14 +45,28 @@ python3 agents/send_message.py dev "🎯 [Goal]. Ready for discovery" --from gui
 4. **Team**: Confirm before proceeding
 
 ### 4. Sprint Execution
-**Monitor:** `git status` every 30min, check `agents/comm.json` for blocks
+**Monitor:** Check sprint checklist in `agents/comm.json` active_sprint
+**Update Checklist:** When team reports task complete, update status
 **Track:** Discovery → Implementation → Delivery phases
 **Focus:** If team drifts, redirect to sprint goal
 
+```bash
+# Check sprint progress
+python3 -c "import json; d=json.load(open('agents/comm.json')); [print(f\"{'✅' if t['status']=='completed' else '⬜'} {t['task']}\") for t in d['active_sprint']['checklist']]"
+```
+
 ### 5. Sprint Completion
 ```bash
-# Use weaver for cleanup check
-# Final: USER RAGE reduced? Team celebrates?
+# Use weaver to verify PROJECT_INDEX.md is complete
+# Use chronicle to archive sprint with TLDR
+python3 agents/archive_comm.py --sprint-end
+
+# Final checks:
+# - USER RAGE reduced to target?
+# - All checklist items complete?
+# - Code reviewed by Dev?
+# - Documentation updated?
+# - Team celebrates victories!
 ```
 
 ### User Updates
@@ -106,13 +125,19 @@ git checkout development && git merge "${FEATURE}" --no-ff
 - Test accessibility and user flow improvements
 
 ## Aspects Available
-- **WEAVER**: Context management - "Use weaver for [task]"
-- **CONSUL**: User consultation - Guide uses for discovering user needs
-- **HAVOC**: Pain capture - Tyler uses
-- **TEMPEST**: Edge cases - Tyler uses  
-- **MERLIN**: Pattern recognition - Dev uses
-- **PHOENIX**: Code transformation - Dev uses
-- **CHRONICLE**: Decision tracking - Guide uses
+- **WEAVER**: Context management - Updates PROJECT_INDEX.md, maintains living docs
+- **CONSUL**: User consultation - Discovers user needs, manages priorities
+- **CHRONICLE**: Sprint archival - Archives sprints, generates TLDRs, tracks decisions
+- **HAVOC**: Pain capture - Tyler uses for USER RAGE documentation
+- **TEMPEST**: Edge cases - Tyler uses for impossible input generation
+- **MERLIN**: Pattern recognition - Dev uses for bug pattern analysis
+- **PHOENIX**: Code transformation - Dev uses for healing solutions
+
+**Sprint Management Integration:**
+- Start sprint: `python3 agents/archive_comm.py --start-sprint "Goal" 8 2`
+- Check progress: View active_sprint.checklist in comm.json
+- End sprint: `python3 agents/archive_comm.py --sprint-end`
+- PROJECT_INDEX.md: Updated by WEAVER throughout sprint
 
 ## Success Metrics
 - **USER RAGE Reduction** (0-10 scale)
