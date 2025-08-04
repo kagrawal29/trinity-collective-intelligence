@@ -23,54 +23,76 @@ Trinity now features **advanced multi-agent orchestration** with:
 
 Perfect for building **LangGraph projects** with true multi-agent collaboration.
 
-## ⚡ Quick Start (2 minutes)
+## ⚡ One-Command Setup (30 seconds)
 
 ### 1. Install Claude Code
 ```bash
 npm install -g @anthropics-ai/claude-code
 ```
 
-### 2. Clone Trinity Multi-Agent Evolution
+### 2. Add Trinity to Your Project (One Command!)
 ```bash
-# Navigate to your project
+# Navigate to your LangGraph project
 cd your-langgraph-project
 
-# Clone the multi-agent branch
-git clone -b trinity-evolution https://github.com/kagrawal29/trinity-collective-intelligence.git trinity
-
-# OR download directly
-curl -L https://github.com/kagrawal29/trinity-collective-intelligence/archive/trinity-evolution.zip -o trinity.zip
-unzip trinity.zip && mv trinity-collective-intelligence-trinity-evolution trinity && rm trinity.zip
+# Run Trinity setup (downloads, configures, and integrates)
+curl -sSL https://raw.githubusercontent.com/kagrawal29/trinity-collective-intelligence/trinity-langgraph-integration/trinity-setup.sh | bash
 ```
 
-### 3. Open 3 Terminals
+**That's it!** Trinity is now integrated into your project and will evolve with it.
 
-**Terminal 1 - Guide (Orchestrator)**
+### 3. Start Trinity (3 Terminals)
+
 ```bash
-cd your-project/trinity
-claude
+# Run the generated helper script for exact instructions
+./start-trinity.sh
 ```
 
-**Terminal 2 - Tyler (Chaos Hunter)**  
+**⚠️ CRITICAL: Start Claude from the correct directories for proper context:**
+
+**Terminal 1 - Guide (Your Project Root)**
 ```bash
-cd your-project/trinity/agents/e2e-Tester
-claude
+# Must be in your project root directory
+pwd                    # Should show: /path/to/your-project
+ls CLAUDE.md          # Should exist (Guide's configuration)
+ls .claude/agents/    # Should exist (Guide's sub-agents)
+claude                # Start Guide with full project context
 ```
 
-**Terminal 3 - Dev (Systematic Builder)**
+**Terminal 2 - Tyler (Chaos Testing)**  
 ```bash
-cd your-project/trinity/agents/dev
-claude
+# Must be in Tyler's directory for proper agent context
+cd trinity/agents/e2e-Tester
+pwd                   # Should show: /path/to/your-project/trinity/agents/e2e-Tester
+ls CLAUDE.md         # Should exist (Tyler's configuration)
+ls .claude/agents/   # Should exist (Tyler's sub-agents)
+claude               # Start Tyler with testing context
 ```
 
-### 4. Start Using Trinity
-
-In **Guide terminal**, say:
+**Terminal 3 - Dev (Architecture)**
+```bash
+# Must be in Dev's directory for proper agent context
+cd trinity/agents/dev
+pwd                  # Should show: /path/to/your-project/trinity/agents/dev
+ls CLAUDE.md        # Should exist (Dev's configuration)
+ls .claude/agents/  # Should exist (Dev's sub-agents)
+claude              # Start Dev with architecture context
 ```
-"I need help with [your problem]. Current USER RAGE is [1-10]. Let's fix this!"
+
+**Why Directory Context Matters:**
+- ✅ Guide sees your entire project and can manage git
+- ✅ Each agent loads their specific CLAUDE.md configuration
+- ✅ Sub-agents are accessible via .claude/agents/ in each directory
+- ✅ Proper relative paths for file access and communication
+
+### 4. Start Your First Sprint
+
+In **Guide terminal** (project root), say:
+```
+"Let's build a customer service bot with LangGraph. Tyler: test the conversation flow. Dev: implement resilient nodes."
 ```
 
-**That's it!** Trinity is now working on YOUR project. 🚀
+**Trinity is now orchestrating your LangGraph development!** 🚀
 
 ## 🎯 How It Works
 

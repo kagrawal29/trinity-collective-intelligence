@@ -13,21 +13,24 @@ Advanced multi-agent orchestration system for LangGraph projects featuring:
 
 ## Core System Architecture
 
-### Main Agents
+### Main Agents (After Setup)
 1. **Guide** (Strategic Orchestrator)
-   - Location: `/trinity/CLAUDE.md`
-   - Role: Orchestration, sprint management, team coordination
-   - Sub-agents: harmony-checker, cycle-enforcer, behavior-updater, git-keeper, sprint-conductor, consul, chronicle
+   - Location: `PROJECT_ROOT/CLAUDE.md` (runs from your project root)
+   - Sub-agents: `PROJECT_ROOT/.claude/agents/` (harmony-checker, cycle-enforcer, etc.)
+   - Role: Project git management, sprint coordination, team orchestration
+   - Context: Full project access, manages your LangGraph code
 
 2. **Tyler** (Chaos Testing Expert)
-   - Location: `/trinity/agents/e2e-Tester/CLAUDE.md`
-   - Role: Edge case discovery, failure analysis, stress testing
-   - Sub-agents: edge-generator, failure-capturer, test-documenter
+   - Location: `trinity/agents/e2e-Tester/CLAUDE.md`
+   - Sub-agents: `trinity/agents/e2e-Tester/.claude/agents/`
+   - Role: Edge case discovery, state machine testing, failure analysis
+   - Context: Can access project files via relative paths
 
 3. **Dev** (Architecture Specialist)
-   - Location: `/trinity/agents/dev/CLAUDE.md`
-   - Role: Pattern analysis, node building, code transformation
-   - Sub-agents: pattern-analyzer, node-builder, phoenix
+   - Location: `trinity/agents/dev/CLAUDE.md`
+   - Sub-agents: `trinity/agents/dev/.claude/agents/`
+   - Role: Node construction, pattern analysis, architecture building
+   - Context: Can access project files via relative paths
 
 ### Communication Infrastructure
 
@@ -122,11 +125,21 @@ done
 - **Edge Case Discovery**: Tyler's chaos testing finds issues early
 - **Pattern Analysis**: Dev identifies reusable patterns
 
-### Setup for Your LangGraph Project:
-1. Clone Trinity into your project directory
-2. Open 3 terminals for Guide, Tyler, and Dev
-3. Start orchestration cycle
-4. Trinity will coordinate work on your LangGraph components
+### Setup for Your LangGraph Project (One Command):
+```bash
+cd your-project
+curl -sSL https://raw.githubusercontent.com/kagrawal29/trinity-collective-intelligence/trinity-langgraph-integration/trinity-setup.sh | bash
+```
+
+**What the setup does:**
+1. Downloads Trinity into `trinity/` subdirectory
+2. Moves Guide's `CLAUDE.md` to project root
+3. Moves Guide's sub-agents to `.claude/agents/`
+4. Updates all paths for proper integration
+5. Creates `start-trinity.sh` helper script
+6. Configures `.gitignore` for dynamic files only
+
+**Result: Trinity becomes part of your project and evolves with it**
 
 ### Benefits:
 - Automatic state validation through chaos testing
