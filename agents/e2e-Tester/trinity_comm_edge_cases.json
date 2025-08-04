@@ -1,0 +1,267 @@
+{
+  "scenario_type": "trinity_communication_chaos_scenarios",
+  "generated_by": "edge-generator",
+  "target_system": "Trinity Communication System (post-Tyler restart)",
+  "test_categories": [
+    {
+      "category": "message_corruption_boundaries",
+      "priority": "critical",
+      "test_cases": [
+        {
+          "name": "json_precision_boundary",
+          "input": {
+            "timestamp": 1754289744.0000000001,
+            "message": "Test message with extreme precision timestamp"
+          },
+          "expected_chaos": "timestamp_precision_loss",
+          "why_problematic": "Float precision loss in JSON serialization could corrupt message ordering",
+          "test_command": "python3 send_message.py tyler 'Precision test' --from guide"
+        },
+        {
+          "name": "unicode_boundary_corruption",
+          "input": {
+            "message": "Test with unicode: \u2705\ud83d\udd0d\u26a0\ufe0f and null bytes: \u0000\u0001\u0002"
+          },
+          "expected_chaos": "json_encoding_failure",
+          "why_problematic": "Unicode and control characters can break JSON parsing during restart recovery",
+          "test_command": "python3 send_message.py dev 'Unicode\\u0000test' --from tyler"
+        },
+        {
+          "name": "message_size_boundary",
+          "input": {
+            "message": "A" * 65537
+          },
+          "expected_chaos": "memory_exhaustion",
+          "why_problematic": "Large messages could exhaust memory during atomic write operations",
+          "test_command": "python3 -c \"print('A' * 65537)\" | xargs python3 send_message.py guide"
+        },
+        {
+          "name": "nested_json_injection",
+          "input": {
+            "message": "{\"malicious\": \"payload\", \"ack\": true, \"ts\": 9999999999}"
+          },
+          "expected_chaos": "json_structure_corruption",
+          "why_problematic": "Message content could be interpreted as JSON structure, corrupting comm.json",
+          "test_command": "python3 send_message.py tyler '{\"inject\": true}' --from guide"
+        }
+      ]
+    },
+    {
+      "category": "race_condition_vulnerabilities", 
+      "priority": "high",
+      "test_cases": [
+        {
+          "name": "concurrent_file_write_race",
+          "input": {
+            "scenario": "Multiple agents sending messages simultaneously during restart",
+            "agents": ["tyler", "dev", "guide"],
+            "message_burst": 10
+          },
+          "expected_chaos": "file_lock_contention",
+          "why_problematic": "Tyler restart timing could create race conditions with other agents",
+          "test_command": "for i in {1..10}; do python3 send_message.py tyler \"Race $i\" --from guide & done"
+        },
+        {
+          "name": "lock_file_corruption_race",
+          "input": {
+            "scenario": "Lock file deleted during message send operation"
+          },
+          "expected_chaos": "atomic_write_failure",
+          "why_problematic": "Lock file corruption during restart could leave comm.json in inconsistent state",
+          "test_command": "rm .comm.lock && python3 send_message.py tyler 'Lock test' --from guide"
+        },
+        {
+          "name": "cycle_state_race_condition",
+          "input": {
+            "scenario": "Cycle close during message send"
+          },
+          "expected_chaos": "cycle_state_corruption",
+          "why_problematic": "Tyler's cycle operations could interfere with message system during restart",
+          "test_command": "python3 cycle_comm.py tyler --start 'Test cycle' && python3 send_message.py tyler 'During cycle' --from guide"
+        }
+      ]
+    },
+    {
+      "category": "rate_limiting_edge_cases",
+      "priority": "high", 
+      "test_cases": [
+        {
+          "name": "rate_limit_boundary_precision",
+          "input": {
+            "messages_in_window": 20,
+            "time_window": 299.999
+          },
+          "expected_chaos": "rate_limit_bypass",
+          "why_problematic": "Floating point precision in time window could allow rate limit bypass",
+          "test_command": "for i in {1..21}; do python3 send_message.py tyler \"Rate $i\" --from guide; sleep 0.01; done"
+        },
+        {
+          "name": "duplicate_detection_edge",
+          "input": {
+            "messages": [
+              "Duplicate message",
+              "Duplicate message ",
+              "Duplicate message\n"
+            ]
+          },
+          "expected_chaos": "duplicate_loop_bypass",
+          "why_problematic": "Whitespace variations could bypass duplicate message detection",
+          "test_command": "python3 send_message.py tyler 'Dup' --from guide && python3 send_message.py tyler 'Dup ' --from guide"
+        },
+        {
+          "name": "system_clock_manipulation",
+          "input": {
+            "scenario": "System clock jumps backward during rate limiting check"
+          },
+          "expected_chaos": "rate_limit_calculation_error",
+          "why_problematic": "Clock changes during restart could break rate limiting calculations",
+          "test_command": "# Requires system clock manipulation - theoretical test case"
+        }
+      ]
+    },
+    {
+      "category": "recovery_scenario_vulnerabilities",
+      "priority": "critical",
+      "test_cases": [
+        {
+          "name": "partial_json_recovery",
+          "input": {
+            "corrupted_json": "{\"messages\": [incomplete"
+          },
+          "expected_chaos": "recovery_infinite_loop",
+          "why_problematic": "Partial JSON corruption during restart could create unrecoverable state",
+          "test_command": "echo '{\"messages\": [incomplete' > comm.json && python3 send_message.py tyler 'Recovery test' --from guide"
+        },
+        {
+          "name": "signal_file_race_condition",
+          "input": {
+            "scenario": "Multiple corruption signals created simultaneously"
+          },
+          "expected_chaos": "signal_file_corruption",
+          "why_problematic": "Multiple agents detecting corruption simultaneously could corrupt signal file",
+          "test_command": "touch .json_corrupted && python3 send_message.py tyler 'Signal race' --from guide"
+        },
+        {
+          "name": "metadata_version_mismatch",
+          "input": {
+            "comm_json": {
+              "messages": [],
+              "metadata": {"version": "999.0.0-future"}
+            }
+          },
+          "expected_chaos": "version_compatibility_failure",
+          "why_problematic": "Version mismatches during restart could cause compatibility issues",
+          "test_command": "# Requires manual comm.json modification"
+        }
+      ]
+    },
+    {
+      "category": "agent_coordination_chaos",
+      "priority": "high",
+      "test_cases": [
+        {
+          "name": "cycle_id_collision",
+          "input": {
+            "scenario": "Two agents create cycles with same timestamp"
+          },
+          "expected_chaos": "cycle_state_confusion",
+          "why_problematic": "Cycle ID generation using timestamp could create collisions during restart",
+          "test_command": "python3 cycle_comm.py tyler --start 'Test 1' && python3 cycle_comm.py dev --start 'Test 2'"
+        },
+        {
+          "name": "acknowledgment_race",
+          "input": {
+            "scenario": "Message acknowledged while being processed"
+          },
+          "expected_chaos": "message_processing_loop",
+          "why_problematic": "Tyler restart could create timing issues with message acknowledgment",
+          "test_command": "python3 send_message.py tyler 'Ack test' --from guide && python3 send_message.py tyler '' --from tyler --ack"
+        },
+        {
+          "name": "sprint_state_desync",
+          "input": {
+            "scenario": "Sprint metadata updated during agent restart"
+          },
+          "expected_chaos": "sprint_coordination_failure",
+          "why_problematic": "Active sprint state could become inconsistent during Tyler restart",
+          "test_command": "# Requires sprint metadata manipulation during restart"
+        }
+      ]
+    },
+    {
+      "category": "file_system_chaos",
+      "priority": "medium",
+      "test_cases": [
+        {
+          "name": "disk_space_exhaustion",
+          "input": {
+            "scenario": "Disk full during atomic write operation"
+          },
+          "expected_chaos": "partial_write_corruption",
+          "why_problematic": "Disk space issues during restart could leave temp files and corrupt state",
+          "test_command": "# Requires disk space manipulation - theoretical test case"
+        },
+        {
+          "name": "permission_boundary",
+          "input": {
+            "scenario": "File permissions changed during restart"
+          },
+          "expected_chaos": "permission_denial_loop",
+          "why_problematic": "Permission changes could prevent recovery after restart",
+          "test_command": "chmod 444 comm.json && python3 send_message.py tyler 'Permission test' --from guide"
+        },
+        {
+          "name": "symlink_attack",
+          "input": {
+            "scenario": "comm.json replaced with symlink to sensitive file"
+          },
+          "expected_chaos": "data_leakage",
+          "why_problematic": "Symlink attacks could redirect communication to unintended files",
+          "test_command": "# Security test - requires careful setup"
+        }
+      ]
+    }
+  ],
+  "execution_priority_order": [
+    "message_corruption_boundaries",
+    "recovery_scenario_vulnerabilities", 
+    "race_condition_vulnerabilities",
+    "rate_limiting_edge_cases",
+    "agent_coordination_chaos",
+    "file_system_chaos"
+  ],
+  "chaos_patterns_discovered": [
+    "Float precision loss in timestamps creates ordering vulnerabilities",
+    "Unicode control characters can break JSON structure validation",
+    "Rate limiting window calculations vulnerable to timing attacks",
+    "Atomic write operations have race conditions with lock file management",
+    "Cycle ID generation using timestamps creates collision potential",
+    "Recovery signal mechanism has race conditions with multiple corruption detections"
+  ],
+  "recommended_failure_capturer_tests": [
+    {
+      "test_name": "unicode_corruption_during_restart",
+      "command": "python3 send_message.py tyler 'Test\\u0000with\\u0001nulls' --from guide",
+      "expected_failure": "JSON encoding error with signal file creation"
+    },
+    {
+      "test_name": "concurrent_message_burst_during_cycle",
+      "command": "python3 cycle_comm.py tyler --start 'Burst test' && for i in {1..5}; do python3 send_message.py tyler \"Burst $i\" --from guide & done",
+      "expected_failure": "File lock contention or message ordering corruption"
+    },
+    {
+      "test_name": "rate_limit_precision_bypass",
+      "command": "for i in {1..25}; do python3 send_message.py tyler \"Spam $i\" --from guide; sleep 0.001; done",
+      "expected_failure": "Rate limit bypass due to timing precision issues"
+    }
+  ],
+  "chaos_metrics": {
+    "total_scenarios": 18,
+    "critical_priority": 6,
+    "high_priority": 8,
+    "medium_priority": 4,
+    "vulnerability_categories": 6,
+    "race_conditions_identified": 5,
+    "boundary_conditions_identified": 8
+  }
+}

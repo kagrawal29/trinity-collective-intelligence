@@ -1,0 +1,45 @@
+decision:
+  id: "DEC-2025-0804-001"
+  timestamp: "2025-08-04T10:00:00Z"
+  context: "Guide caught preaching always-on behavior while failing to maintain own status reporting loops"
+  decision: "Implement immediate self-accountability protocols for leadership consistency"
+  
+accountability_lesson:
+  what_went_wrong:
+    - "Guide demanded always-on status reporting from team"
+    - "Guide failed to follow own protocols - theory vs practice gap"
+    - "User noticed inconsistency between demands and behavior"
+    - "Leadership credibility compromised by hypocrisy"
+  
+  how_corrected:
+    - "Immediate acknowledgment of failure to user"
+    - "Implemented real-time status reporting: 'consul provided strategic analysis → found alignment gaps'"
+    - "Began modeling the behavior demanded from team"
+    - "Created visibility into sub-agent orchestration"
+  
+  leadership_lesson:
+    core_principle: "Leaders must model the behavior they demand"
+    insight: "Team trust erodes when leaders don't follow their own rules"
+    action: "Always-on accountability applies FIRST to leadership, then to team"
+    verification: "User feedback is the ultimate accountability check"
+  
+  impact:
+    team_dynamics: "Trust restored through immediate correction and transparency"
+    credibility: "Leadership integrity maintained by owning mistakes"
+    protocol_change: "All leadership demands now include self-verification"
+    future_prevention: "Regular self-audits against stated principles"
+
+wisdom_extracted:
+  quote: "You cannot demand what you do not demonstrate"
+  application: "Every protocol must be leader-verified before team-required"
+  warning_signs:
+    - "Preaching behavior not personally practiced"
+    - "Team confusion about inconsistent standards"
+    - "User frustration with leadership gaps"
+
+verification:
+  user_feedback: "Critical learning moment captured"
+  team_notice: "Guide now reports sub-agent orchestration activity"
+  protocol_updated: "Self-accountability loops implemented"
+  
+status: "lesson_documented_and_implemented"
